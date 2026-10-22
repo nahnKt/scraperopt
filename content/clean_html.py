@@ -71,8 +71,9 @@ def fix_link_targets(soup: BeautifulSoup) -> None:
             link["href"] = "#" + mapping[href[1:]]
 
 
-def clean_html(html) -> str:
+def clean_html(html: str) -> str:
     soup = BeautifulSoup(html, "html.parser")
+    fix_link_targets(soup)
     for tag in soup.find_all(["span", "font"]):
         tag.unwrap()
 

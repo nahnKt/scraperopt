@@ -1,7 +1,7 @@
-import time
 import requests
 
 BASE_URL = "https://support.optisigns.com/api/v2/help_center/en-us/articles.json"
+NUMBER_OF_ARTICLES_PER_PAGE = 100
 
 
 def fetch_articles(url):
@@ -10,10 +10,10 @@ def fetch_articles(url):
     return response.json()
 
 
-def fetch_all_articles(paramUrl, paramPerPage, paramLimit):
+def fetch_all_articles(paramUrl, paramPerPage):
     articles = []
     url = paramUrl + "?per_page=" + str(paramPerPage)
-    while url and len(articles) < paramLimit:
+    while url:
         data = fetch_articles(url)
         articles.extend(data["articles"])
         print("Da lay", len(articles), "/", data["count"])
@@ -22,10 +22,4 @@ def fetch_all_articles(paramUrl, paramPerPage, paramLimit):
 
 
 if __name__ == "__main__":
-    start_time = time.time()
-    articles = fetch_all_articles(BASE_URL, 100, 10)
-    end_time = time.time()
-    first = articles[0]
-    with open("tests/scraper/article_body.html", "w", encoding="utf-8") as f:
-        f.write(first["body"])
-    print("Da luu :", first["title"])
+    articles = fetch_all_articles(BASE_URL, NUMBER_OF_ARTICLES_PER_PAGE)
