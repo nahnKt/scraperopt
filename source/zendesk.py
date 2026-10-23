@@ -12,14 +12,16 @@ def fetch_articles(url):
 
 def fetch_all_articles(paramUrl, paramPerPage):
     articles = []
+    totalCount = 0
     url = paramUrl + "?per_page=" + str(paramPerPage)
     while url:
         data = fetch_articles(url)
         articles.extend(data["articles"])
-        print("Da lay", len(articles), "/", data["count"])
+        totalCount = data["count"]
+        print("Da lay", len(articles), "/", totalCount)
         url = data["next_page"]
-    return articles
+    return articles, totalCount
 
 
 if __name__ == "__main__":
-    articles = fetch_all_articles(BASE_URL, NUMBER_OF_ARTICLES_PER_PAGE)
+    articles, totalCount = fetch_all_articles(BASE_URL, NUMBER_OF_ARTICLES_PER_PAGE)
