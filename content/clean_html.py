@@ -3,6 +3,7 @@ import re
 
 KEEP_ATTRS = {"href", "src", "alt"}
 HEADINGS = ["h1", "h2", "h3", "h4", "h5", "h6"]
+CALLOUT_LABELS = {"NOTE", "TIP", "WARNING", "IMPORTANT", "CAUTION"}
 
 
 def slugify(text: str) -> str:
@@ -71,9 +72,38 @@ def fix_link_targets(soup: BeautifulSoup) -> None:
             link["href"] = "#" + mapping[href[1:]]
 
 
+def clean_callouts(soup: BeautifulSoup) -> None:
+    for table in soup.find_all("table"):
+        rows = table.find_all("tr")
+        if len(rows) != 2:
+            continue
+
+        label = rows[0].get_text(strip=True).upper().rstrip(":")
+        if label not in CALLOUT_LABELS:
+            continue
+
+        bodyCell = rows[1].find(["td", "th"])
+        if bodyCell is None:
+            continue
+
+        quote = soup.new_tag("blockquote")
+        title = soup.new_tag("strong")
+        title.string = label + ":"
+        quote.append(title)
+        quote.append(" ")
+        for child in list(bodyCell.contents):
+            quote.append(child)
+
+        if table.parent is not None and table.parent.name == "figure":
+            table.parent.replace_with(quote)
+        else:
+            table.replace_with(quote)
+
+
 def clean_html(html: str) -> str:
     soup = BeautifulSoup(html, "html.parser")
     fix_link_targets(soup)
+    clean_callouts(soup)
     for tag in soup.find_all(["span", "font"]):
         tag.unwrap()
 
