@@ -7,7 +7,7 @@ If you want to craft visually appealing and professional designs, achieving pixe
 
 In this article, we'll guide you on using coordinates to accurately place and size elements on your canvas.
 
-# **Ready to get started? Then, let's jump in:**
+# Ready to get started? Then, let's jump in:
 
 - Go to **Designer** App by going to your Files/Assets page → Apps
 
@@ -35,10 +35,10 @@ Under the **Advanced** section, you will see the following options:
   - You can input a numerical value to specify how wide the element should be.
 - **Height** - This option allows you to set the vertical size of the selected element.
   - By entering a numerical value, you determine how tall the element should be.
-- **Maintain Aspect Ratio link (for images or graphical elements only)** - This feature is a convenient tool for maintaining the original proportions of the selected element while adjusting its width and height.
+- **Maintain Aspect Ratio link (for images or graphical elements only)** - This feature is a convenient tool for maintaining the original proportions of the selected element while adjusting its width and height.
   - When activated (with the link set to "Vertical," as shown above), changing one dimension (width or height) will automatically adjust the other dimension to preserve the aspect ratio.
   - This ensures that the element doesn't become distorted when resized.
 
-## **That's all!**
+## That's all!
 
 If you have any additional questions, concerns, or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)

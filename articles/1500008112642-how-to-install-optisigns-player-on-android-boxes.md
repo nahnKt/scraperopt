@@ -11,15 +11,15 @@ If you're not in the region where OptiSigns Players are available, we recommend 
 
 There are many Android boxes on the market and their quality varies, software, system updates also varies, so please test before you use. Note that if manufacturers push updates, you may need to test it again in the future.
 
-## **Here are the high-level steps:**
+## Here are the high-level steps:
 
 1) Download & Set up OptiSigns Digital Signage App in your Android Stick.  
   
 2) Using OptiSigns's web portal to assign content and manage your screens
 
-### **1) Download & Set up OptiSigns Digital Signage from Play Store**
+### 1) Download & Set up OptiSigns Digital Signage from Play Store
 
-Press the Play Store button on the Android Stick,
+Press the Play Store button on the Android Stick,
 
 ![mceclip0.png](https://support.optisigns.com/hc/article_attachments/5539383668243)
 
@@ -42,7 +42,7 @@ You then will see this pairing screen:
 
 ![mceclip1.png](https://support.optisigns.com/hc/article_attachments/26398783267091)
 
-Go to our website: [https://app.optisigns.com](https://app.optisigns.com/app/screenManagement)
+Go to our website: [https://app.optisigns.com](https://app.optisigns.com/app/screenManagement)
 
 If you don't have an account already, create one, or you can also log in with Google or Facebook account.
 
@@ -62,7 +62,7 @@ The Android TV screen will change to:
 
 Now you are ready to upload and assign content.
 
-### **2) Using OptiSigns's web portal to assign content and remotely manage your screens**
+### 2) Using OptiSigns's web portal to assign content and remotely manage your screens
 
 Once you go to our portal at: <https://app.optisigns.com/>to pair the screen and start assigning content to it, you can follow these guides for more detailed steps:
 
@@ -70,4 +70,4 @@ Once you go to our portal at: <https://app.optisigns.com/>to pair the screen and
 - [How to Create & Use Playlists](https://support.optisigns.com/hc/en-us/articles/28295104605843)
 - [Create and Using Schedules with OptiSigns](https://support.optisigns.com/hc/en-us/articles/360016981853)
 
-If you have feedback on how to make the how-to guides better, please let us know at: [support@optisigns.com](mailto:support@optisigns.com)
+If you have feedback on how to make the how-to guides better, please let us know at: [support@optisigns.com](mailto:support@optisigns.com)

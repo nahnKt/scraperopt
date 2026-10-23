@@ -41,15 +41,14 @@ This article will be going over each of the tabs on the left of the screen in de
 
 Clicking on any device on the list will open up a more in-depth field on the right of the screen.
 
-|  |
-| --- |
-| **IMPORTANT NOTE** |
-| Significantly more information is available for OptiSigns Devices (the OptiStick, Pro Player, or ProMax Player) as opposed to others. Please see the image below for an example of this. |
+> **IMPORTANT NOTE**
+>
+> Significantly more information is available for OptiSigns Devices (the OptiStick, Pro Player, or ProMax Player) as opposed to others. Please see the image below for an example of this.
 
 |  |  |
 | --- | --- |
 | **OptiSigns Devices** | **Other Devices** |
-| Device panel for an OptiSigns device, showing remote command buttons and the Overview tab | Device panel for a non-OptiSigns device, showing Device Info only |
+| ![Device panel for an OptiSigns device, showing remote command buttons and the Overview tab](https://support.optisigns.com/hc/article_attachments/53496976220307) | ![Device panel for a non-OptiSigns device, showing Device Info only](https://support.optisigns.com/hc/article_attachments/53496976224787) |
 
 Non-OptiSigns devices are still able to see Device Info and the Activity Tabs. For the purposes of this article, we will assume you are using an OptiSigns device, and go over each area in turn.
 
@@ -121,7 +120,9 @@ Any relevant Enterprise WiFi information will be put here.
 
 #### Content
 
-> **NOTE:** Only available on OptiSigns devices.
+> **NOTE**
+>
+> Only available on OptiSigns devices.
 
 ![Content tab showing a screenshot of the screen, Now playing and Player details](https://support.optisigns.com/hc/article_attachments/53507207857555)
 
@@ -150,7 +151,9 @@ Here, you can see every change made to any individual device from within OptiSig
 
 #### Troubleshooting
 
-> **NOTE:** Only available on OptiSigns devices.
+> **NOTE**
+>
+> Only available on OptiSigns devices.
 
 The **Troubleshooting** tab will allow an AI agent to SSH into your device and troubleshoot any problems by hitting **Start Session**.
 

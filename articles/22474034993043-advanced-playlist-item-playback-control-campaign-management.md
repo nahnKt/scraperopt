@@ -3,7 +3,9 @@
 Article URL: https://support.optisigns.com/hc/en-us/articles/22474034993043-Advanced-Playlist-Item-Playback-Control-Campaign-Management
 Last updated: 2025-10-10
 
-> **NOTE:** This feature is available to **Pro Plus**subscribers or higher.
+> **NOTE**
+>
+> This feature is available to **Pro Plus**subscribers or higher.
 
 OptiSigns includes playlist settings for you to control playlist item playback. This allows you granular control, and lets you control the item playback in a specific way.
 
@@ -11,13 +13,13 @@ For example, if you have an advertising need, you may want to have the sub-playl
 
 There are 5 advanced settings we will cover in this document:
 
-1. **Sub-playlist control**.  With Sub-playlist control, you can define how many items you want to play from the sub-playlist when the sub-playlist is embedded as a nested playlist. It can help you better manage the time allocation of a certain type of content.
+1. **Sub-playlist control**.  With Sub-playlist control, you can define how many items you want to play from the sub-playlist when the sub-playlist is embedded as a nested playlist. It can help you better manage the time allocation of a certain type of content.
 2. **Resume on next play**. With this enabled, the playlist will start from where it left off last time, instead of starting from the beginning. This may provide a better experience when the playlist has to be interrupted for any reason.
 3. **Split Screen primary zone with playlist**. This will provide a better experience or more smoother content transition if you use Split Screen to organize relevant content together and put it as an item in a playlist. The playlist will respect the duration of the content in the primary zone and let its playback finish before moving to the next item in the playlist.
 4. **Play Every Setting**. With this, you can define how you want to have the item repeated. For example, if you have a contractual agreement that an ad will play once every hour, this setting will put a timer on the item, and try to play it once every hour.
 5. **Content Tagging:**This allows you to better control and customize the playback of your playlist items, enabling you to mix and match content for different screens within the same playlist and simplify screen management. You can set rules for your screens that determine which tagged assets or sub-playlists are displayed on each screen.
 
-#### **1) How to use sub-playlist control**
+#### 1) How to use sub-playlist control
 
 The setting is available in the playlist options.   
 Click on the playlist options if you want to set it for a certain playlist, so when that playlist is used as a sub-playlist in other places, it will inherit the setting.
@@ -32,15 +34,17 @@ Once the Sub-playlist control is enabled, there are 2 settings available for you
 
 ![](https://support.optisigns.com/hc/article_attachments/22476049744019)
 
-> **NOTE:** Enabling "Sync Play" on your Master Playlist will ignore Sub-playlist control.
+> **NOTE**
+>
+> Enabling "Sync Play" on your Master Playlist will ignore Sub-playlist control.
 
-#### **2) How to use resume on the next play**
+#### 2) How to use resume on the next play
 
 Using a resume on the next play is simple. Just open the playlist options and get it enabled, then the playlist will always resume from where it left off last time and start playback from that point. This can resume from the middle of the video files as well. For example, if there is a 5-minute video in the playlist, you set the duration to 1 minute in the playlist, if this setting is enabled, the next time when it loops back to the video, it will play the next 1 minute instead of starting from the beginning each time.
 
 ![](https://support.optisigns.com/hc/article_attachments/22476080162067)![](https://support.optisigns.com/hc/article_attachments/22476080164755)
 
-#### **3) How to use split-screen primary zone with playlist**
+#### 3) How to use split-screen primary zone with playlist
 
 Using the primary zone in split-screen can help you get more smoother transition when the split-screen is used inside the playlist. A common use is to create a split-screen to organize similar contents together.
 
@@ -56,7 +60,7 @@ To use the primary zone setting, just open the configs popup of the split-screen
 
 ![](https://support.optisigns.com/hc/article_attachments/22476080166675)
 
-#### **4) How to use Play Every feature**
+#### 4) How to use Play Every feature
 
 The **Play Every** feature allows you to control the playback of the playlist items at a repeated interval. What's more, it is not simply playing the item at the set interval, it will wait until the last item playback is completed, then kick in to provide a smoother transition and a better experience.
 
@@ -64,7 +68,7 @@ A major use case would be if you want to reinforce a specific message, or if you
 
 It is very simple to use the Play Every feature. Simply click the setting button of the item, then set the interval accordingly. Once it is set, you will see a timer-like icon on the item, which will help you easily identify the items where Play Every is enabled.
 
-Please note: the Play Every feature will only work in the root level playlist, when it is set in the sub-playlist it will not work.  Also, when Play Every is set on the item, the item playback will be controlled by the interval set, and the position where the item is placed in the playlist will not matter.
+Please note: the Play Every feature will only work in the root level playlist, when it is set in the sub-playlist it will not work.  Also, when Play Every is set on the item, the item playback will be controlled by the interval set, and the position where the item is placed in the playlist will not matter.
 
 ![](https://support.optisigns.com/hc/article_attachments/22476080167315)
 

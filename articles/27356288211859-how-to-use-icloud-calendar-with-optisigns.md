@@ -11,11 +11,11 @@ Before we start, please take a quick moment to ensure your iCloud account is ful
 
 Sign in to <https://www.icloud.com/> and check your account information for the status of all features. This ensures smooth and optimal functionality for your iCloud experience.
 
-![iCloud account card labeled iCloud Web-Only, marked Cannot use](https://support.optisigns.com/hc/article_attachments/27359206807571)     ![iCloud account card labeled iCloud, marked Good](https://support.optisigns.com/hc/article_attachments/27359175323027)
+![iCloud account card labeled iCloud Web-Only, marked Cannot use](https://support.optisigns.com/hc/article_attachments/27359206807571)     ![iCloud account card labeled iCloud, marked Good](https://support.optisigns.com/hc/article_attachments/27359175323027)
 
 **Let's jump in and get started:**
 
-#### **1. Get Your App-Specific Password from Apple**
+#### 1. Get Your App-Specific Password from Apple
 
 Before linking your iCloud calendar in OptiSigns, ensure you have your app-specific password from Apple. This unique password is distinct from your regular Apple login credentials.
 
@@ -42,7 +42,7 @@ To obtain your app-specific password:
 Once authenticated you'll be prompted to enter the details of your calendar:![iCloud Calendar settings: Name, Calendars, Title and Display Mode, with Advanced below](https://support.optisigns.com/hc/article_attachments/27359175343379)
 
 - **Name:** Name of your calendar that you wish to see labeled as within the OptiSigns platform. **This name is internal to you only.**
-- **Calendars:**  The dropdown will show all the calendars that are within the account. These can be calendars you created or subscribed to.
+- **Calendars:**  The dropdown will show all the calendars that are within the account. These can be calendars you created or subscribed to.
 - **Title:** Title of the calendar, this will be displayed on your screen.
 - **Display Mode:** Select the view of the calendar
   - Schedule - Linear listing of every event in succession by time and date.
@@ -65,7 +65,7 @@ Once authenticated you'll be prompted to enter the details of your calendar:![iC
 - **Font Size:** The font size of the display
 - **Start Week On:** (only available if you select Week as Display Mode) Enables you to choose either Monday or Sunday as the start of the week.
 - **24 Hours Format:** format time in 24h
-- **Auto Scroll:** By default, the calendar will focus the display of events on current local time or your set time zone time. This can be less helpful if you anticipate viewers to be able to see all event activities on your calendar.   
+- **Auto Scroll:** By default, the calendar will focus the display of events on current local time or your set time zone time. This can be less helpful if you anticipate viewers to be able to see all event activities on your calendar.   
   Toggle the auto scroll pans the schedule so that all times are viewable.
 - **Time Zone:** select to use Device's time zone or your specified time zone.
 - **Theme:** Light and Dark Themes are available as options.
@@ -77,7 +77,7 @@ Once authenticated you'll be prompted to enter the details of your calendar:![iC
 
 The auto-sync will be every hour on the iCloud Calendar.
 
-#### **After completing these steps, you're all set.**
+#### After completing these steps, you're all set.
 
 You then can assign this newly created asset to your screens to display, or you can also use it in playlists, schedules, etc. like any other assets. If you need more information on how to set up & assign content to your screens [click here.](https://www.optisigns.com/post/how-to-set-up-digital-signs-with-optisigns-and-amazon-fire-tv)
 

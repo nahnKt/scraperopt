@@ -29,7 +29,7 @@ From there, you can modify the set-up to fit your needs.
 
 **1.) Preparation:**
 
-If you haven't paired a device yet, follow this guide [for Windows](https://support.optisigns.com/hc/en-us/articles/360034379293-Windows), or this guide [for Linux](https://support.optisigns.com/hc/en-us/articles/360034379573) or [Raspberry Pi](https://support.optisigns.com/hc/en-us/articles/360034379693) to install and run OptiSigns Digital Signage Player first.
+If you haven't paired a device yet, follow this guide [for Windows](https://support.optisigns.com/hc/en-us/articles/360034379293-Windows), or this guide [for Linux](https://support.optisigns.com/hc/en-us/articles/360034379573) or [Raspberry Pi](https://support.optisigns.com/hc/en-us/articles/360034379693) to install and run OptiSigns Digital Signage Player first.
 
 **You must have the OptiSigns' Engage Subscription or Trial to access the AI Camera feature.**
 
@@ -96,7 +96,7 @@ After completing the previous steps, you will be directed to the "Assign to Scre
 
 ![](https://support.optisigns.com/hc/article_attachments/27974903303571)
 
-4.  **Activate** the AI Add-on.
+4.  **Activate** the AI Add-on.
 
 ![](https://support.optisigns.com/hc/article_attachments/27974903309715)
 
@@ -116,9 +116,9 @@ If you want the device to send data for Analytics purposes, please leave the Sen
 
 **4**.) **Set up camera & app on your device**
 
-If you are using Linux or Raspberry Pi, the AI Camera will be automatically install when you click AI Camera Activate in the step above. You may need to restart your device. If you need instruction on how to manually activate, run AI Camera for Linux, you can follow [this guide](https://support.optisigns.com/hc/en-us/articles/360060676993-How-to-manually-install-activate-OptiSigns-AI-Add-on-on-Linux-or-Raspberry-Pi).
+If you are using Linux or Raspberry Pi, the AI Camera will be automatically install when you click AI Camera Activate in the step above. You may need to restart your device. If you need instruction on how to manually activate, run AI Camera for Linux, you can follow [this guide](https://support.optisigns.com/hc/en-us/articles/360060676993-How-to-manually-install-activate-OptiSigns-AI-Add-on-on-Linux-or-Raspberry-Pi).
 
-For Android, you'll need to go to the app permission settings and grant camera access.
+For Android, you'll need to go to the app permission settings and grant camera access.
 
 If you are using Windows just download & run [optisigns-ai-detection.exe.](https://links.optisigns.com/ai-add-on-win) If you want OptiSigns AI Detection to run on system start up just follow these [steps here](https://support.optisigns.com/hc/en-us/articles/360058345334-How-to-run-OptiSigns-AI-Add-on-on-start-up-in-Windows).
 

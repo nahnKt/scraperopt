@@ -3,7 +3,7 @@
 Article URL: https://support.optisigns.com/hc/en-us/articles/28421615261971-Roku-Troubleshooting-guide
 Last updated: 2024-04-14
 
-### **IMPORTANT NOTE:**
+### IMPORTANT NOTE:
 
 Updated Sep 2023. After version 12.0.0 updates, Roku is enforcing stricter to power management & screensaver.
 
@@ -11,7 +11,7 @@ Roku platform has a lot of restrictions. **In short, if you just need to display
 
 For better compatibility and reliability, we recommend a dedicated player like our [Android Stick Player](https://links.optisigns.com/szzk) or Google ChromeCast, or any [Windows, Mac, Linux](https://www.optisigns.com/download) devices.
 
-### **Note what features contents supported & not supported:**
+### Note what features contents supported & not supported:
 
 **1) OptiSigns App on Roku supports:**
 
@@ -34,7 +34,7 @@ For better compatibility and reliability, we recommend a dedicated player like o
 - [Normal channel/app](https://support.optisigns.com/hc/en-us/articles/360039566974-How-to-install-OptiSigns-Player-on-Roku-TVs) can play images, videos but cannot autostart
 - [Screensaver](https://support.optisigns.com/hc/en-us/articles/1500002383502) can only play images
 
-### **Troubleshooting guide:**
+### Troubleshooting guide:
 
 **Content not playing:**
 

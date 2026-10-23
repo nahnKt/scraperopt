@@ -20,7 +20,9 @@ To do this, click the **Three Dots** icon, then hit the **“Move to OnHold Devi
 
 ![Screen row menu with Move To OnHold Devices highlighted](https://support.optisigns.com/hc/article_attachments/55114753826707)
 
-> **NOTE:** Moving a screen to OnHold requires a Team Administrator role (Owner, Super Admin, or Admin). The feature is available to **Free Plan subscribers and above**.
+> **NOTE**
+>
+> Moving a screen to OnHold requires a Team Administrator role (Owner, Super Admin, or Admin). The feature is available to **Free Plan subscribers and above**.
 
 ---
 

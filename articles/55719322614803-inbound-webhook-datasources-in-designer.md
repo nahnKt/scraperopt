@@ -46,7 +46,9 @@ Each Inbound Webhook DataSource runs in one of two display modes. You choose the
 - **State** - Replace the whole value each time. Every request overwrites what was there before, and nothing expires on its own. Use it for things that have one current value, such as a KPI, a total, a menu, a roster or a scoreboard.
 - **Event** - Append each row. Every request adds to the feed, and every row expires automatically after a set time. Use it for things that happen, such as new orders, alerts, check-ins or a "now serving" number.
 
-> **IMPORTANT:** Display mode is fixed once the DataSource exists. To use the other mode, create a new DataSource.
+> **IMPORTANT**
+>
+> Display mode is fixed once the DataSource exists. To use the other mode, create a new DataSource.
 
 ---
 
@@ -89,7 +91,9 @@ https://smallapp.optisigns.com/api/request-apis/dataSourceDatas/<DataSource ID>/
 
 ![Generated Webhook URL and Key, blurred, with the URL copy icon highlighted](https://support.optisigns.com/hc/article_attachments/55719362187283)
 
-> **IMPORTANT:** Treat this URL like a password. Anyone who has it can send data to this DataSource. If it leaks, click the regenerate icon next to the **Key** and confirm **Regenerate**. The old link stops working immediately, and your column mapping and existing rows are kept.
+> **IMPORTANT**
+>
+> Treat this URL like a password. Anyone who has it can send data to this DataSource. If it leaks, click the regenerate icon next to the **Key** and confirm **Regenerate**. The old link stops working immediately, and your column mapping and existing rows are kept.
 
 ![Regenerate key confirmation dialog warning that the current link stops working, with the Regenerate button](https://support.optisigns.com/hc/article_attachments/55747023353875)
 
@@ -150,7 +154,9 @@ To add several rows in one request, send a JSON array:
 
 To replace every row with `PUT`, you can send an array like the one above, or wrap it as `{"data": [ ... ]}`.
 
-> **NOTE:** With `POST`, a body shaped `{"data": [ ... ]}` is treated as one row with a field called `data`. To send several rows with `POST`, send a plain array.
+> **NOTE**
+>
+> With `POST`, a body shaped `{"data": [ ... ]}` is treated as one row with a field called `data`. To send several rows with `POST`, send a plain array.
 
 ### Set an expiry on individual rows
 
@@ -166,7 +172,9 @@ Expired rows stop showing on your screens. In Designer they stay on the DataSour
 
 ![Edit Data grid for a webhook DataSource with a Status column showing one Expired row and one Live row](https://support.optisigns.com/hc/article_attachments/55747013126419) When a feed has no live rows left, your screens follow the DataSource's **Empty Data Handling** setting.
 
-> **TIP:** Avoid naming your own fields with the `__opti_` prefix. That prefix is reserved for OptiSigns, so fields that use it are not shown in Designer.
+> **TIP**
+>
+> Avoid naming your own fields with the `__opti_` prefix. That prefix is reserved for OptiSigns, so fields that use it are not shown in Designer.
 
 ### Send the key in a header
 
@@ -194,7 +202,9 @@ For scale, a typical e-commerce order notification is 10 to 40 KB, so one order 
 
 A request over a limit is rejected as a whole, and nothing from it is saved. Rows are never cut off partway.
 
-> **IMPORTANT:** A payload that passes **Detect columns** or **Listen for a delivery** can still be too large to deliver. Check your real payload size against the limits above, especially for large records such as full e-commerce orders.
+> **IMPORTANT**
+>
+> A payload that passes **Detect columns** or **Listen for a delivery** can still be too large to deliver. Check your real payload size against the limits above, especially for large records such as full e-commerce orders.
 
 ---
 

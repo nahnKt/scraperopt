@@ -9,7 +9,9 @@ Last updated: 2024-12-04
 - [How to Execute Remote Commands](#how-to-execute-remote-commands)
 - [Controlling Remote Command Received by the Device](#controlling-remote-commands-received-by-the-device)
 
-> **NOTE:** In order to use this feature, you will need a **Pro Plus** **or above plan**.
+> **NOTE**
+>
+> In order to use this feature, you will need a **Pro Plus** **or above plan**.
 
 The Execute Remote Commands feature allows you to remotely manage screens running on Windows/Linux/Raspberry Pi. It allows command to be pushed remotely to individual devices or groups of devices simultaneously.
 
@@ -19,9 +21,7 @@ The Execute Remote Commands feature allows you to remotely manage screens runnin
 
 Remote Command Execution is disabled by default. To use it, it will need to be turned on. To do this, navigated to [the Preferences section](https://app.optisigns.com/app/s/preference-settings) in the OptiSigns portal.
 
-|  |
-| --- |
-| For security reasons, **only the account owner** can enable or disable Remote Command Execution. |
+> For security reasons, **only the account owner** can enable or disable Remote Command Execution.
 
 ![enable/disable remote command execution how-to](https://support.optisigns.com/hc/article_attachments/36078208093075)
 
@@ -58,7 +58,9 @@ Other than the free-form scripts, there are some common commands built into the 
 
 After a command is executed, it will appear in section 3: the command history.
 
-> **NOTE:** The **Refresh & Relaunch** command can be used on any device. The **Reboot Device** command cannot be used on certain Android devices.
+> **NOTE**
+>
+> The **Refresh & Relaunch** command can be used on any device. The **Reboot Device** command cannot be used on certain Android devices.
 
 ---
 

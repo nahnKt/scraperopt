@@ -23,7 +23,7 @@ You still need to set the default location, this location will be used in case d
 
 #### For more information on weather apps, see our article on [how to use weather apps in OptiSigns](https://support.optisigns.com/hc/en-us/articles/360017964153-How-to-Use-Weather-Apps-in-OptiSigns).
 
-#### **That's all!**
+#### That's all!
 
 Now you can use this Weather app in your playlist, schedule, etc. and when the device plays, it will use the location's set in its settings to get Weather information.
 

@@ -100,7 +100,9 @@ Now you’ll review all these changes. Simply hit **Submit**, and you’re done.
 
 Set up a [Virtual Screen app](https://support.optisigns.com/hc/en-us/articles/360055900513-How-to-create-and-use-Virtual-Screen-App) as an alternative to the OptiSigns Web Player. This app will provide an alternate URL to use as a Source in our Microsoft Teams Rooms Portal to set up digital signage.
 
-> **IMPORTANT:** The Virtual Screen app requires a [**Pro Plus plan or above**](https://www.optisigns.com/pricing)and is limited to one per account.
+> **IMPORTANT**
+>
+> The Virtual Screen app requires a [**Pro Plus plan or above**](https://www.optisigns.com/pricing)and is limited to one per account.
 
 To get started, click **Files/Assets** within the OptiSigns app and navigate to **Apps**.
 

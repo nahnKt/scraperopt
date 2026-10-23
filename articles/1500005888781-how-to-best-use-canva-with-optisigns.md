@@ -5,10 +5,9 @@ Last updated: 2026-10-02
 
 ### Turn your ideas into striking designs effortlessly with Canva, a versatile graphic design tool. Follow this guide to learn how to bring your screens to life with Canva.
 
-|  |
-| --- |
-| **Use Case** |
-| A local café uses Canva to design and display its digital menu boards, updating the design in Canva, which updates their screens automatically. This visual approach not only attracts more foot traffic with its vibrant display but also helps in effectively communicating the café's brand and seasonal offerings. |
+> **Use Case**
+>
+> A local café uses Canva to design and display its digital menu boards, updating the design in Canva, which updates their screens automatically. This visual approach not only attracts more foot traffic with its vibrant display but also helps in effectively communicating the café's brand and seasonal offerings.
 
 **In this article:**
 
@@ -42,17 +41,15 @@ A list of various file format options will appear in a drop-down menu.
 
 ![Canva Download panel file type list with PNG and MP4 Video marked](https://support.optisigns.com/hc/article_attachments/29418675971219)
 
-|  |
-| --- |
-| Typically, you will choose either PNG (Image) for static designs or MP4 (Video) if your design includes animations. |
+> Typically, you will choose either PNG (Image) for static designs or MP4 (Video) if your design includes animations.
 
 After downloading your chosen file type, you can upload it to OptiSigns.
 
 **2.** Go to your [**Files/Assets Page.**](https://app.optisigns.com/app/assetManagement)
 
-**3.** Click **Apps** → Search for **Canva.**
+**3.** Click **Apps** → Search for **Canva.**
 
-**4.** Click **Option 1 → Export & Upload**, then **Drag and drop** or **Upload** your file.
+**4.** Click **Option 1 → Export & Upload**, then **Drag and drop** or **Upload** your file.
 
 ![Canva Option 1: Export & Upload screen with the file drop zone highlighted](https://support.optisigns.com/hc/article_attachments/56024375028371)
 
@@ -68,9 +65,7 @@ This method also simplifies collaboration, as multiple team members can edit the
 
 To use the Canva Embedded link, start by navigating to your selected design on Canva.
 
-|  |
-| --- |
-| Note: An Internet connection is required to play. |
+> Note: An Internet connection is required to play.
 
 **1.** Click the '**Share**' option → Select '**More**' at the bottom of the scroll page.
 
@@ -86,16 +81,15 @@ To use the Canva Embedded link, start by navigating to your selected design on C
 
 **6.** Paste the **HTML embed code** inside the **Embed Code** text box to enable automatic updates.
 
-**7.** Click **Save,** then your asset will be successfully added to your asset library!
+**7.** Click **Save,** then your asset will be successfully added to your asset library!
 
 ![Canva Live Embed form with Name, Embed code and Save numbered 1 to 3](https://support.optisigns.com/hc/article_attachments/56024375040659)
 
 Now, your Canva design will automatically update and is ready to push to your screens!
 
-|  |
-| --- |
-| **Why use embedded links from Canva?** |
-| Using embedded links from Canva for automatic updates streamlines content management by instantly reflecting any changes made in Canva on your displays. This process eliminates the need for manual updates, enhancing efficiency and reducing error potential. It also ensures consistency across multiple displays, maintaining uniformity in branding and information sharing. |
+> **Why use embedded links from Canva?**
+>
+> Using embedded links from Canva for automatic updates streamlines content management by instantly reflecting any changes made in Canva on your displays. This process eliminates the need for manual updates, enhancing efficiency and reducing error potential. It also ensures consistency across multiple displays, maintaining uniformity in branding and information sharing.
 
 ## Auto-Advancing Live Embed Canva Slides with OptiSigns' Playlist
 

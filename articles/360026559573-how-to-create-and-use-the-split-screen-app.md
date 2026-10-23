@@ -41,9 +41,7 @@ The Split Screen feature in OptiSigns allows you to divide your screen into diff
    - **Adjust Layering of Zones:** Send zones backward, to the back, forward, or to the front. These are useful if your zones overlap each other.
    - **Delete:** Select a zone and delete it from the customization board.
 
-|  |
-| --- |
-| Note: You cannot place a Split Screen within a Split Screen |
+> Note: You cannot place a Split Screen within a Split Screen
 
 ### 4. Adding a Scrolling Strip
 
@@ -80,11 +78,13 @@ This will open the **Split Screen Configs** menu:
 2. **Edit Screen**: Click `Edit` on the screen you want to assign the Split Screen to.
 3. **Assign Split Screen**: Set `Type` to `Asset` and select the newly created Split Screen asset.
 
-> **NOTE:** You can assign a Split Screen directly to a playlist, but it can create a loop (a Split Screen containing a playlist that contains a Split Screen). Instead, we recommend assigning a playlist to the zones within the Split Screen.
+> **Note**
+>
+> You can assign a Split Screen directly to a playlist, but it can create a loop (a Split Screen containing a playlist that contains a Split Screen). Instead, we recommend assigning a playlist to the zones within the Split Screen.
 
 ## Frequently Asked Questions
 
-#### **I can't get some of my split screens to display as full screen. What can I do?**
+#### I can't get some of my split screens to display as full screen. What can I do?
 
 This issue occurs because the **Main Zone** in the Split Screen app does not have a 16:9 ratio. Here are a few ways to resolve this and ensure the content fits your Main Zone:
 
@@ -115,13 +115,13 @@ For more information on image ratios, see our article on [**Stretch, Zoom, and F
 
 Please note that these ratios apply to any app, not just images and videos.
 
-#### **My documents (PowerPoint, PDFs) go through pages too fast! How can I fix this?**
+#### My documents (PowerPoint, PDFs) go through pages too fast! How can I fix this?
 
-When selecting a document, there is an additional setting, called **Duration**:
+When selecting a document, there is an additional setting, called **Duration**:
 
 ![](https://support.optisigns.com/hc/article_attachments/45708705963667)
 
-This shows how long on your split screen your document will display. However, please note that this duration applies to ***the entire document**.*Meaning, if you have a slideshow with 10 slides, and set this duration for 10 seconds, each slide will only display for 1 second.
+This shows how long on your split screen your document will display. However, please note that this duration applies to ***the entire document**.*Meaning, if you have a slideshow with 10 slides, and set this duration for 10 seconds, each slide will only display for 1 second.
 
 If you want to display each slide for 10 seconds, you will need to set your duration to 100 seconds: 10 slides divided by 10 seconds per slide.
 

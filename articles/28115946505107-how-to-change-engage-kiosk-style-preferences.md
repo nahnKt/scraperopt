@@ -31,7 +31,7 @@ Click **Save Changes**.
 
 ---
 
-## **That's all!**
+## That's all!
 
 You can change these default settings at any time or adjust the settings manually within the kiosk apps.
 

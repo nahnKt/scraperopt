@@ -12,7 +12,7 @@ Advanced Website App is the solution for that, it will allow you to:
 
 ## Let's jump in and get started:
 
- Go to File/Assets -> App, search and select Advanced Website App:
+ Go to File/Assets -> App, search and select Advanced Website App:
 
 ![mceclip0.png](https://support.optisigns.com/hc/article_attachments/5174945453843)
 
@@ -49,4 +49,4 @@ You can assign the newly created app to your screen by going to Screens, click E
 
 You can put the walls in a Playlist, Schedule too.
 
-If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
+If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)

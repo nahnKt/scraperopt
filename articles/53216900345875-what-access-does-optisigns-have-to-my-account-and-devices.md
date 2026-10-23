@@ -72,39 +72,39 @@ What we can't access: the screen shows the content you've chosen to display publ
 
 ## Frequently Asked Questions
 
-#### **Can OptiSigns see my content?**
+#### Can OptiSigns see my content?
 
 Yes, when we're helping you — your assets, playlists, and what's on your screens. It's your business content, used only to support you, and logged.
 
-#### **Do you log in as me, or need my password?**
+#### Do you log in as me, or need my password?
 
 We can sign in to your account to help, but **never with your password** — we don't ask for it.
 
-#### **Can you change my screens or settings?**
+#### Can you change my screens or settings?
 
 Not by default. Changes require you to enable Remote Support Access or approve the specific action. Every change is logged.
 
-#### **Can you remotely access or restart my players?**
+#### Can you remotely access or restart my players?
 
 We can **view** diagnostics by default. Restarting, updating, or controlling a device requires Remote Support Access (off by default) or your explicit approval.
 
-#### **When and why would you access my account or devices?**
+#### When and why would you access my account or devices?
 
 When you open a support request, or to diagnose a device that's offline or misbehaving.
 
-#### **Is it logged? Can I see what was done?**
+#### Is it logged? Can I see what was done?
 
 Yes. Every access and change is recorded and available to you on request.
 
-#### **How long does access last? Can I revoke it?**
+#### How long does access last? Can I revoke it?
 
 You can turn Remote Support Access off at any time. Per-request approvals apply only to the single action you approve. You can also deny our support team access to your account in writing or via email.
 
-#### **Can I turn Remote Support Access or SecureLink off?**
+#### Can I turn Remote Support Access or SecureLink off?
 
 Yes. Remote Support Access is off by default, and you control it. The underlying SecureLink connection can be disabled by contacting us (this removes remote support for those devices).
 
-#### **Do you sell my data?**
+#### Do you sell my data?
 
 No. We never sell or rent your data.
 

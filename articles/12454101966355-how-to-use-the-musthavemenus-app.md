@@ -22,7 +22,9 @@ Let's get started.
 - An [OptiSigns-enabled device](https://support.optisigns.com/hc/en-us/articles/360021855653)
 - A screen, set up and paired with OptiSigns ([see our Getting Started guide](https://support.optisigns.com/hc/en-us/articles/18823504383891))
 
-> **NOTE:** MustHaveMenus now requires a paid **Pro** plan to share links to your designs. If you don't have one, you can use OptiSigns' free [menu board templates](https://canvas.optisigns.com/) and [POS integrations instead (requires OptiSigns Pro Plus plan or above)](https://support.optisigns.com/hc/en-us/articles/31860170199955-Integrating-Point-of-Sale-POS-Systems-to-Build-Digital-Menu-Boards-with-OptiSync).
+> **NOTE**
+>
+> MustHaveMenus now requires a paid **Pro** plan to share links to your designs. If you don't have one, you can use OptiSigns' free [menu board templates](https://canvas.optisigns.com/) and [POS integrations instead (requires OptiSigns Pro Plus plan or above)](https://support.optisigns.com/hc/en-us/articles/31860170199955-Integrating-Point-of-Sale-POS-Systems-to-Build-Digital-Menu-Boards-with-OptiSync).
 
 ---
 
@@ -49,7 +51,9 @@ The MustHaveMenus app settings will open. Fill in the following:
 
 ![MustHaveMenus app form with Name, URL, Update Interval and Menu Page filled in, and an arrow pointing to Save](https://support.optisigns.com/hc/article_attachments/56386454972435)
 
-> **TIP:** Each MustHaveMenus app shows one page. To show a design with several pages, create one MustHaveMenus app per page, each with a different **Menu Page**, and put them in a Playlist or a Split Screen.
+> **TIP**
+>
+> Each MustHaveMenus app shows one page. To show a design with several pages, create one MustHaveMenus app per page, each with a different **Menu Page**, and put them in a Playlist or a Split Screen.
 
 Now hit **Save**. You'll have created a MustHaveMenus app, and it will appear in your **Files/Assets**.
 

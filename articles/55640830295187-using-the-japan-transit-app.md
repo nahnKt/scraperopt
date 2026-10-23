@@ -36,7 +36,9 @@ The app covers the **Toei** network operated by the Tokyo Metropolitan Bureau of
 - **Subway Services**: Asakusa Line, Mita Line, Shinjuku Line, Oedo Line
 - **Bus Services:** All Toei-operated routes and stops
 
-> **IMPORTANT:** Tokyo Metro, JR East, and private railways are **not** included. If your nearest station is served by both Toei and another operator, the board shows only the Toei lines at that station. Choosing a station with no Toei service leaves the board empty. We intend to add additional operators as time goes on.
+> **IMPORTANT**
+>
+> Tokyo Metro, JR East, and private railways are **not** included. If your nearest station is served by both Toei and another operator, the board shows only the Toei lines at that station. Choosing a station with no Toei service leaves the board empty. We intend to add additional operators as time goes on.
 
 ---
 
@@ -52,13 +54,13 @@ To set up a Japan Transit app, go to the **Files/Assets** tab, then click **Apps
 
 | English / 英語 | Japanese / 日本語 |
 | --- | --- |
-| Files/Assets sidebar with the Apps button highlighted | Japanese portal sidebar with the Apps button highlighted |
+| ![Files/Assets sidebar with the Apps button highlighted](https://support.optisigns.com/hc/article_attachments/55640830498707) | ![Japanese portal sidebar with the Apps button highlighted](https://support.optisigns.com/hc/article_attachments/55640830605075) |
 
 Search for `Japan`, then click **周辺交通情報 / Japan Transit**.
 
 | English / 英語 | Japanese / 日本語 |
 | --- | --- |
-| App picker filtered to Japan, with the Japan Transit card highlighted | Japanese app picker with the Japan Transit card highlighted |
+| ![App picker filtered to Japan, with the Japan Transit card highlighted](https://support.optisigns.com/hc/article_attachments/55640858589075) | ![Japanese app picker with the Japan Transit card highlighted](https://support.optisigns.com/hc/article_attachments/55640851831571) |
 
 Enter the details for your Transit app. The panel on the right previews the board as you work - before you pick a station it shows sample data, so you can see the layout immediately.
 
@@ -106,7 +108,8 @@ The train and bus boards use standard Japanese departure-board wording, with Eng
   - **Cancelled (運休)** - This service was scheduled, but is no longer running.
   - **Schedule Only (時刻表のみ)** - The timetable entry, with no live running information available yet.
 
-> **NOTE:**
+> **NOTE**
+>
 > **Schedule only** is normal, not an error. Live running information isn't published for every service at every moment, and the board falls back to the published timetable rather than showing nothing.
 
 The bus board shows different columns:
@@ -133,7 +136,7 @@ To get your new asset to a screen, go to the **Screens** tab, find the screen yo
 
 | English / 英語 | Japanese / 日本語 |
 | --- | --- |
-| Select Asset dialog with a Japan Transit board previewed and Select highlighted | Japanese Select Asset dialog with a Japan Transit board and Select highlighted |
+| ![Select Asset dialog with a Japan Transit board previewed and Select highlighted](https://support.optisigns.com/hc/article_attachments/55640859378451) | ![Japanese Select Asset dialog with a Japan Transit board and Select highlighted](https://support.optisigns.com/hc/article_attachments/55640859449619) |
 
 Back on the Edit Screen dialog, click **Save**. Your transit board will now display on screen.
 

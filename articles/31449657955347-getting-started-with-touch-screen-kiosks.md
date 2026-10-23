@@ -16,9 +16,7 @@ Last updated: 2025-10-29
 - FAQs
   - How can I lock down my kiosk on a Windows device?
 
-|  |
-| --- |
-| **NOTE:** Kiosks require an **Engage** level plan or higher. |
+> **NOTE:** Kiosks require an **Engage** level plan or higher.
 
 ---
 
@@ -40,9 +38,7 @@ You can be reach this section by:
 
 #### Each of these options is designed to meet specific needs, providing you with the flexibility to choose the best fit for your kiosk goals. Let’s take a closer look at what each option offers.
 
-|  |
-| --- |
-| These features are supported on Android, Windows, Linux, iOS, MacOS, Raspberry Pi, ChromeOS, and BrightSign devices. |
+> These features are supported on Android, Windows, Linux, iOS, MacOS, Raspberry Pi, ChromeOS, and BrightSign devices.
 
 ---
 
@@ -50,10 +46,9 @@ You can be reach this section by:
 
 Kiosk Lite is a quick and easy interactive solution for your kiosk. You can showcase an asset or playlist as ads. Then, when the kiosk encounters a simple interaction, it smoothly transitions to display your website URL.
 
-|  |
-| --- |
-| **Use Case** |
-| If you have a pre-built asset, such as a playlist, image, or video, that you want to use as an attract screen and then direct users to your website upon interaction, Kiosk Lite is the easiest method to get your kiosk up and running quickly. It's designed for easy use and quick setup, allowing you to get your kiosk running in minutes with engaging content that captures attention and drives user interaction. |
+> **Use Case**
+>
+> If you have a pre-built asset, such as a playlist, image, or video, that you want to use as an attract screen and then direct users to your website upon interaction, Kiosk Lite is the easiest method to get your kiosk up and running quickly. It's designed for easy use and quick setup, allowing you to get your kiosk running in minutes with engaging content that captures attention and drives user interaction.
 
 To get started with **Kiosk Lite**, select and then click **Build**:
 
@@ -73,10 +68,9 @@ Check out and mess around with this live example to see how the Designer Pro can
 
 - [Furniture Store - Modern Spaces](https://virtualscreen.optisigns.com/#VTJGc2RHVmtYMThPUVE0VEZJWTNzbFl2S0k0MExBMS8yVCtzMTJqaWg1ZEUxM2xJYmtMdmVUUVFyVyswdFNHMFJ1Zk5ibVdVaVVBTmJXbllMRWtwc0E9PQ==)
 
-|  |
-| --- |
-| **Use Case** |
-| If you want to build out your kiosk’s design elements in OptiSigns, or direct people to multiple links, Kiosk Designer Pro is the best option for you. |
+> **Use Case**
+>
+> If you want to build out your kiosk’s design elements in OptiSigns, or direct people to multiple links, Kiosk Designer Pro is the best option for you.
 
 To get started with **Kiosk Designer Pro,** select it from the menu, then click **Build**:
 
@@ -88,12 +82,13 @@ For a full tutorial on using Kiosk Designer Pro, see our [Kiosk Designer Pro gui
 
 ### Content Library Kiosk
 
+[Embedded content (www.youtube-nocookie.com)](https://www.youtube-nocookie.com/embed/4w4SchZCq18)
+
 Content Library Kiosk is your personalized hub. Create an organized content library, featuring ads, videos, images, and tips, to deliver an immersive audience experience. This allows customers to see and engage with a large number of products to find what’s right for them.
 
-|  |
-| --- |
-| **Use Case** |
-| If you have a large library of content you'd like your users to be able to browse, the Content Library option is for you. Think samples, book titles, movie titles, music, etc. |
+> **Use Case**
+>
+> If you have a large library of content you'd like your users to be able to browse, the Content Library option is for you. Think samples, book titles, movie titles, music, etc.
 
 Here are a few live examples of a Content Library Kiosk:
 
@@ -112,7 +107,7 @@ There are three ways of getting your Kiosk design onto a Touchscreen:
 2. Through Designer (if using Kiosk Designer Pro)
 3. Manually Pushing it to a Screen
 
-Note that you'll almost certainly want to enable **[Lock Down mode](https://support.optisigns.com/hc/en-us/articles/30310366838803-Enabling-Lock-Down-Mode-on-Touch-Screen-Devices#windows)**to prevent users from interfering with any OptiSigns settings on your device.
+Note that you'll almost certainly want to enable **[Lock Down mode](https://support.optisigns.com/hc/en-us/articles/30310366838803-Enabling-Lock-Down-Mode-on-Touch-Screen-Devices#windows)**to prevent users from interfering with any OptiSigns settings on your device.
 
 ### Option 1: Through Engage
 
@@ -133,9 +128,7 @@ Once you've made your selections, click **Assign** to proceed. If you prefer to 
 
 ### Option 2: Through Designer
 
-|  |
-| --- |
-| **NOTE:** This applies to kiosk designs created through **Kiosk Designer Pro** |
+> **NOTE:** This applies to kiosk designs created through **Kiosk Designer Pro**
 
 To push screens using the Designer app, start by creating your kiosk design. Follow our [Kiosk Designer Pro guide](https://support.optisigns.com/hc/en-us/articles/15313086319763-How-to-Design-Kiosk-Apps-Using-Kiosk-Designer-Pro) for step-by-step instructions.
 
@@ -200,7 +193,7 @@ Windows itself offers a built-in [Kiosk Mode (Assigned Access)](https://learn.mi
 
 This approach works well for locking down the device.
 
-> **IMPORTANT:**
+> **IMPORTANT**
 >
 > For Assigned Access, only Universal Windows Platform (UWP) apps from the Microsoft store will appear. OptiSigns is a Win32 app, meaning it will not be available in the Assigned Access list.
 >
@@ -216,8 +209,8 @@ Consider using Windows Group Policy or third-party tools to further restrict key
 
 ---
 
-## **That's it!**
+## That's it!
 
 You've successfully created a Kiosk design in OptiSigns. It can be edited at any time from the **Engage** tab. These Kiosk designs can be added to any existing content schedules or playlists.
 
-If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com.](mailto:support@optisigns.com)
+If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com.](mailto:support@optisigns.com)

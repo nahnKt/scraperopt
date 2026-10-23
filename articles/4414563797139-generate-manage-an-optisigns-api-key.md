@@ -5,7 +5,7 @@ Last updated: 2026-09-09
 
 In order to use the API, you will need first get an API key. To get an API key, you can either use the link below, or click the **API Keys** button in the side menu of account management on the OptiSigns portal.
 
-> **NOTE:**
+> **NOTE**
 >
 > In order to generate an API Key, you must:
 >
@@ -17,7 +17,7 @@ To get an Within OptiSigns, click the profile menu on the top right, go to **Mor
 
 Or, click this link: <https://app.optisigns.com/app/s/apikeys>
 
-### OptiSigns profile menu with More expanded, showing API Keys in the submenu
+### ![OptiSigns profile menu with More expanded, showing API Keys in the submenu](https://support.optisigns.com/hc/article_attachments/55264237024403)
 
 ### Create API Key
 
@@ -37,7 +37,7 @@ Click **Copy** to quickly get the key and Paste it where it needs to go.
 
 To use the API key, put it in the HTTP request header following this format.
 
-Authorization: Bearer YOUR\_KEY\_HERE
+Authorization: Bearer YOUR_KEY_HERE
 
 In the OptiSigns GraphQL playground, you will be able to query your data if the API key is successfully added.
 

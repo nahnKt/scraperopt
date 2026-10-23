@@ -39,19 +39,19 @@ os.context.set("request.headers.authorization", token);
 
 **Notes:**
 
-- "grant\_type": Use "client\_credentials" ., because "client\_credentials" is the grant type in OAuth for server-side integration without user interaction.
-- <CLIENT\_ID> and <CLIENT\_SECRET> refers to the user's code for the API being accessed, this will need to be provided by the user.
-- <OAUTH\_AUTHENTICATION\_URL> refers to the URL the access token is being retrieved from. This URL will need to be provided by the user.
+- "grant_type": Use "client_credentials" ., because "client_credentials" is the grant type in OAuth for server-side integration without user interaction.
+- <CLIENT_ID> and <CLIENT_SECRET> refers to the user's code for the API being accessed, this will need to be provided by the user.
+- <OAUTH_AUTHENTICATION_URL> refers to the URL the access token is being retrieved from. This URL will need to be provided by the user.
 
 Now configure the **Header**:
 
 ![properly configured API header](https://support.optisigns.com/hc/article_attachments/39080900411795)
 
-With this and the rest of the required fields filled out, you've properly configured your Pre-request. Hitting **Run Test** should return a **200 OK** Response.
+With this and the rest of the required fields filled out, you've properly configured your Pre-request. Hitting **Run Test** should return a **200 OK** Response.
 
 ![successful api request](https://support.optisigns.com/hc/article_attachments/39080869736211)
 
-If so, hit **Save**to finish your API Request.
+If so, hit **Save**to finish your API Request.
 
 ### That's all!
 

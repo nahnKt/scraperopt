@@ -5,13 +5,13 @@ Last updated: 2024-02-19
 
 Take control of your files, assets, and folders by personalizing their thumbnails. By adding your personal touch to thumbnails, you can enhance your browsing experience, effortlessly spot and distinguish specific items, and uphold a polished and cohesive visual identity.
 
-## **Let's jump in and get started:**
+## Let's jump in and get started:
 
-#### **1) Go to Files/Assets page**
+#### 1) Go to Files/Assets page
 
 ![](https://support.optisigns.com/hc/article_attachments/18398840684179)
 
-#### **2) Update the thumbnail on any asset or folder**
+#### 2) Update the thumbnail on any asset or folder
 
 Click on the three dots in the upper right-hand corner of an asset or folder.
 
@@ -35,8 +35,8 @@ Once the upload is complete, your thumbnail will be updated.
 
 ![](https://support.optisigns.com/hc/article_attachments/18399363674003)
 
-## **That's all! Congratulations!**
+## That's all! Congratulations!
 
 You have successfully updated your thumbnail, and it is now ready to go!
 
-If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
+If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)

@@ -33,11 +33,11 @@ In this article, we will walk you through two main steps:
 1. Installing a root certificate on your device of choice (OptiSigns Pro Player, Ubuntu, Windows, MacOS, or Chrome browser)
 2. Configuring a Website app to display your internal website
 
-> **NOTE:** Before you start, make sure you’re connected to the same network as the server you’re trying to access.
+> **NOTE**
+>
+> Before you start, make sure you’re connected to the same network as the server you’re trying to access.
 
-|  |
-| --- |
-| **Please note that Android devices are not supported at this time.** |
+> **Please note that Android devices are not supported at this time.**
 
 ---
 
@@ -45,7 +45,9 @@ In this article, we will walk you through two main steps:
 
 In order to get your root certificate onto an OptiSigns Pro Digital Signage Player, you’ll need to manually add it. Find where your certificate is stored, then download it to a USB or MicroSD card. Plug the card into the Pro Player.
 
-> **IMPORTANT:** For installation on a Gen 3 Pro Player, your certificate must have a **.crt** extension. However, it is important that this certificate is signed and contains your public key. These are usually generated as **.pem** files. You’ll need to rename your certificate (.pem) file and change its extension to **.crt** for your internal website to properly display.
+> **IMPORTANT**
+>
+> For installation on a Gen 3 Pro Player, your certificate must have a **.crt** extension. However, it is important that this certificate is signed and contains your public key. These are usually generated as **.pem** files. You’ll need to rename your certificate (.pem) file and change its extension to **.crt** for your internal website to properly display.
 
 Now, open your OptiSigns player menu. Go to **About → Advanced Settings**.
 
@@ -67,7 +69,9 @@ To begin, take your trusted, signed certificate (.pem file) and place it in the 
 
 ![](https://support.optisigns.com/hc/article_attachments/35184720058515)
 
-> **NOTE:** You will need to rename your **.pem** file to make it a **.crt** file, or else this will not work.
+> **NOTE**
+>
+> You will need to rename your **.pem** file to make it a **.crt** file, or else this will not work.
 
 After the certificate has been moved and renamed, you’ll need to refresh the installed certificates and hashes. Open your **Terminal** and type in this command:
 
@@ -108,7 +112,9 @@ These same steps can be performed quickly using the Windows Terminal, if you’r
 
 Be cautious when installing root certificates, especially self-signed ones. Only install certificates from sources you trust completely.
 
-> **NOTE:** You need administrator privileges to install certificates in the Trusted Root Certification Authorities store.
+> **NOTE**
+>
+> You need administrator privileges to install certificates in the Trusted Root Certification Authorities store.
 
 ### Open the Microsoft Management Console (MMC)
 
@@ -280,7 +286,9 @@ To set it up, navigate to **Files/Assets** in your OptiSigns portal. Find the **
 
 Enter the **URL** of your webpage here. The Name field is irrelevant to the app’s function and will only make the asset easier to find in OptiSigns.
 
-> **NOTE:** If your internal website is large and complex, you can also display it using the **Advanced Website** app. If you’re having trouble displaying it on the basic Website app, create an Advanced Website asset and try again.
+> **NOTE**
+>
+> If your internal website is large and complex, you can also display it using the **Advanced Website** app. If you’re having trouble displaying it on the basic Website app, create an Advanced Website asset and try again.
 
 Once the Website asset is created, it can be assigned to a screen.
 

@@ -26,7 +26,9 @@ With OptiSound, you can stream curated background music legally in commercial en
 
 **OptiSound** is an embedded add-on within OptiSigns designed to help businesses play licensed background music without dealing with third-party apps or complicated setups. With a wide selection of music stations and proper licensing for commercial use, you can elevate your in-store experience with just a few clicks. A Pro Plan gives you access to millions of songs across the popular (and niche!) music landscape.
 
-> **IMPORTANT:** In order to use OptiSound Premium Music, you need an **Android** or **AppleTV** device with an OptiSigns version of at least 5.19.27 for Android or 5.5.9 for Apple TV. For Standard plan usage, you can use any **Android**, **AppleTV**, or **OptiSigns Pro/ProMax Player**.
+> **IMPORTANT**
+>
+> In order to use OptiSound Premium Music, you need an **Android** or **AppleTV** device with an OptiSigns version of at least 5.19.27 for Android or 5.5.9 for Apple TV. For Standard plan usage, you can use any **Android**, **AppleTV**, or **OptiSigns Pro/ProMax Player**.
 
 ---
 
@@ -58,7 +60,9 @@ Premium stations are marked with a small lock icon.
 
 ![Premium stations in the OptiSound station browser, marked with a lock icon](https://support.optisigns.com/hc/article_attachments/56424335104659)
 
-> **IMPORTANT:** OptiSound Premium Music is only available in the United States and Canada as of April 2026. This uses the country of the screen's OptiSound Location address, not the billing address. See **Setting Up Locations and Zones** below.
+> **IMPORTANT**
+>
+> OptiSound Premium Music is only available in the United States and Canada as of April 2026. This uses the country of the screen's OptiSound Location address, not the billing address. See **Setting Up Locations and Zones** below.
 
 ---
 
@@ -70,7 +74,9 @@ You'll have the option to begin a 14-Day Free Trial. This will default to the St
 
 ![OptiSound Music add-on card showing the Standard plan badge and the zone license count](https://support.optisigns.com/hc/article_attachments/56424370040595)
 
-> **NOTE:** Starting a trial creates a **Default Location** and a **Default Zone** with no address. If upgrading to Pro, you must add an address to your Location.
+> **NOTE**
+>
+> Starting a trial creates a **Default Location** and a **Default Zone** with no address. If upgrading to Pro, you must add an address to your Location.
 
 To manage where your music plays, click **Manage Zones**. This opens the **Locations** page in the **OptiSound** tab.
 
@@ -82,7 +88,9 @@ To manage where your music plays, click **Manage Zones**. This opens the **Locat
 
 OptiSound organizes your music by **Locations** and **Zones**. A Location is your business venue, such as a store or a restaurant. A Zone is an area inside it that plays its own music, such as the Main Floor or the Patio. Each screen that plays music is paired to a Zone, and the add-on is licensed per Zone.
 
-> **IMPORTANT:** In order for Premium stations to be played on a Pro plan, you ***must*** set a Location.
+> **IMPORTANT**
+>
+> In order for Premium stations to be played on a Pro plan, you ***must*** set a Location.
 
 To get started, go to the **OptiSound** tab.
 
@@ -98,7 +106,9 @@ Click **New Location**. Give your location a **Location name**, then start typin
 
 ![Add Location dialog with the Location name and Address fields](https://support.optisigns.com/hc/article_attachments/56424335111059)
 
-> **IMPORTANT:** Once an address is added to a Location, it cannot be changed. Double-check it before you save.
+> **IMPORTANT**
+>
+> Once an address is added to a Location, it cannot be changed. Double-check it before you save.
 
 ### Set the Address of an Existing Location
 

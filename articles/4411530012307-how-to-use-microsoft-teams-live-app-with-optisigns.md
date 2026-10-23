@@ -5,7 +5,9 @@ Last updated: 2026-09-30
 
 You can broadcast a Microsoft Teams Live on your digital signs with OptiSigns.
 
-> **IMPORTANT:** Microsoft Teams Live has been retired as of October 2026. This will no longer function entirely after February 28, 2027.
+> **IMPORTANT**
+>
+> Microsoft Teams Live has been retired as of October 2026. This will no longer function entirely after February 28, 2027.
 
 Sign in to [Office 365](https://www.office.com/) using your credentials.
 
@@ -48,7 +50,9 @@ You can set Username and Password by checking the "Sign in with Credential" togg
 
 ![Sign in with Credential turned on, showing the Username/Email and Password fields](https://support.optisigns.com/hc/article_attachments/55945246500115)
 
-> **IMPORTANT:** If you are utilizing the OptiStick, ensure the Live Meeting is set to **public**. If your preference is to have the Teams Live Meeting set to "**Sign-in required**," consider using a Windows or Linux device.
+> **IMPORTANT**
+>
+> If you are utilizing the OptiStick, ensure the Live Meeting is set to **public**. If your preference is to have the Teams Live Meeting set to "**Sign-in required**," consider using a Windows or Linux device.
 
 ---
 
@@ -61,4 +65,4 @@ Now you can assign this MS Teams Live app to your screens, or put it on a schedu
 Have the host start the event a few mins before screens are joining automatically.  
 It will take a device 10-15s to join the event, so it's not a good idea to put the MS Teams Live in a playlist. It's better to use it as single asset to take up full screen or be part of a [SplitScreen zone](https://support.optisigns.com/hc/en-us/articles/360026559573).
 
-If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
+If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)

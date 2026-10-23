@@ -28,4 +28,4 @@ This article, it guides you on how to clear data on the Android Stick.
 
 ![](https://support.optisigns.com/hc/article_attachments/37780903501843)
 
-If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
+If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)

@@ -65,7 +65,7 @@ Click **Publish** -> **OK** and you will get a link. Copy that published link.
 Click Save.  
 After Saving, you can Preview it.
 
-### **That's all! Congratulations!**
+### That's all! Congratulations!
 
 You have created your Google Docs asset.
 
@@ -73,9 +73,8 @@ You can assign the newly created wall to your screen by going to Screens, click 
 
 You can put the created Google Docs in a Playlist, Schedule too.
 
-|  |
-| --- |
-| **IMPORTANT NOTE** |
-| Make sure your asset file size **does not exceed 10MB**. If it does, it will only display a black screen. |
+> **IMPORTANT NOTE**
+>
+> Make sure your asset file size **does not exceed 10MB**. If it does, it will only display a black screen.
 
-If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
+If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)

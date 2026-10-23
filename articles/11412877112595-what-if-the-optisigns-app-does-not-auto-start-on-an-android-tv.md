@@ -16,6 +16,6 @@ Safety Guard -> Permission Shield -> Auto Launch -> Auto Manager: Closed; And al
 
 To enable OptiSigns auto start:  
 Settings -> Apps -> Special app access -> Energy optimization -> OptiSigns app -> Disable it  
-Then go to "Turn screen on" in the Special app access -> OptiSigns app -> Enable it. 
+Then go to "Turn screen on" in the Special app access -> OptiSigns app -> Enable it. 
 
-If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
+If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)

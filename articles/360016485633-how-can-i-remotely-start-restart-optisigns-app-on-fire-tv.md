@@ -17,7 +17,7 @@ You can see the status of the Fire TV is online or not at the home screen of the
 
 ![](https://support.optisigns.com/hc/article_attachments/360025000133)
 
- You can also restart the OptiSigns app remotely by:
+ You can also restart the OptiSigns app remotely by:
 
 1. Tap on the Fire TV on the list to control it
 2. Press the "return" button on bottom left like below. This will shutdown the app.
@@ -30,7 +30,5 @@ You can see the status of the Fire TV is online or not at the home screen of the
 4. Launch the OptiSigns app from the launcher:
 
 ![](https://support.optisigns.com/hc/article_attachments/360025000173)
-
-# 
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)

@@ -3,7 +3,7 @@
 Article URL: https://support.optisigns.com/hc/en-us/articles/6757989639827-How-to-Use-the-Weather-Alert-App
 Last updated: 2025-03-04
 
-### In this article, we walk you through setting up a Weather Alert App to subscribe to weather alerts from the [**National Weather** **Service**](https://www.weather.gov/).
+### In this article, we walk you through setting up a Weather Alert App to subscribe to weather alerts from the [National Weather Service](https://www.weather.gov/).
 
 With the OptiSigns Weather Alert App, you can select a region to receive weather alerts from. The app will listen to the ATOM feed published by the National Weather Service and display any incoming notices. Filters can be applied for certain types of messages and target locations.\
 
@@ -13,11 +13,11 @@ The Weather Alert App is available to **Standard**plan subscribers and above.
 
 ![mceclip0.png](https://support.optisigns.com/hc/article_attachments/6758166799123)
 
-## **Let's jump in and get started:**
+## Let's jump in and get started:
 
-First, you will need to have your screens set up and paired. For more information on how to do that, click [here](https://www.optisigns.com/blog/how-to-set-up-digital-signs-with-optisigns-and-amazon-fire-tv).
+First, you will need to have your screens set up and paired. For more information on how to do that, click [here](https://www.optisigns.com/blog/how-to-set-up-digital-signs-with-optisigns-and-amazon-fire-tv).
 
-Then log on to our portal: <http://app.optisigns.com/>
+Then log on to our portal: <http://app.optisigns.com/>
 
 Go to **Files/Assets →****App:**
 

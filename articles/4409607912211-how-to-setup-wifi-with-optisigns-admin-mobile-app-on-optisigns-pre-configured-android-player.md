@@ -27,7 +27,7 @@ You can download the OptiSigns admin app by scanning the QR code on the screen. 
 
 **5.Select the device that you want to get Wifi configured.**
 
-It will be Optisigns\_Player, if you have not changed the device name in the OS.
+It will be Optisigns_Player, if you have not changed the device name in the OS.
 
 After the device is successfully connected, the screen will show it is connected to OptiSigns Admin App.
 
@@ -47,8 +47,8 @@ Your OptiSigns Pre-Configured Android Stick should be connected to internet now.
 
 You're ready to go.
 
-And the screen should show you the screen pairing code. Then you can enter this pairing code on your web portal. If you want to learn more, you can click [here](https://support.optisigns.com/hc/en-us/articles/360016374813-Set-up-add-a-screen). Or you can simply add the screens to your account by scanning the QR code.
+And the screen should show you the screen pairing code. Then you can enter this pairing code on your web portal. If you want to learn more, you can click [here](https://support.optisigns.com/hc/en-us/articles/360016374813-Set-up-add-a-screen). Or you can simply add the screens to your account by scanning the QR code.
 
 ![mceclip7.png](https://support.optisigns.com/hc/article_attachments/4409611859475)
 
-If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
+If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)

@@ -11,7 +11,7 @@ Last updated: 2026-09-18
   - [Advanced Settings](#advanced-settings)
 - [How to Test Your CAP Alert](#how-to-test-your-cap-alert)
 
-Some Emergency Alert Systems or Emergency Mass Notification Systems (like Everbridge, RAVE. and Alertus) can push CAP (Common Alerting Protocol) and Integrated Public Alert and Warning System (IPAWS) messages to the targets including digital signage when there is an emergency. You can integrate with these systems using the CAP Alert app with OptiSigns.
+Some Emergency Alert Systems or Emergency Mass Notification Systems (like Everbridge, RAVE. and Alertus) can push CAP (Common Alerting Protocol) and Integrated Public Alert and Warning System (IPAWS) messages to the targets including digital signage when there is an emergency. You can integrate with these systems using the CAP Alert app with OptiSigns.
 
 Using OptiSigns' CAP Alert app, you can generate a webhook and integrate it with the Emergency Alert System. When there is an emergency, the emergency alert system will call the webhook to send the CAP/IPAWS message and trigger the CAP alert app. The CAP/IPAWS alert will take over the target screens and display the emergency message. The screen will resume and play the original content when the emergency is over.
 
@@ -87,10 +87,17 @@ Click **Advanced** to expand the field and provide a slate of additional options
 
 - **Handle All Clear** - When enabled, if the alert system sends an "All Clear" message, a brief "all clear" notice will display on all screens for 60 seconds by default. Once this time has passed, content will resume as normal.
 
-|  |
-| --- |
-| **MORE ABOUT ALL CLEAR** |
-| OptiSigns handles All Clear messages in this way:   1. First, it finds the <responseType> in the message:  `<responseType>AllClear</responseType>` 2. Then, it checks the <expires>:  `<expires>2027-01-31T11:23:46-05:00</expires>` 3. If AllClear is noted in the response type, it will display the message **until the designated expires time**. If no time is sent, it will default to 60 seconds. |
+> **MORE ABOUT ALL CLEAR**
+>
+> OptiSigns handles All Clear messages in this way:
+>
+> 1. First, it finds the <responseType> in the message:
+>
+>    `<responseType>AllClear</responseType>`
+> 2. Then, it checks the <expires>:
+>
+>    `<expires>2027-01-31T11:23:46-05:00</expires>`
+> 3. If AllClear is noted in the response type, it will display the message **until the designated expires time**. If no time is sent, it will default to 60 seconds.
 
 - **Handle Update -** When enabled, the app will automatically refresh screens with additional information on the emergency alerts as updates become available.
 - **Handle Cancel** - When enabled, the app looks for a "Cancel" message referencing a previous alert. If detected, the emergency alert is immediately removed from your screens and normal content resumes.
@@ -100,7 +107,9 @@ Click **Advanced** to expand the field and provide a slate of additional options
 - **Location (Screen Tags)** - If you can match the screen tags with your location passed from the CAP/IPAWS message/RSS feed - you can use it to control the selection of the target screens. By default, it maps to the "areaDesc" attribute from the CAP alert.
 - **Status** - Select your CAP Alert status.
 
-> **IMPORTANT:** A common issue we find is the screen displays a "No Content Available" message after users push out the CAP alert using the "aeraDesc" attribute. The solution: if you are not intending to use screen tags to map to location, try changing the Location value from "areaDesc" to any other value, like <areaDesc1>.
+> **IMPORTANT**
+>
+> A common issue we find is the screen displays a "No Content Available" message after users push out the CAP alert using the "aeraDesc" attribute. The solution: if you are not intending to use screen tags to map to location, try changing the Location value from "areaDesc" to any other value, like <areaDesc1>.
 
 ![Advanced filters for severity, certainty, urgency, category and codes](https://support.optisigns.com/hc/article_attachments/55560067043987)
 
@@ -140,44 +149,44 @@ Then, copy and paste the following piece of test code into the field:
 ```
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <alert xmlns="urn:oasis:names:tc:emergency:cap:1.2">
-    <identifier>ALERTUS_2317_67_20230131_162046</identifier>
-    <sender>Tester</sender>
-    <sent>2023-01-31T11:20:47-05:00</sent>
-    <status>Actual</status>
-    <msgType>Alert</msgType>
-    <source>Alertus eEAS Server</source>
-    <scope>Public</scope>
-    <addresses>ALL</addresses>
-    <code>IPAWSv1.0</code>
-    <info>
-        <language>en-US</language>
-        <category>Safety</category>
-        <event>TEST Event Name Override</event>
-        <responseType>None</responseType>
-        <urgency>Immediate</urgency>
-        <severity>Severe</severity>
-        <certainty>Observed</certainty>
-        <eventCode>
-            <valueName>SAME</valueName>
-            <value>LAE</value>
-        </eventCode>
-        <effective>2023-01-31T11:20:47-05:00</effective>
-        <onset>2023-01-31T11:20:47-05:00</onset>
-        <expires>2023-01-31T11:23:46-05:00</expires>
-        <headline>Test286</headline>
-        <description>This is a Test of the Alertus Emergency Notification System. NO ACTION is Needed. In a real emergency, this system will be used to provide emergency information and protective actions. Please return to your normal activities.</description>
-        <area>
-            <areaDesc1>Tag1</areaDesc1>
-            <geocode>
-                <valueName>SAME</valueName>
-                <value>000000</value>
-            </geocode>
-        </area>
-        <parameter> 
+    <identifier>ALERTUS_2317_67_20230131_162046</identifier>
+    <sender>Tester</sender>
+    <sent>2023-01-31T11:20:47-05:00</sent>
+    <status>Actual</status>
+    <msgType>Alert</msgType>
+    <source>Alertus eEAS Server</source>
+    <scope>Public</scope>
+    <addresses>ALL</addresses>
+    <code>IPAWSv1.0</code>
+    <info>
+        <language>en-US</language>
+        <category>Safety</category>
+        <event>TEST Event Name Override</event>
+        <responseType>None</responseType>
+        <urgency>Immediate</urgency>
+        <severity>Severe</severity>
+        <certainty>Observed</certainty>
+        <eventCode>
+            <valueName>SAME</valueName>
+            <value>LAE</value>
+        </eventCode>
+        <effective>2023-01-31T11:20:47-05:00</effective>
+        <onset>2023-01-31T11:20:47-05:00</onset>
+        <expires>2023-01-31T11:23:46-05:00</expires>
+        <headline>Test286</headline>
+        <description>This is a Test of the Alertus Emergency Notification System. NO ACTION is Needed. In a real emergency, this system will be used to provide emergency information and protective actions. Please return to your normal activities.</description>
+        <area>
+            <areaDesc1>Tag1</areaDesc1>
+            <geocode>
+                <valueName>SAME</valueName>
+                <value>000000</value>
+            </geocode>
+        </area>
+        <parameter> 
             <valueName>duration</valueName> 
             <value>30</value> 
         </parameter> 
-    </info>
+    </info>
 </alert>
 ```
 
@@ -187,7 +196,7 @@ It will look something like this:
 
 You can set the duration of the CAP/IPAWS alert message as well. In raw XML format, you can pass the duration value through a system parameter in your CAP alert message.
 
-Now, to test the request, hit **Send**. A piece of text should appear on the console below. If the test was successful, it should give a **200 OK code** and say "status": "success":
+Now, to test the request, hit **Send**. A piece of text should appear on the console below. If the test was successful, it should give a **200 OK code** and say "status": "success":
 
 ![postman showing code layout under raw data tab](https://support.optisigns.com/hc/article_attachments/33695707725715)
 
@@ -205,4 +214,4 @@ The rest of the test can be performed identically.
 
 ### That's all!
 
-If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
+If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)

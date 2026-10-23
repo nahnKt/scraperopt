@@ -34,7 +34,9 @@ Here's how to set it up.
 
 The app covers more than 300 airports worldwide. You pick one from a searchable list, and the search matches the city, the IATA code (ORD) or the ICAO code (KORD). Because of this, you don't need to know the airport's formal name.
 
-> **NOTE:** If your airport isn't in the list, it isn't available yet. There's no way to add one from the portal.
+> **NOTE**
+>
+> If your airport isn't in the list, it isn't available yet. There's no way to add one from the portal.
 
 ---
 
@@ -66,7 +68,9 @@ Enter the details for your board. The panel on the right previews it as you work
 
 ![Airport picker searched for ORD, with Chicago O'Hare highlighted in the results](https://support.optisigns.com/hc/article_attachments/55669981519635)
 
-> **IMPORTANT:** The preview in the settings dialog always shows **SAMPLE DATA.** These are all made-up flights, no matter the airport you pick. It's there to show you the layout, the theme and the pacing, not the flights. To see the real board, save the asset and use **Preview** on it in Files/Assets.
+> **IMPORTANT**
+>
+> The preview in the settings dialog always shows **SAMPLE DATA.** These are all made-up flights, no matter the airport you pick. It's there to show you the layout, the theme and the pacing, not the flights. To see the real board, save the asset and use **Preview** on it in Files/Assets.
 
 ### Advanced Settings
 
@@ -110,7 +114,7 @@ Once the asset is saved, hover it in **Files/Assets** and click **Preview** to s
   - **On Time** - Running on schedule, confirmed by live information.
   - **Scheduled** - The published time, with no live update yet.
   - **Boarding** - Displays when flight is currently boarding (departures only).
-  - **Gate Closed** - Displays when boarding is concluded, but flight  has yet to depart.
+  - **Gate Closed** - Displays when boarding is concluded, but flight  has yet to depart.
   - **Delayed** - More than 10 minutes behind, with the delay shown.
   - **Departed** - Flight has left.
   - **In Air** - Flight is en route.
@@ -118,7 +122,8 @@ Once the asset is saved, hover it in **Files/Assets** and click **Preview** to s
   - **Cancelled** - Flight has been cancelled.
   - **Diverted** - Flight has been diverted to another airport.
 
-> **NOTE:**
+> **NOTE**
+>
 > **Scheduled** means live information hasn't been published for that flight yet - the time shown is still the airline's scheduled time. Some airports publish far less live data than others, so a board can be mostly **Scheduled** and still be correct.
 
 If flight information stops arriving, the board keeps showing the last update it received under an amber **Connection lost** banner rather than going blank, and reconnects on its own.

@@ -7,7 +7,7 @@ With Pro Plus and Enterprise plans, you can configure SAML 2.0 with OptiSigns vi
 
 OneLogin will be acting as the IDP (Identity Provider), and OptiSigns will be working as the SP(Service Provider).
 
-### **Set up OptiSigns & OneLogin:**
+### Set up OptiSigns & OneLogin:
 
 **First, you need to do some setup in OptiSigns:**
 
@@ -76,16 +76,16 @@ Put the content from base64 encoded x509 certificate under Public Certificate.
 
 Now your login portal & integration are all set up.
 
-#### **Assign & map users, and groups from OneLogin to OptiSigns**
+#### Assign & map users, and groups from OneLogin to OptiSigns
 
 It's not required, but recommended to create groups of users to be assigned, and map to OptiSigns Roles, and Teams so they will automatically have the right role & group.
 
 **IMPORTANT NOTE: If you don't configure this, all users will be assigned User Role & Default Team (screenshot see below)**
 
-To configure how OptiSigns should map the user groups to OptiSigns Roles by going to: <https://app.optisigns.com/app/s/saml-settings>
+To configure how OptiSigns should map the user groups to OptiSigns Roles by going to: <https://app.optisigns.com/app/s/saml-settings>
 
 Scroll to Advanced Settings and create a mapping.  
-Group Name (roles assigned to the user from OneLogin), Role (role in OptiSigns) mapping.   
+Group Name (roles assigned to the user from OneLogin), Role (role in OptiSigns) mapping.   
 ![mceclip9.png](https://support.optisigns.com/hc/article_attachments/21286528943635)
 
 It's best practice to create a group specifically for OptiSigns with name prefix with optisigns- and map to OptiSigns like below:
@@ -118,7 +118,7 @@ The parameter names are corresponding to OptiSigns
 
 <https://app.optisigns.com/app/s/saml-settings>
 
-OptiSigns accept firstName, lastName, and group by default. Instead of setting the parameter names to the default attribute name used on OptiSigns,  you can also change the attribute name on OptiSigns to match the parameter names you defined on OneLogin as well.
+OptiSigns accept firstName, lastName, and group by default. Instead of setting the parameter names to the default attribute name used on OptiSigns,  you can also change the attribute name on OptiSigns to match the parameter names you defined on OneLogin as well.
 
 Shibboleth uses standard namespace and id for the predefined standard attributes. In the case of names, the id should be used in the attributes mapping on OptiSigns.
 
@@ -128,7 +128,7 @@ lastName (surname):urn:oid:2.5.4.4
 
 ![mceclip5.png](https://support.optisigns.com/hc/article_attachments/4407468403219)
 
-### **That's it!**
+### That's it!
 
 You have configured SAML 2.0 for OptiSigns with OneLogin using the Shibboleth connector.
 
@@ -136,4 +136,4 @@ Now your users can log in using the subdomain that you configured (in this case 
 
 You can share the URL with your users and they can log in with their SSO credentials.
 
-If you have any additional questions or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
+If you have any additional questions or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)

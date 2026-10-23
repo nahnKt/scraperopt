@@ -18,21 +18,21 @@ Harness the power of OptiSigns Designer's Drag & Drop UI to create interactive k
 
 **Here's a 3 minute video guide:**
 
-|  |
-| --- |
-| **NOTE:** You will need the [**Engage plan**](https://support.optisigns.com/hc/en-us/articles/23565267463315) to access these interactive kiosk features. |
+[Embedded content (www.youtube-nocookie.com)](https://www.youtube-nocookie.com/embed/TLbp7tU6mtw)
+
+> **NOTE:** You will need the [**Engage plan**](https://support.optisigns.com/hc/en-us/articles/23565267463315) to access these interactive kiosk features.
 
 ---
 
-## **Setting Up a Kiosk App Using Kiosk Designer Pro**
+## Setting Up a Kiosk App Using Kiosk Designer Pro
 
 Log on to the OptiSigns portal: <http://app.optisigns.com/>
 
-Go to **Engage** tab → Click on **'New App'**
+Go to **Engage** tab → Click on **'New App'**
 
 ![](https://support.optisigns.com/hc/article_attachments/31373400777747)
 
-Select **'Touch Screen Kiosks'** **→**  **Select App**
+Select **'Touch Screen Kiosks'** **→**  **Select App**
 
 ![](https://support.optisigns.com/hc/article_attachments/27030302640403)
 
@@ -42,17 +42,13 @@ Select **'Kiosk Designer Pro'** **→ Next →** **Build**
 
 You will be re-directed to the Designer app.
 
-|  |
-| --- |
-| For a refresher on how to use Designer, please click **[here.](https://support.optisigns.com/hc/en-us/articles/42087942047379-Getting-Started-with-Designer)** |
+> For a refresher on how to use Designer, please click **[here.](https://support.optisigns.com/hc/en-us/articles/42087942047379-Getting-Started-with-Designer)**
 
-In Designer, you will see a new function in the top menu called **Link.** This will appear when clicking on any element.
+In Designer, you will see a new function in the top menu called **Link.** This will appear when clicking on any element.
 
 ![](https://support.optisigns.com/hc/article_attachments/42857781024531)
 
-|  |
-| --- |
-| **NOTE:** You may need to scroll across the top menu bar if you are using a device with a smaller resolution. |
+> **NOTE:** You may need to scroll across the top menu bar if you are using a device with a smaller resolution.
 
 **'Link'** can be used to map to another:
 
@@ -77,7 +73,7 @@ A new window will populate, allowing you to either:
 
 ### Option 1: Selecting a Direct URL
 
-If you are using a **direct URL**,  you will need to input a URL and then click **Add**.
+If you are using a **direct URL**,  you will need to input a URL and then click **Add**.
 
 ![](https://support.optisigns.com/hc/article_attachments/27030302796179)
 
@@ -117,7 +113,7 @@ If you want to set these options as your default for future use, see our "[How t
 
 ### Option 2: Selecting an Asset
 
-If you are using an **asset**,  you can either choose an asset from within your library, upload a file, create a new app, or choose a Feeds.
+If you are using an **asset**,  you can either choose an asset from within your library, upload a file, create a new app, or choose a Feeds.
 
 ![](https://support.optisigns.com/hc/article_attachments/31373400781331)
 
@@ -135,8 +131,8 @@ For **assets**, you will have all the [**same link options**](#option-2-selectin
 
 Click **Save**.
 
-## **That's all!**
+## That's all!
 
 You have successfully created your kiosk app using Kiosk Designer Pro, and it is now ready to be used.
 
-If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
+If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)

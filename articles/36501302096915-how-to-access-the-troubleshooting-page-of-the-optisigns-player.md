@@ -5,7 +5,7 @@ Last updated: 2024-12-17
 
 Sometimes you may experience issues with the OptiSigns app. If that happens, you can navigate to the **Troubleshooting page** from the side menu in the OptiSigns app to check the connection status and other details.
 
-### **How to Access the Troubleshooting Page**
+### How to Access the Troubleshooting Page
 
 - [Android OS device](#0)
 - [OptiSigns Pro Player](#1)

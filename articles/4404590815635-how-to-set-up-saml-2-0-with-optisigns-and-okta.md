@@ -7,7 +7,7 @@ With Pro Plus and Enterprise plans, you can configure SAML 2.0 with OptiSigns vi
 
 Assuming you already using Okta for identity management. If you have not used Okta, it is the leading identity management platform, you can learn more [here](https://www.okta.com/intro-to-okta/).
 
-### **Set up OptiSigns & Okta:**
+### Set up OptiSigns & Okta:
 
 **First, you need to do some setup in OptiSigns:**
 
@@ -95,7 +95,7 @@ Now your login portal & integration are all setup.
 
 Next, you need to assign users, and groups that can use OptiSigns.
 
-#### **Assign & map users, and groups from Okta to OptiSigns**
+#### Assign & map users, and groups from Okta to OptiSigns
 
 It's not required, but recommended to create groups of users to be assigned, and map to OptiSigns Roles, and Teams so they will automatically have the right role & group.
 
@@ -104,7 +104,7 @@ It's not required, but recommended to create groups of users to be assigned, and
 To configure how OptiSigns should map the user groups to OptiSigns Roles by going to: <https://app.optisigns.com/app/s/saml-settings>
 
 Scroll to Advanced Settings and create a mapping.  
-Group Name (group names in Okta), Role (role in OptiSigns) mapping.   
+Group Name (group names in Okta), Role (role in OptiSigns) mapping.   
 ![mceclip1.png](https://support.optisigns.com/hc/article_attachments/4404820186003)
 
 It's best practice to create a group name prefix with Optisigns- and map to OptiSigns like below:
@@ -153,7 +153,7 @@ OptiSigns accept firstName, lastName, and group by default, but if you change th
 
 If you want your user to login to the OptiSigns portal via OKTA portal, Okta does not support the IDP that is initiated. It will use the Bookmark App on Okta, You can follow this article to set up the Bookmark app: <https://support.okta.com/help/s/article/How-do-you-create-a-bookmark-app?language=en_US>
 
-#### **I've made it into my OptiSigns account, but don't seem to have all the side menu options I'm used to. What’s going on?**
+#### I've made it into my OptiSigns account, but don't seem to have all the side menu options I'm used to. What’s going on?
 
 It's likely you've signed on through your Branded Portal, using a URL similar to this one:
 
@@ -181,7 +181,7 @@ https://app.optisigns.com/signIn/<accountId>
 
 Now you'll want to set this URL up as an Okta bookmark. You can follow this article to set up the Bookmark app: <https://support.okta.com/help/s/article/How-do-you-create-a-bookmark-app?language=en_US>
 
-### **That's it!**
+### That's it!
 
 You have configured SAML 2.0 for OptiSigns with Okta.
 

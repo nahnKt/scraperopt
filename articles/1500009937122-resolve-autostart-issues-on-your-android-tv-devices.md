@@ -7,7 +7,7 @@ Auto Start feature is not working on your devices. The devices give example: Chr
 
 This article guides you on how to resolve the Auto Start feature on your Android device.
 
-### **Let's jump in and get started:**
+### Let's jump in and get started:
 
 Go to Settings > Apps > Special app access > Display over other apps, make sure the OptiSigns app is allowed.
 
@@ -31,8 +31,8 @@ Go to Settings > Apps > Special app access > Display over other apps, make sure 
 
 ![mceclip7.png](https://support.optisigns.com/hc/article_attachments/1500015697261)
 
-### **That's it.**
+### That's it.
 
 Your Auto Start feature will be worked.
 
-If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
+If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)

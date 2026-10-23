@@ -12,7 +12,7 @@ It's extremely easy to change the details of your OptiSigns subscription. From t
 
 In addition, you can change payment terms from Monthly to Yearly and vice versa. Our billing system will prorate your charges as appropriate.
 
-#### **To make changes to your plan, please go to:**
+#### To make changes to your plan, please go to:
 
 <https://app.optisigns.com/app/s/subscription-plan>
 

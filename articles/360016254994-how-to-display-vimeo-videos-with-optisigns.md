@@ -32,7 +32,9 @@ First, open the video you want to display on **vimeo.com**. Copy its address fro
 
 ![Vimeo video page with an arrow pointing to the video ID at the end of the vimeo.com URL](https://support.optisigns.com/hc/article_attachments/56378620575891)
 
-> **NOTE:** The Vimeo app accepts **vimeo.com** video links, such as **https://vimeo.com/449787858**. Links from **player.vimeo.com**, showcases or folders aren't accepted, and the app shows **Please enter a valid Vimeo video URL**.
+> **NOTE**
+>
+> The Vimeo app accepts **vimeo.com** video links, such as **https://vimeo.com/449787858**. Links from **player.vimeo.com**, showcases or folders aren't accepted, and the app shows **Please enter a valid Vimeo video URL**.
 
 Next, go to the OptiSigns portal. Go to **Files/Assets** and select **Apps**.
 
@@ -74,10 +76,10 @@ The Vimeo app doesn't have a captions setting. To show captions, use the **Strea
 
 First, build the link from your video's ID (the number at the end of its vimeo.com link):
 
-- **Captions you uploaded** - https://player.vimeo.com/video/VIDEO\_ID?autoplay=1&loop=1&texttrack=en
-- **Vimeo's auto-generated captions** - https://player.vimeo.com/video/VIDEO\_ID?autoplay=1&loop=1&texttrack=en-x-autogen
+- **Captions you uploaded** - https://player.vimeo.com/video/VIDEO_ID?autoplay=1&loop=1&texttrack=en
+- **Vimeo's auto-generated captions** - https://player.vimeo.com/video/VIDEO_ID?autoplay=1&loop=1&texttrack=en-x-autogen
 
-Replace **VIDEO\_ID** with your video's ID. For another language, replace **en** with that language's code, as long as the video has captions in that language on Vimeo.
+Replace **VIDEO_ID** with your video's ID. For another language, replace **en** with that language's code, as long as the video has captions in that language on Vimeo.
 
 Next, go to **Files/Assets**, select **Apps**, then search for and select the **Streaming App**.
 

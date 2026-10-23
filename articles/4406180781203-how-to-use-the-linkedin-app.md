@@ -67,7 +67,9 @@ Fill them in:
 - **Name** - The name of your LinkedIn asset. This is for organizational purposes within OptiSigns only and will not display on your screens.
 - **Company** - The Company Page whose posts you want to show, if you're an admin of more than one.
 
-> **IMPORTANT:** You can only set the **Company** when you create the app. To show a different Company Page later, create a new LinkedIn app.
+> **IMPORTANT**
+>
+> You can only set the **Company** when you create the app. To show a different Company Page later, create a new LinkedIn app.
 
 - **Display Mode** - How your posts are laid out. Choose from **Social Kiosk View**, **Single Post View**, **Social Wall View**, **Timeline View**, **Bricks View**, **Modern View** or **Flip Card View**.
 - **Theme** - Choose **Light Theme** or **Dark Theme**, or **Custom** to pick your own colors.
@@ -96,7 +98,9 @@ Click **Advanced** for more options:
 
 Now hit **Save**. You'll have created a LinkedIn app, and it will appear in your **Files/Assets**. It may take a few seconds for the app to fetch your posts.
 
-> **NOTE:** Video playback isn't supported in the LinkedIn app. If you want to show LinkedIn videos, check out the [Taggbox Display app](https://support.optisigns.com/hc/en-us/articles/1500009343862).
+> **NOTE**
+>
+> Video playback isn't supported in the LinkedIn app. If you want to show LinkedIn videos, check out the [Taggbox Display app](https://support.optisigns.com/hc/en-us/articles/1500009343862).
 
 ---
 

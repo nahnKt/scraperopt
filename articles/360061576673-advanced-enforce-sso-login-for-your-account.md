@@ -14,7 +14,9 @@ By default, OptiSigns allows the use of Google, Facebook, or Microsoft accounts 
 
 However, some organizations have requirements to enforce SSO login for two-factor authentication and password protection purposes. OptiSigns supports this through Microsoft AD and Google GSuite, as well as various SAML options requiring custom branding.
 
-> **NOTE:** The ability to enforce SSO on your account requires a [Pro Plus plan subscription or above.](https://www.optisigns.com/pricing)
+> **NOTE**
+>
+> The ability to enforce SSO on your account requires a [Pro Plus plan subscription or above.](https://www.optisigns.com/pricing)
 
 ---
 
@@ -56,6 +58,6 @@ We have numerous articles covering this process, as well as general best practic
 
 Please follow one of these guides to set up SSO via SAML.
 
-### **That's all!**
+### That's all!
 
 OptiSigns is the leader in [digital signage software](https://www.optisigns.com/). If you have any additional questions or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com).

@@ -36,7 +36,9 @@ The steps below use the Instagram app. The other apps work the same way.
 
 ## Turn On Moderation
 
-> **NOTE:** Save your app before you start. Moderation needs posts to work with, so it is only available on an app that has already been saved. It may take a few minutes for posts to load after the first save.
+> **NOTE**
+>
+> Save your app before you start. Moderation needs posts to work with, so it is only available on an app that has already been saved. It may take a few minutes for posts to load after the first save.
 
 Go to **Files/Assets** and click your saved social media app to open its settings.
 
@@ -48,7 +50,9 @@ While **Always show new posts** is on, every new post appears on your screens au
 
 Click **Save** in the app settings to keep the change.
 
-> **TIP:** In the Google Reviews app, this setting is called **Always Show New Reviews**, and the button next to it is labeled **Moderation**. In the Facebook Page app, the button is also labeled **Moderation**.
+> **TIP**
+>
+> In the Google Reviews app, this setting is called **Always Show New Reviews**, and the button next to it is labeled **Moderation**. In the Facebook Page app, the button is also labeled **Moderation**.
 
 ---
 
@@ -79,7 +83,9 @@ The bar at the top shows how many posts you have selected, with three buttons on
 
 Your changes apply as soon as you make them. Close the window when you are done.
 
-> **NOTE:** If you use the [Social Mix](https://support.optisigns.com/hc/en-us/articles/4403267825171-How-to-Use-the-Social-Mix-App) app, posts you hide or delete in a source app are also removed from your Social Mix.
+> **NOTE**
+>
+> If you use the [Social Mix](https://support.optisigns.com/hc/en-us/articles/4403267825171-How-to-Use-the-Social-Mix-App) app, posts you hide or delete in a source app are also removed from your Social Mix.
 
 ### That’s all!
 

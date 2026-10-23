@@ -28,7 +28,7 @@ Next, go to the "Actions" tab and set the action to whatever it is you want to r
 
 ![Task_Scheduel_1.png](https://support.optisigns.com/hc/article_attachments/360091166373)
 
-- **Create Task** in your Task Scheduler
+- **Create Task** in your Task Scheduler
 
 ![Task_Scheduel_2.png](https://support.optisigns.com/hc/article_attachments/360091166393)
 

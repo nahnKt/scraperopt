@@ -5,7 +5,7 @@ Last updated: 2024-06-24
 
 ### Are you looking for a quick and easy way to test out OptiSigns during your trial or before pushing to your main screens?
 
-You'll first, want to download our [Windows Player app](https://links.optisigns.com/win) or [MacOS Player app](https://links.optisigns.com/mac) onto your laptop or desktop.
+You'll first, want to download our [Windows Player app](https://links.optisigns.com/win) or [MacOS Player app](https://links.optisigns.com/mac) onto your laptop or desktop.
 
 From there, please follow the respective guide to setup your screen:
 

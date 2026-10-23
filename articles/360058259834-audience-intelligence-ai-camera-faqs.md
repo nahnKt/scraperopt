@@ -15,7 +15,7 @@ Last updated: 2026-02-04
 
 ---
 
-#### **What is OptiSigns Audience Intelligence?**
+#### What is OptiSigns Audience Intelligence?
 
 OptiSigns Audience Intelligence, namely AI Camera, is an app that allows you to use any camera or webcam plugged into a device running the OptiSigns Digital Signage app to:
 
@@ -24,7 +24,7 @@ OptiSigns Audience Intelligence, namely AI Camera, is an app that allows you to 
 
 ---
 
-#### **How can I use OptiSigns AI Camera?**
+#### How can I use OptiSigns AI Camera?
 
 OptiSigns AI Camera can be used for:
 
@@ -35,7 +35,7 @@ To set up the OptiSigns AI Camera, follow the [quick start guide here.](https://
 
 ---
 
-#### **What can OptiSigns AI Camera detect?**
+#### What can OptiSigns AI Camera detect?
 
 OptiSigns AI Camera detects:
 
@@ -50,7 +50,7 @@ OptiSigns AI Camera detects:
 
 ---
 
-#### **What data does OptiSigns collect? Is it GDPR and SOCII Compliant?**
+#### What data does OptiSigns collect? Is it GDPR and SOCII Compliant?
 
 OptiSigns use facial detection (not recognition) technology, and only collects the following anonymous data:
 
@@ -64,7 +64,7 @@ This data is:
 - Anonymous and not personal identifiable
 - Processed on the fly on the local device
 
-OptiSigns does not store images or facial identification information on our servers, or locally on the device through the OptiSigns Digital Signage app. The ONLY stored data points are the four points above, which can be accessed through the **AI Analytics** tab in the OptiSigns web portal.
+OptiSigns does not store images or facial identification information on our servers, or locally on the device through the OptiSigns Digital Signage app. The ONLY stored data points are the four points above, which can be accessed through the **AI Analytics** tab in the OptiSigns web portal.
 
 Therefore, **OptiSigns is GDPR and SOCII compliant.**
 
@@ -72,7 +72,7 @@ However, customers can store images and facial ID through the use of third party
 
 ---
 
-#### **How accurate is the detection?**
+#### How accurate is the detection?
 
 OptiSigns AI is optimized for real-time detection, not accuracy.
 
@@ -80,7 +80,7 @@ In general, expect **80+%** accuracy in detection.
 
 ---
 
-#### **What is required to run OptiSigns Audience Intelligence?**
+#### What is required to run OptiSigns Audience Intelligence?
 
 To run Audience Intelligence, you’ll need:
 
@@ -102,6 +102,6 @@ For the AI Detection program:
 
 ---
 
-#### **How much does OptiSigns Audience Intelligence cost?**
+#### How much does OptiSigns Audience Intelligence cost?
 
 The Audience Intelligence feature is part of our **Engage** subscription plan, which costs $30/month per screen.

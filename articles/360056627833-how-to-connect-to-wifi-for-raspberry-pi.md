@@ -27,7 +27,7 @@ Let's dive in.
 
 ![RPi_Wifi_connection-3.png](https://support.optisigns.com/hc/article_attachments/360092720674)
 
-**5.  Click OK**
+**5.  Click OK**
 
 ![RPi_Wifi_connection-5.png](https://support.optisigns.com/hc/article_attachments/360094946253)
 
@@ -47,9 +47,9 @@ You're ready to go.
 
 Then you can enter this pairing code on your web portal. If you want to learn more, you can click [here](https://support.optisigns.com/hc/en-us/articles/360016374813-Set-up-add-a-screen).
 
-### **Advanced: if you need to connect RPi to WPA-Enterprise network (usually for large organization, universities) the default WiFi manager of Raspberry Pi OS may not be enough.**
+### Advanced: if you need to connect RPi to WPA-Enterprise network (usually for large organization, universities) the default WiFi manager of Raspberry Pi OS may not be enough.
 
-You can follow this guide to configure wpa\_supplicant.conf file:
+You can follow this guide to configure wpa_supplicant.conf file:
 
 <https://iceburn.medium.com/raspberry-pi-connected-to-wifi-of-wpa2-enterprise-ddd5a40c0b07>
 
@@ -59,4 +59,4 @@ Follow this guide for a more GUI approach:
 
 <https://raspberrypi.stackexchange.com/a/119653>
 
-If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
+If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)

@@ -20,9 +20,7 @@ This reduces headaches in situations when:
 
 Using a Power BI service principal, the authentication tokens are associated with a registered app instead of a user. This allows you to set a longer validity time for the authentication token and avoids more frequent re-authorization. Using service principal with App registration for Power BI integration is supported well with OptiSigns.
 
-|  |
-| --- |
-| **NOTE:** This feature is available to customers on the **Pro Plus**, **Engage** or **Enterprise** plan. |
+> **NOTE:** This feature is available to customers on the **Pro Plus**, **Engage** or **Enterprise** plan.
 
 ---
 
@@ -60,7 +58,7 @@ Enable the **Embed Content in Apps Settings**, as below:
 
 In this example, we’ve set this embed to apply permissions to the entire organization. However, you can restrict access to specific security groups based on your needs. These security settings can be changed as per your requirements.
 
-Next, **Enable Service principals can create workspaces, connections, and deployment pipelines** and **Enable Service Principals can call Fabric public APIs**, as below:
+Next, **Enable Service principals can create workspaces, connections, and deployment pipelines** and **Enable Service Principals can call Fabric public APIs**, as below:
 
 ![image (28)(1).png](https://support.optisigns.com/hc/article_attachments/42225175622675)
 
@@ -131,9 +129,7 @@ In the OptiSigns portal, go to **Files/Assets → Apps → Power BI**
 
 Check **Use Service Principal** and select the service principal you set up in the last step, or whichever service principal you want to use.
 
-|  |
-| --- |
-| **NOTE:** Using a service principal, the Power BI Dashboard URL link needs to include the actual **workspace (group)** ID instead of me. |
+> **NOTE:** Using a service principal, the Power BI Dashboard URL link needs to include the actual **workspace (group)** ID instead of me.
 
 **![powerbi app information in optisigns](https://support.optisigns.com/hc/article_attachments/32860610472339)**
 
@@ -143,6 +139,6 @@ Finally, input the URL of whatever report you want to share. Name the app whatev
 
 Hit **Save**, then this Power BI app will exist as an asset. It can be pushed to any of your screens individually, scheduled, or added to a Playlist.
 
-### **That’s all!**
+### That’s all!
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com).

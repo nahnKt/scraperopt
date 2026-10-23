@@ -50,7 +50,7 @@ This Mutation creates a brand new schedule, as you can see from the data to the 
 
 **2. Updating Schedules**
 
-This same Mutation can be used to update the schedule itself. In order to update the schedule, you’ll need to input the “\_id” value in the payload:
+This same Mutation can be used to update the schedule itself. In order to update the schedule, you’ll need to input the “_id” value in the payload:
 
 ![](https://support.optisigns.com/hc/article_attachments/36558841527955)
 
@@ -65,37 +65,37 @@ Now, we’ll want to add an item to the schedule. For that, we’ll need another
 ```
 mutation addScheduleItem($force:Boolean,$payload: AddScheduleItemInput!, $teamId: String!){  
   
-  addScheduleItem(force:$force,payload:$payload,teamId:$teamId){  
+  addScheduleItem(force:$force,payload:$payload,teamId:$teamId){  
   
-         _id,  
+         _id,  
   
-       name,  
+       name,  
   
-       assetId,        
+       assetId,        
   
-       teamId,  
+       teamId,  
   
-       playlistId,  
+       playlistId,  
   
-       repeatObject{  
+       repeatObject{  
   
-         id,  
+         id,  
   
-         repeat,  
+         repeat,  
   
-         text,  
+         text,  
   
-         type,  
+         type,  
   
-         rrule  
+         rrule  
   
-       },  
+       },  
   
-       range{startDate,endDate},  
+       range{startDate,endDate},  
   
-       documentDuration  
+       documentDuration  
   
-  }  
+  }  
   
 }
 ```
@@ -107,17 +107,17 @@ mutation addScheduleItem($force:Boolean,$payload: AddScheduleItemInput!, $teamId
 ```
 {"force": false,  
  "payload": {"scheduleId": "",  
-            "assetId": "",  
-            "playlistId":"",  
-            "type": "",  
-            "repeatObject": {  
-              "rrule": ""  
-            },  
-             "range": {  
-               "startDate": "",  
-               "endDate": ""  
-            }  
-     },  
+            "assetId": "",  
+            "playlistId":"",  
+            "type": "",  
+            "repeatObject": {  
+              "rrule": ""  
+            },  
+             "range": {  
+               "startDate": "",  
+               "endDate": ""  
+            }  
+     },  
  "teamId": ""  
 }
 ```
@@ -135,22 +135,22 @@ Once you’ve created a schedule and set an item on it, it’s possible to edit 
 ```
 mutation updateScheduleItem($force:Boolean,$payload: UpdateScheduleItemInput!, $scope: APPLY_SCHEDULE_ITEM_SCOPES!){  
   
-  updateScheduleItem(force:$force,payload:$payload,scope:$scope){  
-       _id,  
-       name,  
-       assetId,        
-       teamId,  
-       playlistId,  
-       repeatObject{  
-         id,  
-         repeat,  
-         text,  
-         type,  
-         rrule  
-       },  
-       range{startDate,endDate},  
-       documentDuration  
-  }  
+  updateScheduleItem(force:$force,payload:$payload,scope:$scope){  
+       _id,  
+       name,  
+       assetId,        
+       teamId,  
+       playlistId,  
+       repeatObject{  
+         id,  
+         repeat,  
+         text,  
+         type,  
+         rrule  
+       },  
+       range{startDate,endDate},  
+       documentDuration  
+  }  
 }
 ```
 
@@ -161,15 +161,15 @@ With this mutation, we’ll input these variables:
 ```
 {"force": false,  
  "payload": {"_id": "",  
-            "assetId": "",  
-            "playlistId":"",  
-            "repeatObject": {  
-              "rrule": ""  
-             },  
-            "range": {  
-              "startDate": "",  
-              "endDate": ""  
-            }  
+            "assetId": "",  
+            "playlistId":"",  
+            "repeatObject": {  
+              "rrule": ""  
+             },  
+            "range": {  
+              "startDate": "",  
+              "endDate": ""  
+            }  
  },  
  "scope": ""  
 }

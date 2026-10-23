@@ -104,7 +104,9 @@ You can also create a New Folder here if needed.
 
 **Save -** Saves your Design asset. This will overwrite any earlier versions of the asset, unless you give it another name.
 
-> **NOTE:** Hitting **Save** with a blank design triggers a warning letting you know you are saving a blank design. The design will not save.
+> **NOTE**
+>
+> Hitting **Save** with a blank design triggers a warning letting you know you are saving a blank design. The design will not save.
 
 ![empty design saved notification](https://support.optisigns.com/hc/article_attachments/42087941863315)
 
@@ -165,11 +167,9 @@ Double-clicking or selecting the text allows you to enter text directly.
 Text can be resized at will.
 
 ![](https://support.optisigns.com/hc/article_attachments/45411285130515)
-
-|  |
-| --- |
-| **IMPORTANT NOTE** |
-| How your text is resized is determined by which part of the text you drag from. If you drag **from the sides**, this will **Crop** your text and force it to fit into a smaller range. Dragging **from the corners** will maintain the aspect ratio of the selection and change the size of the font automatically. |
+> **IMPORTANT NOTE**
+>
+> How your text is resized is determined by which part of the text you drag from. If you drag **from the sides**, this will **Crop** your text and force it to fit into a smaller range. Dragging **from the corners** will maintain the aspect ratio of the selection and change the size of the font automatically.
 
 Lastly, single clicking the text, then holding down the mouse button and dragging allows you to reposition the text.
 
@@ -194,11 +194,9 @@ Clicking a Shape or Element will add it to the design:
 Shapes are reactive and can be resized or rotated at will:
 
 ![firefox_9GYjGYVRec.gif](https://support.optisigns.com/hc/article_attachments/42278925006227)
-
-|  |
-| --- |
-| **IMPORTANT NOTE** |
-| How your image is resized is determined by which part of the text you drag from. If you drag **from the sides**, this will **Crop** your image. Dragging **from the corners** will maintain the aspect ratio of the selection and **resize** it automatically. |
+> **IMPORTANT NOTE**
+>
+> How your image is resized is determined by which part of the text you drag from. If you drag **from the sides**, this will **Crop** your image. Dragging **from the corners** will maintain the aspect ratio of the selection and **resize** it automatically.
 
 Clicking the Shape or Element will change the Top Menu and apply directly to the selection:
 
@@ -347,7 +345,9 @@ This gives you the option to Keep Editing, Discard Changes, or Save Changes and 
 
 The **Undo** option does what it says on the tin - it undoes the last action. If this button is pushed in error, the **Redo** button will fix it.
 
-> **NOTE:** The Undo command can also be performed using **CTRL+Z** on a Windows machine or **Cmd+Z** on a Mac. Redo can be performed using **CTRL+Y** on Windows or **Cmd+SHIFT+Z** on Mac.
+> **NOTE**
+>
+> The Undo command can also be performed using **CTRL+Z** on a Windows machine or **Cmd+Z** on a Mac. Redo can be performed using **CTRL+Y** on Windows or **Cmd+SHIFT+Z** on Mac.
 
 ---
 
@@ -436,8 +436,10 @@ To go back to the old 1.0 version of Designer, simply click the **Use Designer 1
 
 ![designer 1.0 option](https://support.optisigns.com/hc/article_attachments/42087941992211)
 
-> **NOTE:** Designer 1.0 is planned to be obsoleted by end-of-year 2025, and all designs created going forward will use Designer 2.0.
+> **NOTE**
+>
+> Designer 1.0 is planned to be obsoleted by end-of-year 2025, and all designs created going forward will use Designer 2.0.
 
-### **That’s all!**
+### That’s all!
 
 OptiSigns is the leader in [digital signage software](https://www.optisigns.com/). If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com).

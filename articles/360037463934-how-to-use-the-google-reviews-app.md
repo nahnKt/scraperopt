@@ -138,13 +138,17 @@ Click **Advanced** for more options:
 - **Scrolling Strip Font Size** - Keep **Default**, or choose **Custom** and enter your own size for the scrolling strip text.
 - **Always Show New Reviews** - Keep this on to show new reviews on your screens as soon as they come in. Turn it off to approve new reviews yourself before they appear. See [Moderating Reviews](#moderating-reviews) below.
 
-> **NOTE:** If none of your reviews have text, turning on **Only Show Reviews With Text** may leave the wall empty.
+> **NOTE**
+>
+> If none of your reviews have text, turning on **Only Show Reviews With Text** may leave the wall empty.
 
 Now hit **Save**. You'll have created a Google Reviews app, and it will appear in your **Files/Assets**.
 
 ![New Google Reviews asset shown in Files/Assets](https://support.optisigns.com/hc/article_attachments/56499341586707)
 
-> **TIP:** It may take a few seconds for the app to fetch your reviews. Once saved, click the app in **Files/Assets** to see a live **Preview** of your wall as you change its settings.
+> **TIP**
+>
+> It may take a few seconds for the app to fetch your reviews. Once saved, click the app in **Files/Assets** to see a live **Preview** of your wall as you change its settings.
 
 ### Moderating Reviews
 

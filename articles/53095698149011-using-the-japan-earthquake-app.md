@@ -28,7 +28,7 @@ To set up a Japan Earthquake app, go to the **Files/Assets** tab, then click **A
 |  |  |
 | --- | --- |
 | **English / 英語** | **Japanese / 日本語** |
-|  |  |
+| ![](https://support.optisigns.com/hc/article_attachments/53095667603987) | ![](https://support.optisigns.com/hc/article_attachments/53095698122003) |
 
 Find and click on **地震情報 / Japan Earthquake**.
 
@@ -57,19 +57,20 @@ You can deploy your new Japan Earthquake app as an individual asset, or as part 
 
 To get your new asset to a screen, go to the **Screens** tab, then click the screen you want to assign it to.
 
-|  |
-| --- |
-| **English / 英語** |
-|  |
-| **Japanese / 日本語** |
-|  |
+> **English / 英語**
+>
+> ![](https://support.optisigns.com/hc/article_attachments/53095667608211)
+>
+> **Japanese / 日本語**
+>
+> ![](https://support.optisigns.com/hc/article_attachments/53095667608979)
 
 This brings us to the **Edit Screen** tab:
 
 |  |  |
 | --- | --- |
 | **English / 英語** | **Japanese / 日本語** |
-|  |  |
+| ![](https://support.optisigns.com/hc/article_attachments/53095698137363) | ![](https://support.optisigns.com/hc/article_attachments/53095698139283) |
 
 Here, select **Asset** under Content type. If you already have an Asset, Playlist, or Schedule selected, you can hit **Change**.
 

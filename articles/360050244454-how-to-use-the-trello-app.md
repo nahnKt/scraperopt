@@ -29,7 +29,7 @@ Let's get started.
 
 First, open the board you want to display at **trello.com**. Copy its address from your browser's address bar. It will look like:
 
- https://trello.com/b/boardId/board-name
+ https://trello.com/b/boardId/board-name
 
 Next, go to the OptiSigns portal. Go to **Files/Assets** and select **Apps**.
 
@@ -49,7 +49,9 @@ The Trello app settings will open. Fill in the following:
 
 ![Trello form with Name, Type, URL and Update Interval boxed and an arrow pointing down to Save](https://support.optisigns.com/hc/article_attachments/56388438446355)
 
-> **NOTE:** The URL must be a **trello.com/b/…** (board) or **trello.com/c/…** (card) link. Any other address shows **Please enter a valid Trello URL** and you won't be able to save.
+> **NOTE**
+>
+> The URL must be a **trello.com/b/…** (board) or **trello.com/c/…** (card) link. Any other address shows **Please enter a valid Trello URL** and you won't be able to save.
 
 To show a single card instead of a board, set **Type** to **Embed** and paste the card's Trello embed code into **Embed Code**.
 

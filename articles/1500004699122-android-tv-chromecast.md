@@ -7,7 +7,7 @@ In this guide, we will walk you through end to end process to install OptiSigns 
 
 ---
 
-## **Here are the high-level steps:**
+## Here are the high-level steps:
 
 1) **Download** & **Set** **up** OptiSigns Digital Signage App on your Android TV.  
   
@@ -31,9 +31,7 @@ Click **Download** on the OptiSigns app icon.
 
 Once the app is installed, **launch** it.
 
-|  |
-| --- |
-| The app will ask if you want to automatically start when device start up. It recommended to select yes, unless you want to launch the app yourself every time manually. |
+> The app will ask if you want to automatically start when device start up. It recommended to select yes, unless you want to launch the app yourself every time manually.
 
 You then will see this pairing screen:
 

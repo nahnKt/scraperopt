@@ -18,9 +18,7 @@ Last updated: 2026-08-17
   - [Step 2: Maintain the Element Mapping](#step-2-maintain-the-element-mapping)
 - [More on OptiSync Use Cases](#more-optisync-use-cases)
 
-|  |
-| --- |
-| **NOTE:** API Integration is only available with a **Pro Plus** plan or higher. |
+> **NOTE:** API Integration is only available with a **Pro Plus** plan or higher.
 
 ---
 
@@ -93,7 +91,7 @@ This will open the **API Keystore.**
 
 ![](https://support.optisigns.com/hc/article_attachments/32427378817171)
 
-Click **Add Key**.
+Click **Add Key**.
 
 ![firefox_Af1bBuAYxy.png](https://support.optisigns.com/hc/article_attachments/32427378823187)
 
@@ -159,11 +157,11 @@ Usually, the **Params** tab is used in conjunction with the Pre-request and Post
 
 To use pre- and post-request processing, some amount of Javascript knowledge is needed.
 
-|  |
-| --- |
-| What is the Difference Between the Two? |
-| **Pre-request:** This is a code snippet normally set the context ***before*** the API request. This can be retrieving an authentication token from another API, or to change parameters to allow for more automation. |
-| **Post-request:** A piece of code to apply to the data ***received from*** the API request. This code can be used to modify the received data to change how it is displayed on your screens. |
+> **What is the Difference Between the Two?**
+>
+> **Pre-request:** This is a code snippet normally set the context ***before*** the API request. This can be retrieving an authentication token from another API, or to change parameters to allow for more automation.
+>
+> **Post-request:** A piece of code to apply to the data ***received from*** the API request. This code can be used to modify the received data to change how it is displayed on your screens.
 
 The **Pre-request** tab is where you'll input code for pre-request processing.
 
@@ -211,7 +209,7 @@ In this example, we are maintaining the Clover merchantID here. The value inputt
 
 Now, go back to the API request config page. Substitute the merchantID in the API endpoint with the Key name you previously defined.
 
-#### 
+#### ![](https://support.optisigns.com/hc/article_attachments/22917801932051)
 
 When the API call is triggered on the device, it will take the value from the device and substitute it at runtime. For each screen, you'll want to perform these same steps, keeping the Key name the same while changing the Value. This will allow you to push different data to different screens.
 
@@ -255,7 +253,7 @@ Here, you can choose what data specifically you want to add to the Design. If yo
 
 Hit **Done**, and the DataSource is created.
 
-It should appear in the left column under **"Used in this design".**It will definitely appear in the **"Other DataSources"** section. You may need to refresh the page for it to appear.
+It should appear in the left column under **"Used in this design".**It will definitely appear in the **"Other DataSources"** section. You may need to refresh the page for it to appear.
 
 Now, we move to step 2.
 
@@ -283,7 +281,7 @@ By clicking on any piece of this data and dragging it onto the screen, the data 
 
 In this case, we want to use it on its own. For menus, a Repeater makes the most sense.
 
-In order to check the data binding, you can click on any mapped element, then click **Settings**. You will see the **Asset Element Name** there.
+In order to check the data binding, you can click on any mapped element, then click **Settings**. You will see the **Asset Element Name** there.
 
 ![](https://support.optisigns.com/hc/article_attachments/42850937932307)
 
@@ -311,4 +309,4 @@ If you'd like more detail on API integration use cases, we have several addition
 
 This is how you integrate API data and get it published on your screen. Most importantly, with no coding!
 
-If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
+If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)

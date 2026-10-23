@@ -18,16 +18,20 @@ However, many factors and settings may need adjustment in order to get this feat
 
 ---
 
-## **Introduction to Operational Scheduling**
+## Introduction to Operational Scheduling
 
 Operational Schedule allows you to schedule when your TV powers on/off and to control the volume and brightness through the device level, HDMI-CEC, or RS-232 connections. HDMI-CEC is a popular feature available on most consumer TVs right now, while RS-232 is useful for commercial-grade displays.
 
-|  |
-| --- |
-| Limitations |
-| - You will need the **Pro+ Plan** or above to have access to this HDMI-CEC and RS-232 feature. The HDMI-CEC or RS-232 capabilities allow you to Power On/Off your TV using the Operational Schedule, and change the volume or mute the screen. |
-| - If you have the **Free** or **Standard** plan and create an Operational Schedule, the player will display black to save power and device life. Free and Standard plan users will not have access to the "Advanced Scheduling" option: |
-| - To access Operational Schedule with an HDMI-CEC port, you will need our [**OptiSigns OptiStick**](https://shop.optisigns.com/products/optisigns-android-stick-player-2), [**Pro Signage Player**](https://shop.optisigns.com/products/optisigns-digital-signage-player), or [**ProMax Player**](https://support.optisigns.com/hc/en-us/articles/38680194603155-OptiSigns-ProMax-Player). The player will need to be plugged in to an HDMI-CEC port to function. RS-232 functionality can be used with any device which supports it.   - Please ensure your OptiStick device is ***powered from an outlet, not the screen's USB port.***If plugged into the USB port, the act of turning off the screen will also power off the device - meaning, it will not be able to turn the screen back on.   - Operational Scheduling is not supported on Roku nor Samsung Tizen devices. The option will not be visible. |
+> **Limitations**
+>
+> - You will need the **Pro+ Plan** or above to have access to this HDMI-CEC and RS-232 feature. The HDMI-CEC or RS-232 capabilities allow you to Power On/Off your TV using the Operational Schedule, and change the volume or mute the screen.
+>
+> - If you have the **Free** or **Standard** plan and create an Operational Schedule, the player will display black to save power and device life. Free and Standard plan users will not have access to the "Advanced Scheduling" option:  
+>   ![](https://support.optisigns.com/hc/article_attachments/50995869008275)
+>
+> - To access Operational Schedule with an HDMI-CEC port, you will need our [**OptiSigns OptiStick**](https://shop.optisigns.com/products/optisigns-android-stick-player-2), [**Pro Signage Player**](https://shop.optisigns.com/products/optisigns-digital-signage-player), or [**ProMax Player**](https://support.optisigns.com/hc/en-us/articles/38680194603155-OptiSigns-ProMax-Player). The player will need to be plugged in to an HDMI-CEC port to function. RS-232 functionality can be used with any device which supports it.
+>   - Please ensure your OptiStick device is ***powered from an outlet, not the screen's USB port.***If plugged into the USB port, the act of turning off the screen will also power off the device - meaning, it will not be able to turn the screen back on.
+>   - Operational Scheduling is not supported on Roku nor Samsung Tizen devices. The option will not be visible.
 
 **One last important note:**
 
@@ -44,7 +48,9 @@ In order for Operational Scheduling to work, your TV must actually support it. O
 - **HDMI-CEC** - This is the most common option, and supported by most TVs. See this guide on [HDMI-CEC settings](https://www.helpdesk.nakamichi-usa.com/hdmi-cec-settings) to find your display’s make and model for information on how to set this up to receive signal.
 - **RS-232** - This option is most common on commercial displays, and is the most reliable option. ***If you can set up your player to use RS-232, you should, as it is far more reliable than HDMI-CEC***.
 
-> **NOTE:** Your device will try RS-232 first if available, then HDMI-CEC command to turn off TV/Monitor. Your TV/Monitor model and player needs to support this feature for it to work. Players sold by OptiSigns support HDMI-CEC and RS-232.
+> **NOTE**
+>
+> Your device will try RS-232 first if available, then HDMI-CEC command to turn off TV/Monitor. Your TV/Monitor model and player needs to support this feature for it to work. Players sold by OptiSigns support HDMI-CEC and RS-232.
 
 On most displays, HDMI-CEC or RS-232 will need to be enabled before Operational Scheduling will work. How to do this will vary by TV and connection.
 
@@ -53,8 +59,8 @@ On most displays, HDMI-CEC or RS-232 will need to be enabled before Operational 
 | **MORE ON RS-232** |
 | An RS-232 cable should have come with your display. We recommend using this if possible, as there are reportedly issues with certain displays (generally LG) when other RS-232 cables are used.  Your RS-232 ports may look different depending on the age of your display: |
 | **OLDER DISPLAYS:** | **NEWER DISPLAYS:** |
-|  |  |
-| A typical RS-232 cable which comes with most new commercial displays: |
+| ![](https://support.optisigns.com/hc/article_attachments/48241078964883) | ![](https://support.optisigns.com/hc/article_attachments/48241078965907) |
+| A typical RS-232 cable which comes with most new commercial displays: ![](https://support.optisigns.com/hc/article_attachments/48241081463699) |
 | [**Buy USB-A to RS-232 cable for older displays**](https://www.amazon.com/Sabrent-Converter-Prolific-Chipset-CB-DB9P/dp/B00IDSM6BW?dib=eyJ2IjoiMSJ9.eDpH7mZ-MxF1rW_bLcNPOgxDhwo8eCgqihSClktQT86m8ERQwz21Q9euBmQ3zNtrIG2huqPq1a_Yupg_0lAfJD7XCkjpxXR7vDb_WG-28D3-SuPxCy1MVPvoKFbVWg92YGOfKork7n_l1CNOzUJ-R9gMzzuw9iQpODbta2oRWS1vbcaQF9XyY0RrYG6443FJHjRAL09KvJaZCY_6khThywKVe_gaB5qpCHxZzBMbRFk.gkxWaA_HDwYQYoAZKJYArVgEQjxmvGUftl17_EdW9Z0&dib_tag=se&keywords=db9%2Bto%2Busb&qid=1768493612&sr=8-3&th=1) | - [**Buy USB-A to RS-232 cable for newer displays**](https://www.amazon.com/CIQILY-Adapter-Braided-Compurter-Headphones/dp/B0F244GXYD?crid=3F7PMHINSSJV5&dib=eyJ2IjoiMSJ9.9yl--ztyPtBcoMUVrl88mn4TF0qc4F00jdNaYWJiOkE8spJ9Tr2MI7CXTqlfHWzIoXaPXCumrSVQtH7x9o0zmSJMkTSXgb7d9mOjKpugOIQQBLdfDIb2TPzZ9zU2oxpFtYpIMZaY-DShM2y_QlmnFq9lXAXvnJPjKvQ4FXiDiT7u9MGwf_pljN57vDs6JJ4gwbGmz8kDIb78Vd_Oe0mNMbwEvAttq2kKcYdx2RZesSU.g8ca63B6VuAlFGeaF48NG8KONf0XIybCT6T9B9f3DoU&dib_tag=se&keywords=3.5%2Bmm%2Bto%2BUSB-A&qid=1768493667&sprefix=3.5%2Bmm%2Bto%2Busb-a%2Caps%2C159&sr=8-4&th=1) - [**Buy USB-A to RS232 Female Adapter**](https://www.amazon.com/Adapter-Chipset-CableCreation-Converter-Register/dp/B0769DVQM1?crid=3V1RSDNOXKRRK&dib=eyJ2IjoiMSJ9.u5CpMrocxXKM1T6QqugwN6WZNjAMgpYeQrLD7PG2XhgbuJuHAoZSFqwOLpQcJjp2UUQmyVf6LdB5aXazNkDOZ6g10xmHbzhz__e0Z2Z9thclyXehquOcdC5N0EEfTS09SabOOCtNIxDqETc5DteqsJhzczZAt4tP_QSaTk71xOwNNIRDLk0ftLA5LlX8iQHLswNI7w9CZrNJismJ8iYQcedr5vr12ucsj_F0LfXU8mo.g_V1c7cnRq5RTvKb5Ec-8xPvkWdFXYcN05nDOUMC8lk&dib_tag=se&keywords=usb-a%2Bto%2Brs-232%2Bfemale&qid=1768494731&sprefix=usb-a%2Bto%2Brs-232%2Bfemal%2Caps%2C137&sr=8-3&th=1) |
 
 ---

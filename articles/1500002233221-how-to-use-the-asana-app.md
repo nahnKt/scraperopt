@@ -28,7 +28,9 @@ Let's get started.
 
 First, open the Asana project you want to display at **app.asana.com**. Copy the full address of the project from your browser's address bar.
 
-> **NOTE:** The OptiSigns Asana app only accepts an **app.asana.com** link that ends in a number. If the address you paste ends in a word such as **/list** or **/board**, the app shows **Please enter a valid Asana's URL** and you won't be able to save.
+> **NOTE**
+>
+> The OptiSigns Asana app only accepts an **app.asana.com** link that ends in a number. If the address you paste ends in a word such as **/list** or **/board**, the app shows **Please enter a valid Asana's URL** and you won't be able to save.
 
 Next, go to the OptiSigns portal. Go to **Files/Assets** and select **Apps**.
 
@@ -50,7 +52,9 @@ Now hit **Save**. You'll have created an Asana app, and it will appear in your *
 
 ![Files/Assets list showing the new Team Project Board Asana asset](https://support.optisigns.com/hc/article_attachments/56375078300307)
 
-> **IMPORTANT:** If your Asana project is private, the screen will show the Asana sign-in page the first time it plays. Sign in once on the device and choose to remember your login. On devices without a keyboard, such as a Fire TV Stick, connect a Bluetooth keyboard or mouse to sign in. For more detail, see [How to display content inside websites that require login](https://support.optisigns.com/hc/en-us/articles/360037391854).
+> **IMPORTANT**
+>
+> If your Asana project is private, the screen will show the Asana sign-in page the first time it plays. Sign in once on the device and choose to remember your login. On devices without a keyboard, such as a Fire TV Stick, connect a Bluetooth keyboard or mouse to sign in. For more detail, see [How to display content inside websites that require login](https://support.optisigns.com/hc/en-us/articles/360037391854).
 
 ---
 

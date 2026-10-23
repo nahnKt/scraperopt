@@ -9,7 +9,9 @@ Last updated: 2026-10-01
 - [Setting Up the SharePoint App](#setting-up-the-sharepoint-app)
 - [Frequently Asked Questions](#frequently-asked-questions)
 
-> **NOTE:** The **SharePoint app** is available to customers with a **Standard plan or above**.
+> **NOTE**
+>
+> The **SharePoint app** is available to customers with a **Standard plan or above**.
 
 With OptiSigns, it's possible to showcase your SharePoint site on any of your screens. Even gated sites requiring login can be shown. All you'll need is a URL to your SharePoint site and a valid Microsoft account.
 
@@ -58,7 +60,7 @@ Enter details for your SharePoint site. The URL will be the one you copied earli
 
 ![SharePoint app settings with Name, URL and the Sign in with Credential switch turned on](https://support.optisigns.com/hc/article_attachments/55984259183123)
 
-- **Name -** Name of your app asset, this is the name of the wall in your asset list. It will **not** be displayed on your screens.
+- **Name -** Name of your app asset, this is the name of the wall in your asset list. It will **not** be displayed on your screens.
 - **URL -** The URL address to your SharePoint site. This is the URL we copied earlier.
 
 Click **Sign In with Credential** to open a Sign In section. Most SharePoint sites require a Sign In. This is where you'll input that information.
@@ -80,27 +82,27 @@ You've successfully created a SharePoint asset! This asset can be manipulated on
 
 Here we'll tackle the most common issues and questions we get regarding displaying SharePoint on OptiSigns.
 
-#### **I tried to get SharePoint on my screen, but it's prompting me to Sign In! What's going on?**
+#### I tried to get SharePoint on my screen, but it's prompting me to Sign In! What's going on?
 
 The first time OptiSigns connects to SharePoint, it will use a Web Scripting feature to automatically log you on using the Username and Password you input in the app. You'll know it's working when your Username will automatically populate in the proper field after a few seconds.
 
 This process takes about a minute for first time logins using the asset. Afterwards, it should remember your login and work thereafter.
 
-#### **I want to display multiple SharePoint pages. How can I do that?**
+#### I want to display multiple SharePoint pages. How can I do that?
 
 The easiest way to display several SharePoint pages is to create several SharePoint assets, then utilize them [in a Playlist](https://support.optisigns.com/hc/en-us/articles/28295104605843-How-to-Create-Use-Playlists).
 
-#### **I'd like to display only SharePoint News, and have it automatically update. Can I do that?**
+#### I'd like to display only SharePoint News, and have it automatically update. Can I do that?
 
 Yes! Please see our complete article on [Creating Custom News Feeds with SharePoint](https://support.optisigns.com/hc/en-us/articles/35337746613139-How-to-Create-Custom-News-Feeds-with-SharePoint-or-Other-Sources-Using-OptiSync) for more information.
 
-#### **I'm trying to display SharePoint on my Samsung SSSP or LG WebOS TVs and all I'm seeing is a blank screen. Why won't it work?**
+#### I'm trying to display SharePoint on my Samsung SSSP or LG WebOS TVs and all I'm seeing is a blank screen. Why won't it work?
 
 Microsoft requires a minimum Chromium version of 95 for their apps to display. These TVs typically don't update very often. This is a Microsoft issue, and there is little we can do on our end.
 
 If you have one of these TVs and wish to display SharePoint, we recommend our [Pro Player](https://shop.optisigns.com/products/optisigns-digital-signage-player).
 
-#### **How does the encryption of my password work at OptiSigns? If I input it, will I be at risk?**
+#### How does the encryption of my password work at OptiSigns? If I input it, will I be at risk?
 
 Here's how the encryption flow works:
 

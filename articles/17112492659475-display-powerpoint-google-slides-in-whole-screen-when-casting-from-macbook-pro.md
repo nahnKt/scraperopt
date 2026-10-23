@@ -17,4 +17,4 @@ Here is a how-to video: [Link](https://www.loom.com/share/48181e8a857342b5b890c9
 
 Here is a how-to article: [Link](https://support.apple.com/guide/mac-help/change-your-displays-resolution-mchl86d72b76/)
 
-If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
+If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)

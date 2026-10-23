@@ -73,7 +73,9 @@ Clicking one of these will bring up the option to sign in with your account of c
 
 ![choose between google sheet or ms excel datasource](https://support.optisigns.com/hc/article_attachments/42915203036819)
 
-> **NOTE:** This requires a paid account for Microsoft 365, as the free account does not support this feature. Without a paid MS 365 account, we recommend a Google Sheet.
+> **NOTE**
+>
+> This requires a paid account for Microsoft 365, as the free account does not support this feature. Without a paid MS 365 account, we recommend a Google Sheet.
 
 Give the Sheet a **Name**, then sign in to your preferred account. You will need to provide certain permissions for this to work. See our [Privacy Policy](https://www.optisigns.com/privacy-policy) for additional information.
 
@@ -81,7 +83,7 @@ Next, you’ll be asked to provide the Folder for where you want your sheet to b
 
 ![authorized google sheets datasource example](https://support.optisigns.com/hc/article_attachments/42915203039123)
 
-> **IMPORTANT:**
+> **IMPORTANT**
 >
 > Data must be within a table if using Excel Sheets.
 >
@@ -116,6 +118,6 @@ Some best practices:
 - \*\*\*ALL\*\*\* tells OptiSigns that if a screen is not specifically assigned values, it will take value from this row of data. This is equivalent to the "Default Value" mentioned earlier in the article.
   - If a value is detected, it will override the \*\*\*ALL\*\*\* value, like in the example above.
 
-### **That’s all!**
+### That’s all!
 
 OptiSigns is the leader in [digital signage software](https://www.optisigns.com/). If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com).

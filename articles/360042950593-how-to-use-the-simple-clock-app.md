@@ -78,7 +78,9 @@ The remaining options live in two collapsible sections, **Clock Settings** and *
 
 ![Theme Settings with Text Color and Background Color highlighted](https://support.optisigns.com/hc/article_attachments/54685881353619)
 
-> **NOTE:** Using Modern Digital, there are 6 Color Presets: Neon Cyberpunk, Minimalist Zen, Retro Digital, Elegant Classic, Gaming RGB, and Nature Organic.  The Background colors of these Presets cannot have their gradients changed. Modern Digital also has its own **Font Family**, **Font Size**, and **Text Animation** options.
+> **NOTE**
+>
+> Using Modern Digital, there are 6 Color Presets: Neon Cyberpunk, Minimalist Zen, Retro Digital, Elegant Classic, Gaming RGB, and Nature Organic.  The Background colors of these Presets cannot have their gradients changed. Modern Digital also has its own **Font Family**, **Font Size**, and **Text Animation** options.
 
 #### Analog Clocks
 
@@ -125,4 +127,4 @@ You can also deploy it as part of a split screen, allowing you to show other ass
 
 ### That's all!
 
-If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com).
+If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com).

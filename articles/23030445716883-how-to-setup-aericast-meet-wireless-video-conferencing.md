@@ -20,7 +20,7 @@ All customers can use AeriCast add-on with a 14-day free trial.
 
 The trial allows two free licenses of the AeriCast add-on. When the trial is over, each created AeriCast add-on will cost $20 per month.
 
-## **Let's Get Started:**
+## Let's Get Started:
 
 When pushed to a screen, the Aericast Screen Share app will appear like this by default:
 
@@ -30,13 +30,13 @@ The app can also be placed at the bottom strip of a [Split Screen](https://suppo
 
 ![Split screen with a dashboard and weather, and the presenter code in the bottom strip](https://support.optisigns.com/hc/article_attachments/55329561300755)
 
-## **Setting Up the Aericast Add-On:**
+## Setting Up the Aericast Add-On:
 
 ### 1. Create AeriCast Wireless Presentation app
 
 First, you will need to have your [screens set up and paired](https://www.optisigns.com/blog/how-to-set-up-digital-signs-with-optisigns-and-amazon-fire-tv).
 
-Then log on to our portal: <http://app.optisigns.com/>
+Then log on to our portal: <http://app.optisigns.com/>
 
 Go to **Files/Assets →** **Apps** and search for the **"AeriCast Wireless Presentation"** app.
 
@@ -46,7 +46,7 @@ Enter your AeriCast Wireless Presentation app information:
 
 ![AeriCast setup form: Name, Title, Message, Expires in, background playlist and text colour](https://support.optisigns.com/hc/article_attachments/55329570009235)
 
-- **Name:** Name of your AeriCast Wireless Presentation app, this is the name of the app in your asset list. It will not be displayed on your screens.
+- **Name:** Name of your AeriCast Wireless Presentation app, this is the name of the app in your asset list. It will not be displayed on your screens.
 - **Title:** Enter a title to be displayed on your screen. For example: "Welcome to Conf. Room N123"
 - **Message:** Enter a message to be displayed on your screen. This could be anything: a fun workplace meme, a reminder message, or instructions on how to use the room.
 - **Expires in:** The 4 character presenter codes are set to expire every 10 minutes by default. This is to prevent someone saving the code and using it days or weeks later.
@@ -55,9 +55,7 @@ Enter your AeriCast Wireless Presentation app information:
 - **Text Color:** Default is white, but if you'd like another color, this option provides them.
 - **Different Presenter Code for each screens**: When you assign any device, the pairing code will be different on different devices.
 
-|  |
-| --- |
-| **NOTE:** The **Different Presenter Code for Each Screens** option is only supported on the PAID Aericast subscription. If you want to show the same Presenter Code across multiple screens, it can only be done with a paid subscription. |
+> **NOTE:** The **Different Presenter Code for Each Screens** option is only supported on the PAID Aericast subscription. If you want to show the same Presenter Code across multiple screens, it can only be done with a paid subscription.
 
 Click **"Advanced"** to set:
 
@@ -84,9 +82,9 @@ You can assign the AeriCast Wireless Presentation app directly to a screen by go
 - If you want to know how to present your laptop, click [here](https://support.optisigns.com/hc/en-us/articles/14502378549907).
 - If you want to know how to present your phone or tablet, click [here](https://support.optisigns.com/hc/en-us/articles/14557706459283).
 
-### **That's it!**
+### That's it!
 
 You have configured the Aericast Wireless Presentation add-on.  
 You can change these settings by clicking on it in the **Files/Assets** tab.
 
-If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
+If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)

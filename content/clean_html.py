@@ -1,9 +1,9 @@
 from bs4 import BeautifulSoup
 import re
+from urllib.parse import urlparse
 
 KEEP_ATTRS = {"href", "src", "alt"}
 HEADINGS = ["h1", "h2", "h3", "h4", "h5", "h6"]
-CALLOUT_LABELS = {"NOTE", "TIP", "WARNING", "IMPORTANT", "CAUTION"}
 
 
 def slugify(text: str) -> str:
@@ -75,24 +75,38 @@ def fix_link_targets(soup: BeautifulSoup) -> None:
 def clean_callouts(soup: BeautifulSoup) -> None:
     for table in soup.find_all("table"):
         rows = table.find_all("tr")
-        if len(rows) != 2:
+        if len(rows) == 0:
             continue
 
-        label = rows[0].get_text(strip=True).upper().rstrip(":")
-        if label not in CALLOUT_LABELS:
-            continue
-
-        bodyCell = rows[1].find(["td", "th"])
-        if bodyCell is None:
+        cells = []
+        for row in rows:
+            rowCells = row.find_all(["td", "th"])
+            if len(rowCells) != 1:
+                cells = []
+                break
+            cells.append(rowCells[0])
+        if not cells:
             continue
 
         quote = soup.new_tag("blockquote")
-        title = soup.new_tag("strong")
-        title.string = label + ":"
-        quote.append(title)
-        quote.append(" ")
-        for child in list(bodyCell.contents):
-            quote.append(child)
+
+        if len(cells) >= 2:
+            labelText = cells[0].get_text(" ", strip=True)
+            if labelText != "":
+                titleLine = soup.new_tag("p")
+                title = soup.new_tag("strong")
+                title.string = labelText
+                titleLine.append(title)
+                quote.append(titleLine)
+            bodyCells = cells[1:]
+        else:
+            bodyCells = cells
+
+        for cell in bodyCells:
+            part = soup.new_tag("div")
+            for child in list(cell.contents):
+                part.append(child)
+            quote.append(part)
 
         if table.parent is not None and table.parent.name == "figure":
             table.parent.replace_with(quote)
@@ -100,20 +114,61 @@ def clean_callouts(soup: BeautifulSoup) -> None:
             table.replace_with(quote)
 
 
-def clean_html(html: str) -> str:
-    soup = BeautifulSoup(html, "html.parser")
-    fix_link_targets(soup)
-    clean_callouts(soup)
+def clean_media(soup: BeautifulSoup) -> None:
+    for img in soup.find_all("img"):
+        src = img.get("src", "")
+        if src.startswith("data:"):
+            altText = img.get("alt", "").strip()
+            if altText:
+                img.replace_with(altText)
+            else:
+                img.decompose()
+
+    for iframe in soup.find_all("iframe"):
+        src = iframe.get("src", "").strip()
+        if src.startswith("//"):
+            src = "https:" + src
+        if src == "":
+            iframe.decompose()
+            continue
+
+        domain = urlparse(src).netloc
+        link = soup.new_tag("a", href=src)
+        link.string = "Embedded content (" + domain + ")"
+        line = soup.new_tag("p")
+        line.append(link)
+        iframe.replace_with(line)
+
+
+def clean_headings(soup: BeautifulSoup) -> None:
+    for heading in soup.find_all(HEADINGS):
+        if heading.get_text(strip=True) == "" and heading.find("img") is None:
+            heading.decompose()
+            continue
+
+        for boldTag in heading.find_all(["strong", "b"]):
+            boldTag.unwrap()
+
+
+def strip_formatting(soup: BeautifulSoup) -> None:
     for tag in soup.find_all(["span", "font"]):
         tag.unwrap()
 
     for tag in soup.find_all(True):
-        new_attrs = {}
+        newAttrs = {}
         for key, value in tag.attrs.items():
             if key in KEEP_ATTRS:
-                new_attrs[key] = value
-        tag.attrs = new_attrs
+                newAttrs[key] = value
+        tag.attrs = newAttrs
 
+
+def clean_html(html: str) -> str:
+    soup = BeautifulSoup(html, "html.parser")
+    fix_link_targets(soup)
+    clean_callouts(soup)
+    clean_media(soup)
+    clean_headings(soup)
+    strip_formatting(soup)
     return str(soup)
 
 

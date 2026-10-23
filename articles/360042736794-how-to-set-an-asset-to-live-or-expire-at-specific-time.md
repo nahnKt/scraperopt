@@ -15,7 +15,7 @@ Let's get started.
 
 ---
 
-## **When to Use Live and Expire**
+## When to Use Live and Expire
 
 Live and Expire are extremely useful for setting up promotions or content in advance, and time-gating that same content to go away after a certain period of time.
 
@@ -25,7 +25,7 @@ Let's assume you want to define your business' Christmas season as December 1st 
 
 ---
 
-## **Setting Up Live and Expire**
+## Setting Up Live and Expire
 
 First, go to **Files/Assets** and create an asset. Then, hover over it to expose the **Three Dots** icon.
 
@@ -47,8 +47,8 @@ Either way, the **Set Asset to Live/Expire** menu will pop up:
   - **Live Immediately** - The asset is immediately available and will display if already deployed within a schedule, playlist or directly assigned to a screen.
   - **Schedule** - Set a date and time for the asset to be available for use within schedules or playlists. This will shift the UI
 - **Expire Time**
-  - **Non Expiring** - The asset is always available after going live and will continue to display if the asset is already deployed within an existing schedule, playlist or directly assigned to a screen.
-  - **Expire At** - Set a date and time for the asset to default to be unavailable after expiration. In order for future re-use, you must re-enter a new Live At date in the future.
+  - **Non Expiring** - The asset is always available after going live and will continue to display if the asset is already deployed within an existing schedule, playlist or directly assigned to a screen.
+  - **Expire At** - Set a date and time for the asset to default to be unavailable after expiration. In order for future re-use, you must re-enter a new Live At date in the future.
 - **Timezone** - Set the appropriate time zone that relates to the asset status.
 - **Delete Option** - Checking the box will delete the asset after expiration.
 
@@ -56,11 +56,11 @@ Once you've set these options, a **Reset** button will appear - hit this to **cl
 
 If you've chosen **Schedule** as your type, you will have slightly different options:![](https://support.optisigns.com/hc/article_attachments/51713326622099)
 
-- **Type -** Schedule: You can set it live in the schedule
+- **Type -** Schedule: You can set it live in the schedule
 - **Schedule -** Create the schedule for your asset live/ expire. It lets you create an event in your calendar.
 - **Timezone -** Set the appropriate time zone that relates to the asset status.
 
-Now, hit **Save**. Once the Live/Expire status setup is complete, the asset will indicate when it's scheduled to go live and if it was previously set to expire.   
+Now, hit **Save**. Once the Live/Expire status setup is complete, the asset will indicate when it's scheduled to go live and if it was previously set to expire.   
   
 ![](https://support.optisigns.com/hc/article_attachments/51713317755027)
 
@@ -68,11 +68,13 @@ Now, hit **Save**. Once the Live/Expire status setup is complete, the asset will
 
 These assets can be added to any Playlist or Schedule just as a normal asset would.
 
-> **NOTE:** This asset status change does not immediately affect existing playlists or schedules where the asset has been previously been placed.
+> **NOTE**
+>
+> This asset status change does not immediately affect existing playlists or schedules where the asset has been previously been placed.
 
 ---
 
-## **Playlist and Schedule Behavior**
+## Playlist and Schedule Behavior
 
 When a Playlist or Schedule has expired assets, you'll see a banner at the top letting you know how many items are expired. Clicking this banner will provide a complete breakdown of these items, like so:
 
@@ -90,6 +92,6 @@ This provides:
 - Type of asset (video, image, app, playlist, etc.)
 - The ability to delete the item from the Playlist or Schedule to keep it clean easily.
 
-### **That's all!**
+### That's all!
 
-If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
+If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)

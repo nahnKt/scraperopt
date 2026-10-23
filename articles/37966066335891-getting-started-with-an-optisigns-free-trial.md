@@ -14,7 +14,9 @@ Last updated: 2025-03-06
 
 Looking into [digital signage](https://www.optisigns.com/)? OptiSigns makes it simple to try our platform with our 14-day Free Trial, a fully-featured look at all OptiSigns has to offer.
 
-> **NOTE:** An OptiSigns Free Trial is distinct from a [**Free Plan**](https://support.optisigns.com/hc/en-us/articles/33940834613139-What-Do-I-Get-With-an-OptiSigns-Free-Plan), which is a subscription type with no end. A Free Trial ends after 14 days.
+> **NOTE**
+>
+> An OptiSigns Free Trial is distinct from a [**Free Plan**](https://support.optisigns.com/hc/en-us/articles/33940834613139-What-Do-I-Get-With-an-OptiSigns-Free-Plan), which is a subscription type with no end. A Free Trial ends after 14 days.
 
 ---
 

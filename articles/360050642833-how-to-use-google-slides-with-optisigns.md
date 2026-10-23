@@ -73,7 +73,9 @@ A Private slideshow is one that reads **Restricted.** This also applies to slide
 
 ![](https://support.optisigns.com/hc/article_attachments/48704526174483)
 
-> **NOTE:** Displaying a Private slideshow in OptiSigns requires OptiSigns to repeatedly ping your Google account to check for updates on your Google Slides document. This means we cannot set a definite "time" measured in seconds where we can guarantee your slides will advance due to network variability. However, you can still set the speed - see below.
+> **NOTE**
+>
+> Displaying a Private slideshow in OptiSigns requires OptiSigns to repeatedly ping your Google account to check for updates on your Google Slides document. This means we cannot set a definite "time" measured in seconds where we can guarantee your slides will advance due to network variability. However, you can still set the speed - see below.
 
 Placing a Private Google Slides link in the **URL** section of the Google Slides app will prompt you to provide Google authorization. You'll also need to input a **Name** for use within OptiSigns.
 
@@ -107,7 +109,7 @@ Click **Advanced** to expand the field and provide an additional option:
 
 **Force Sync Interval (hours) -** Choose the interval rate at which the Google Slide will force synchronize. By default, this is 12 hours.
 
-> **IMPORTANT:**
+> **IMPORTANT**
 >
 > The way our app works with Private slideshows is that it uses a webhook to automatically fetch new instances of it when updates are made. Depending on how many updates are made, it will be either near real-time or lag a couple hours.
 >

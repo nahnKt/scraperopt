@@ -64,7 +64,7 @@ The MAC address is visible after the **“ether”** keyword.
 
 ### 4) How to get the MAC Address on the Windows
 
-1. Enter **cmd**in the search box at the bottom left-hand corner of your screen. You will see the "Command Prompt" and click it
+1. Enter **cmd**in the search box at the bottom left-hand corner of your screen. You will see the "Command Prompt" and click it
 
 ![mceclip15.png](https://support.optisigns.com/hc/article_attachments/8099829447827)
 
@@ -86,4 +86,4 @@ ipconfig /all
 
 ## That's all!
 
-If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
+If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)

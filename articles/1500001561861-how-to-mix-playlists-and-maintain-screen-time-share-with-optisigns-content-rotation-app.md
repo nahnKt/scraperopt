@@ -3,9 +3,7 @@
 Article URL: https://support.optisigns.com/hc/en-us/articles/1500001561861-How-to-mix-playlists-and-maintain-screen-time-share-with-OptiSigns-Content-Rotation-App
 Last updated: 2024-07-24
 
-|  |
-| --- |
-| **Important Note (7/3):** We have recently disabled our Content Rotation App, and we highly recommend using our similar[**Sub-playlist Control feature,**](https://support.optisigns.com/hc/en-us/articles/22474034993043) available in our Pro-Plus and above plans. |
+> **Important Note (7/3):** We have recently disabled our Content Rotation App, and we highly recommend using our similar[**Sub-playlist Control feature,**](https://support.optisigns.com/hc/en-us/articles/22474034993043) available in our Pro-Plus and above plans.
 
 Content Rotation App will allow you to mix content between 2 or more playlists and ensure a distribution of screen time for each playlists.
 
@@ -14,7 +12,7 @@ As Admin, you want both to have 50% of screen time each (i.e. ensure 1 departmen
 
 With Content Rotation app, you can
 
-## **Let's jump in and get started:**
+## Let's jump in and get started:
 
 First, you will need to have two or more playlists. For more information on how to do that, click [here](https://support.optisigns.com/hc/en-us/articles/28295104605843).
 
@@ -48,13 +46,13 @@ Click Add Playlist to add the playlist you want to rotate, in this example we pu
 Click Save.  
 After Saving, you can Preview the Content Rotation to see how the system mix the playlist.
 
-## **That's all! Congratulation!**
+## That's all! Congratulation!
 
 You have added a Content Rotation app.
 
 You can assign the newly created Content Rotation asset to your screen by going to Screens, click Edit screens and assign the asset to screens that you want.
 
-**If you really curious about how the system mix the playlist, you can check out these cases:**
+**If you really curious about how the system mix the playlist, you can check out these cases:**
 
 **Case 1**- Enforce each item duration limit = checked + Repeat (This is the default case)   
 Playlist A -> 5 items: Rotate A: 1 item - 20s  
@@ -152,4 +150,4 @@ A2: 20s
 A3: 20s  
 B1: 20s
 
-If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
+If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)

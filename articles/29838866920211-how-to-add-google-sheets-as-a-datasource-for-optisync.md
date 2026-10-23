@@ -3,17 +3,15 @@
 Article URL: https://support.optisigns.com/hc/en-us/articles/29838866920211-How-to-add-Google-Sheets-as-a-DataSource-for-OptiSync
 Last updated: 2025-01-31
 
-#### Using our new OptiSync feature in Designer, you can add your Google Sheets to your DataSources and apply to your designs or our prebuilt Repeater Templates or Components. For a breakdown on OptiSync, please visit our guide **[here](https://support.optisigns.com/hc/en-us/articles/29217646663187)**.
+#### Using our new OptiSync feature in Designer, you can add your Google Sheets to your DataSources and apply to your designs or our prebuilt Repeater Templates or Components. For a breakdown on OptiSync, please visit our guide [here](https://support.optisigns.com/hc/en-us/articles/29217646663187).
 
-|  |
-| --- |
-| Note: OptiSync is only available on Pro Plus and above plans. |
+> Note: OptiSync is only available on Pro Plus and above plans.
 
 ## Adding Your Google Sheets as a DataSource
 
 There are two different methods to adding Google Sheets to your DataSources:
 
-#### **Method 1: Through Designer**
+#### Method 1: Through Designer
 
 - On the Files/Assets page, select **Designer** from the Apps
 - Select **DataSource** on the side menu, then **Add DataSource**
@@ -37,6 +35,8 @@ There are two different methods to adding Google Sheets to your DataSources:
 - Click **Done**
 - Your **DataSource** will now be listed within your Advanced Account Settings
 
+[Embedded content (www.canva.com)](https://www.canva.com/design/DAGGpKj60qc/ofo2QuiiW6le9mMlq1SEFw/view?embed)
+
 **Synchronization**
 
 - **Only import once:** This option imports the data only once when you add the DataSource. After the initial import, the data will not be updated automatically.
@@ -44,7 +44,9 @@ There are two different methods to adding Google Sheets to your DataSources:
   - *This is better for more consistent update intervals, but could cause performance issues.*
 - **Periodic background sync:** This option periodically syncs data to your server in the background at regular intervals, reducing the need for direct queries to the device.
 
-> **IMPORTANT:** OptiSync does not support special characters (i.e. anything outside the scope of an English-language keyboard). This will cause the system data to read as blank, and it will not show.
+> **IMPORTANT**
+>
+> OptiSync does not support special characters (i.e. anything outside the scope of an English-language keyboard). This will cause the system data to read as blank, and it will not show.
 
 **Update Interval**
 
@@ -55,10 +57,9 @@ There are two different methods to adding Google Sheets to your DataSources:
 - 1 hour
 - 8 hours
 
-|  |
-| --- |
-| If you'd like to learn more about OptiSync and how to use this DataSource for Data Mapping, please visit the following guide: |
-| **[How to Set Up Dynamic Data Mapping with OptiSync](https://support.optisigns.com/hc/en-us/articles/29217646663187)** |
+> **If you'd like to learn more about OptiSync and how to use this DataSource for Data Mapping, please visit the following guide:**
+>
+> **[How to Set Up Dynamic Data Mapping with OptiSync](https://support.optisigns.com/hc/en-us/articles/29217646663187)**
 
 ## That's it!
 

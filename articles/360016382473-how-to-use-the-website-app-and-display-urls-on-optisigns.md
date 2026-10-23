@@ -40,7 +40,9 @@ You can also specify refresh interval if you want the player to automatically re
 - **Name** - The Name of your Website within OptiSigns. This is for organizational purposes within the OptiSigns portal, and will NOT be displayed on your signs.
 - **URL** - The URL of the website you wish to display.
 
-> **NOTE:** Every website is different - many will not allow Embedding, or others have specific security requirements. Even if it does not display in the Preview pane on the right, we recommend attempting to push this to your screen to be sure it will display properly. If not, you may need to use the [**Advanced Website** app](https://support.optisigns.com/hc/en-us/articles/5149077938835-How-to-use-Advanced-Website-App), or [**Web Scripting** app](https://support.optisigns.com/hc/en-us/articles/1500012522362-How-to-use-the-Web-Scripting-App) if your website requires login or authentication.
+> **NOTE**
+>
+> Every website is different - many will not allow Embedding, or others have specific security requirements. Even if it does not display in the Preview pane on the right, we recommend attempting to push this to your screen to be sure it will display properly. If not, you may need to use the [**Advanced Website** app](https://support.optisigns.com/hc/en-us/articles/5149077938835-How-to-use-Advanced-Website-App), or [**Web Scripting** app](https://support.optisigns.com/hc/en-us/articles/1500012522362-How-to-use-the-Web-Scripting-App) if your website requires login or authentication.
 
 - **Update Interval** - Choose how often to refresh the website to provide up-to-date data. By default, this is set to 600 seconds (10 minutes). Note that, if a Website app is used as part of a Playlist, it will always automatically refresh when it is brought up.
   - **Load only first time (no refresh)** - When toggled, will only load the website when it is first displayed on the sign. Choose this if you notice interrupted playback when trying to load a website (usually caused by latency or network issues).
@@ -73,4 +75,4 @@ In order to display multiple web pages, you can create individual Website assets
 
 ### That's all!
 
-If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
+If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)

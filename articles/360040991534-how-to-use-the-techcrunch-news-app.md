@@ -12,7 +12,7 @@ The OptiSigns TechCrunch app allows you to display TechCrunch News on your digit
 
 QR Codes are displayed, which a viewer can scan with their phone to read the relevant article. TechCrunch News can also be displayed as [Scrolling Strip.](https://support.optisigns.com/hc/en-us/articles/360026559613)
 
-Below is an example screenshot of how it look on your screens, you can view a live example [here](https://social-player.optisigns.com/techcrunch/?asset_id=md9JJe4Abuidwem2x):
+Below is an example screenshot of how it look on your screens, you can view a live example [here](https://social-player.optisigns.com/techcrunch/?asset_id=md9JJe4Abuidwem2x):
 
 ![TechCrunch Startups story filling a signage screen, with a QR code viewers scan to read it](https://support.optisigns.com/hc/article_attachments/55262492894739)
 
@@ -55,7 +55,7 @@ Enter your TechCrunch Wall App information:
 
 - Font Size: Set the font size for the TechCrunch Wall app.
 
-Clicking **Advanced**opens up additional options:
+Clicking **Advanced**opens up additional options:
 
 ![The Advanced link expanded, revealing the Date and Time and Scrolling Strip Font Size settings](https://support.optisigns.com/hc/article_attachments/55262492899219)
 
@@ -69,6 +69,6 @@ After you've configured the TechCrunch News app to your liking, hit **Save**.
 
 Your TechCrunch app will appear as an Asset in OptiSigns, and it can now be directly assigned to a screen or used in a Playlist. This asset can then be edited at any time from the Files/Assets tab.
 
-## **That's all!**
+## That's all!
 
 OptiSigns is the leader in [digital signage software](https://www.optisigns.com/). If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)

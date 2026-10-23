@@ -3,12 +3,14 @@
 Article URL: https://support.optisigns.com/hc/en-us/articles/360016247974-How-to-Upload-Manage-Your-Files-Assets
 Last updated: 2026-03-31
 
-## **Introduction:**
+## Introduction:
 
 This article will walk you through how to manage your files/ contents.  
 You can upload, search, preview, download, delete, add to playlists, replace thumbnails, duplicate assets, and replace assets.
 
-## **Upload:**
+[Embedded content (www.youtube.com)](https://www.youtube.com/embed/oPO9ksZnSdY?si=3UiJJsb2_VqYwTiu)
+
+## Upload:
 
 Go to [Files/Assets](https://app.optisigns.com/app/assetManagement) page, and click **Upload Files**.
 
@@ -26,19 +28,19 @@ You will see messages saying that your files are successfully uploaded, and you 
 
 ![](https://support.optisigns.com/hc/article_attachments/18804881083667)
 
-## **Search:**
+## Search:
 
 If you have a large number of files and contents, you can quickly search through your contents to find the one you need. Simply enter some keywords in the search box. The Web Portal will search as you type for any files containing the phase you typing in.
 
 ![](https://support.optisigns.com/hc/article_attachments/18804563157907)
 
-## **Preview/Download Files**
+## Preview/Download Files
 
 If for some reason you need to preview or download the file. Just hover on the file. Then click on the blue download button. A new window will be opened with your file. You can preview there or save a copy to your local drive.
 
 ![](https://support.optisigns.com/hc/article_attachments/18804600676371)
 
-## **Delete Files:**
+## Delete Files:
 
 You can hover on the file and click the three dots of the file. Then select **Delete**.
 
@@ -48,7 +50,7 @@ When prompted for confirmation, click **Delete**.
 
 ![](https://support.optisigns.com/hc/article_attachments/18804589576083)
 
-## **Add to Playlists**
+## Add to Playlists
 
 You can hover on the file and click the three dots of the file. Then select **Add to Playlists**  
 ![](https://support.optisigns.com/hc/article_attachments/18804641594515)
@@ -59,7 +61,7 @@ You can select your playlist and click Save
 
 The asset will add to your playlists.
 
-## **Replace thumbnail**
+## Replace thumbnail
 
 You can hover on the file and click the three dots of the file. Then select **Replace thumbnail**
 
@@ -69,15 +71,15 @@ You can drag files from your File Explorers or Finders here. Or connect with you
 
 ![](https://support.optisigns.com/hc/article_attachments/18804679420563)
 
-## **Duplicate Asset**
+## Duplicate Asset
 
 You can hover on the file and click the three dots of the file. Then select **Duplicate Asset**
 
-## 
+## ![](https://support.optisigns.com/hc/article_attachments/18804681446291)
 
 The asset will be duplicated with copy of ... (original file name)
 
-## **Replacing a file**
+## Replacing a file
 
 You can hover on the file and click the three dots of the file. Then select **Replace asset**
 

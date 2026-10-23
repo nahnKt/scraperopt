@@ -17,9 +17,11 @@ If automatic activation fails, follow these steps to manually install & activate
 - Your device has an active network connection.
 - You have the authorization and privileges to install apps and background services on your device.
 
-> **NOTE:** The Remote Control feature is only available to subscribers with a **Pro Plus** **plan or above.**
+> **NOTE**
+>
+> The Remote Control feature is only available to subscribers with a **Pro Plus** **plan or above.**
 
-## **How to manually install optisigns-remote-agent**
+## How to manually install optisigns-remote-agent
 
 Open Terminal.
 
@@ -45,7 +47,7 @@ You can go back to app.optisigns.com to use Remote Control feature now.
 
 ![](https://support.optisigns.com/hc/article_attachments/18614175492243)
 
-## **More Technical Details for optisigns-remote-agent**
+## More Technical Details for optisigns-remote-agent
 
 The binary executable is downloaded and installed to ~/bin/optisigns-remote-agent
 
@@ -66,7 +68,7 @@ help : to print this instructions
 run : to run the remote agent in console or terminal or service
 ```
 
-## **How to remove optisigns-remote-agent:**
+## How to remove optisigns-remote-agent:
 
 Open Terminal and run:
 

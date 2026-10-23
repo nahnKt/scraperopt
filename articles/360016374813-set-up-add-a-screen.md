@@ -3,16 +3,16 @@
 Article URL: https://support.optisigns.com/hc/en-us/articles/360016374813-Set-up-add-a-screen
 Last updated: 2024-02-18
 
-## **Introduction:**
+## Introduction:
 
 This article will walk you through   
 1) Set up & add a screen  
 2) Upload files contents  
 3) Assign content to your screen
 
-## **Let's jump in and get started:**
+## Let's jump in and get started:
 
-#### **1) Set up & add a screen**
+#### 1) Set up & add a screen
 
 First, you need to download the OptiSigns app running on your player Android, Fire TV, Windows, Linux, etc. You can download the app [here](https://www.optisigns.com/download).
 
@@ -22,7 +22,7 @@ You then will see this pairing screen:
 
 ![](https://support.optisigns.com/hc/article_attachments/18804163213075)
 
-Go to our website: [https://app.optisigns.com](https://app.optisigns.com/)
+Go to our website: [https://app.optisigns.com](https://app.optisigns.com/)
 
 If you don't have an account already, create one, or you can also log in with Google or Facebook account.
 
@@ -40,7 +40,7 @@ The screen will change to:
 
 ![](https://support.optisigns.com/hc/article_attachments/18804188786707)
 
-#### **2) Upload files contents**
+#### 2) Upload files contents
 
 Go to [Files/Assets](https://app.optisigns.com/app/assetManagement) page, and click **Upload Files**.
 
@@ -58,7 +58,7 @@ You will see messages saying that your files are successfully uploaded, and you 
 
 ![](https://support.optisigns.com/hc/article_attachments/18804481456147)
 
-#### **3) Assign content to your screen**
+#### 3) Assign content to your screen
 
 You can hover on the file and click the three dots of the file.
 

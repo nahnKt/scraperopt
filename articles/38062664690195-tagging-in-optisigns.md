@@ -17,7 +17,9 @@ Last updated: 2025-09-09
 
 Tagging is an essential tool for keeping your content and screens organized. They can be applied to any asset to allow for seamless sorting, and applied to screens to help identify screen location, screen type, hardware, and far more.
 
-> **NOTE:** Asset and screen tagging are distinct from [**content tags in playlists**](https://support.optisigns.com/hc/en-us/articles/20879903340947-How-to-Use-Content-Tags-in-The-Playlist).
+> **NOTE**
+>
+> Asset and screen tagging are distinct from [**content tags in playlists**](https://support.optisigns.com/hc/en-us/articles/20879903340947-How-to-Use-Content-Tags-in-The-Playlist).
 
 ---
 
@@ -72,7 +74,7 @@ With Tag Rules, it's possible to set a network of Tags for an Asset to display o
 
 For example, let's say you want an advertisement to play only in customer-facing screens, but only in certain locations. You can combine these screens into a single Tag Rule, then push content to only those screens.
 
-To do this, select the **Target**to say **Tag Rules**on the Push to Screens tab:
+To do this, select the **Target**to say **Tag Rules**on the Push to Screens tab:
 
 ![firefox_Cnp46Hnyhc.jpg](https://support.optisigns.com/hc/article_attachments/39406606002195)
 
@@ -84,7 +86,7 @@ This will bring up the Screen Tag Rule screen:
 
 ![rpA5cqMfxw.jpg](https://support.optisigns.com/hc/article_attachments/39406606004371)
 
-Here, you have the ability to **Include**or **Exclude**certain tags using and/or logic commands. You can add **Rules**or **Rulesets**to make these as elaborate as you like:
+Here, you have the ability to **Include**or **Exclude**certain tags using and/or logic commands. You can add **Rules**or **Rulesets**to make these as elaborate as you like:
 
 ![firefox_XiHCAOKT8K.jpg](https://support.optisigns.com/hc/article_attachments/39406606006547)
 
@@ -100,7 +102,9 @@ You'll then be able to select this Tag Rule on the Push to Screens tab, and use 
 
 Screen tags can also be used by OptiSigns Remote Commands to send direct commands to multiple screens at a time. This can be anything from forcing an update to changing the content displaying on screen.
 
-> **NOTE:** Remote Commands can only be used by **Pro Plus** subscribers or above.
+> **NOTE**
+>
+> Remote Commands can only be used by **Pro Plus** subscribers or above.
 
 For more information on how to send Remote Commands via tag, see our article on [**Remote Command Execution**](https://support.optisigns.com/hc/en-us/articles/4408658251027-How-to-use-Remote-Command-Execution-Windows-Linux).
 

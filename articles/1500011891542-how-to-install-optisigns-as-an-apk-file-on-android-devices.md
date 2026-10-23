@@ -10,7 +10,7 @@ Last updated: 2024-12-11
 - [Via Web Browser](#installing-apk-via-web-browser)
   - [Download OptiSigns APK and Run APKInstaller](#download-optisigns-apk-and-install-it)
 
-> **NOTE:**
+> **NOTE**
 >
 > We **strongly recommend** installing the [OptiSigns app](https://play.google.com/store/apps/details?id=com.optisigns.playe1&hl=en_US) via the Google Play Store for most Android devices. This is because Google Play will automatically keep your app up to date with new versions and releases.
 >
@@ -22,7 +22,9 @@ Last updated: 2024-12-11
 
 Newer versions of Android will need you to allow **Unknown Source** downloads in order to successfully install the OptiSigns app. In this case, you know the source - it's us! - but your Android device may not recognize it. This will not be needed on every Android device, but it's best to do it just to be safe.
 
-> **NOTE:** These instructions mainly apply to Android Oreo, Pie, 9.0, or later. For even more detailed instructions on Unknown Sources, [see how to install apps from unknown sources in Android](https://www.appaloosa.io/blog/guides/how-to-install-apps-from-unknown-sources-in-android).
+> **NOTE**
+>
+> These instructions mainly apply to Android Oreo, Pie, 9.0, or later. For even more detailed instructions on Unknown Sources, [see how to install apps from unknown sources in Android](https://www.appaloosa.io/blog/guides/how-to-install-apps-from-unknown-sources-in-android).
 
 To allow Unknown Source downloads, go to **Settings →** **Device Preferences → Security & restrictions.**
 
@@ -124,8 +126,6 @@ Click the **Done** button.
 
 ![install optisigns apk](https://support.optisigns.com/hc/article_attachments/1500019431141)
 
-### 
-
 ### That’s it!
 
 Either route you've taken, you'll need to [pair your screen to your account](https://support.optisigns.com/hc/en-us/articles/360016374813-Set-up-add-a-screen). Once paired, you'll have full access to OptiSigns digital signage!
@@ -134,4 +134,4 @@ Either route you've taken, you'll need to [pair your screen to your account](htt
 
 ---
 
-If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
+If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)

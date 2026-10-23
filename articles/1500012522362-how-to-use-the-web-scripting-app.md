@@ -30,7 +30,7 @@ If your dashboard requires login with the 2FA, OptiSigns supports 2FA in the Web
 
 **Let's jump in and get started!**
 
-> **NOTE:**
+> **NOTE**
 >
 > Web Scripting is not supported on:
 >
@@ -40,7 +40,9 @@ If your dashboard requires login with the 2FA, OptiSigns supports 2FA in the Web
 
 ---
 
-## **Record Your Script**
+## Record Your Script
+
+[Embedded content (www.youtube-nocookie.com)](https://www.youtube-nocookie.com/embed/v8fObpJWGX0)
 
 In this article, we will show you how to use a tool called Burp Suite Navigation Recorder. You can use other tools if that can generate similar scripts that works too. We recommend Burp Suite because it's a reputable tool used by many companies, including the Fortune 500.
 
@@ -88,18 +90,19 @@ It will open an **Chrome Incognito window**.
 You can put in the URL of the website or page you want to start with.  
 Then fill out the forms. (such as, entering your username, password and click Login)
 
-|  |
-| --- |
-| **Important Notes to Follow to Reduce Issues Later!** |
-| **Always start with the destination URL** (The URL of the page you want to display). Let the website handle the redirection once you fill out the login information. |
-| **Always click the Login button,** instead of Enter. |
-| **Correctly enter your fields in 1 attempt!** Type slow and carefully. Don't use backspaces or arrows keys to modify. If you mess up, please restart this step from the beginning. |
+> **Important Notes to Follow to Reduce Issues Later!**
+>
+> **Always start with the destination URL** (The URL of the page you want to display). Let the website handle the redirection once you fill out the login information.
+>
+> **Always click the Login button,** instead of Enter.
+>
+> **Correctly enter your fields in 1 attempt!** Type slow and carefully. Don't use backspaces or arrows keys to modify. If you mess up, please restart this step from the beginning.
 
 ![mceclip6.png](https://support.optisigns.com/hc/article_attachments/1500019660182)
 
 You can click around, navigate to certain page, position on page etc.
 
-Once you are done,  click on the **Navigation Recorder Extension icon** and click **Stop Recording.**
+Once you are done,  click on the **Navigation Recorder Extension icon** and click **Stop Recording.**
 
 This will close the Incognito window that you are working on.
 
@@ -113,7 +116,7 @@ Now you are ready to put in use in OptiSigns.
 
 ---
 
-## **Record Your Script (2FA Enabled)**
+## Record Your Script (2FA Enabled)
 
 If 2FA is enabled on your login, you'll need to obtain a **Secret Key**.
 
@@ -138,7 +141,7 @@ Now you're ready to create a Web Scripting Asset.
 
 ---
 
-## **Create Web Scripting Asset in OptiSigns**
+## Create Web Scripting Asset in OptiSigns
 
 Log in to OptiSigns <https://app.optisigns.com/>
 
@@ -166,7 +169,7 @@ Enter the information for your Web Scripting asset:
 
 ---
 
-## **Deploying Your Web-Scripting Asset on Your Screens**
+## Deploying Your Web-Scripting Asset on Your Screens
 
 Once created, the Web Scripting asset can be used in by itself or in Playlists, Schedules, or SplitScreen zones just like any other assets.
 
@@ -178,7 +181,7 @@ If you choose to use Master Password and our Zero Knowledge Encryption framework
 
 ---
 
-## **Web Scripting Security Features**
+## Web Scripting Security Features
 
 When anyone other than the creator of a Web Scripting asset looks at it, it will look like this:
 
@@ -200,8 +203,8 @@ If you want to add additional security by utilizing a Master Password and our Ze
 Your script is encrypted at your browser, and transfer securely using HTTPS/SSL during transits and stored on our servers.  
 It then sends securely to devices, and decrypted at device level right before executing on the target website.
 
-### **That's all!**
+### That's all!
 
 Congratulations, you have created Web Scripting assets! Now you can automatically log in to gated websites and navigate to pages as needed.
 
-If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
+If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)

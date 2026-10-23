@@ -19,7 +19,7 @@ Monitoring & Alert is a Pro Plus and Enterprise feature that will allow you to r
 - Set up a process, and training in place for the location's admin to help you troubleshoot when there are issues.
 - If you are not running your screen 24/7, say your business hour is 7 AM - 7 PM, set an alert if downtime is >13 hours so you will not have a notification every day, and still be able to catch the screen down within 24 hours.
 
-#### **How to set up the Monitoring Alert feature:**
+#### How to set up the Monitoring Alert feature:
 
 Go to Account Settings and click Monitoring Alert.  
 Or you can go straight to this page: <https://app.optisigns.com/app/s/monitoring-alert-rules>
@@ -48,8 +48,8 @@ Fill in the settings for your policy:
 
 You can click "Manage Alert Rules" to go to manage alert rule pages and update your rules if needed.
 
-#### **That's it!**
+#### That's it!
 
 You have created Monitoring Alert rule to help you get notifications when your screens are down, so you can take actions.
 
-If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
+If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)

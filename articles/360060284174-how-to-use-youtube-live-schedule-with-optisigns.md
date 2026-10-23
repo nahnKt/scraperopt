@@ -16,18 +16,11 @@ You just need to copy the YouTube channel link and paste in the YouTube Live Sch
 
 **![](https://support.optisigns.com/hc/article_attachments/29017347776531)**
 
-## 
+## Let's jump in and get started:
 
-|  |
-| --- |
-|  |
-|  |
+First, you will need to have your screens set up and paired. For more information on how to do that, click [here](https://www.optisigns.com/blog/how-to-set-up-digital-signs-with-optisigns-and-amazon-fire-tv).
 
-## **Let's jump in and get started:**
-
-First, you will need to have your screens set up and paired. For more information on how to do that, click [here](https://www.optisigns.com/blog/how-to-set-up-digital-signs-with-optisigns-and-amazon-fire-tv).
-
-Then log on to our portal: <http://app.optisigns.com/>
+Then log on to our portal: <http://app.optisigns.com/>
 
 Go to Files/Assets, Click on "App".
 
@@ -73,16 +66,22 @@ Click Save.
 
 After Saving, you can Preview live videos to verify.
 
-## **Optional, Schedule your event to go on your signs at specific time.**
+## Optional, Schedule your event to go on your signs at specific time.
 
 Next, you can put the YouTube Live Schedule in your Schedule.
 
 Say you want your 9AM-11AM event to be schedule every Sunday.
 
-|  |
-| --- |
-| **HOW THE APP WORKS** |
-| The YouTube Live Schedule app has a very specific way it functions, and understanding this may help work out any issues you may be having with it.  Assume:   - *x **=*** the time you set in the YouTube Live Schedule app - *y =* the time the actual livestream becomes available from YouTube   The app checks for live data every 30 seconds at **x**, **x+30,** and **x+60**, *then stops**.***So **x needs to be slightly later than y** (usually 1–2 minutes), otherwise it may miss the live stream. |
+> **HOW THE APP WORKS**
+>
+> The YouTube Live Schedule app has a very specific way it functions, and understanding this may help work out any issues you may be having with it.
+>
+> Assume:
+>
+> - *x **=*** the time you set in the YouTube Live Schedule app
+> - *y =* the time the actual livestream becomes available from YouTube
+>
+> The app checks for live data every 30 seconds at **x**, **x+30,** and **x+60**, *then stops**.***So **x needs to be slightly later than y** (usually 1–2 minutes), otherwise it may miss the live stream.
 
 For more information about using Schedule, please refer to [Schedule Guide](https://support.optisigns.com/hc/en-us/articles/360016981853).
 
@@ -90,13 +89,13 @@ NOTE: If your schedules ends earlier than 11AM, YouTube Live Schedule will play 
 
 ![mceclip0.png](https://support.optisigns.com/hc/article_attachments/1500001730581)
 
-## **Tips & Notes:**
+## Tips & Notes:
 
 You should set your event in YouTube to live a few minutes before the actual schedule time in OptiSigns, as YouTube take a few mins to set the event live.
 
 If you set your event to be live publicly (so people can view it without logging on to YouTube), it may take up to 10min from the time you set the event to Live till the time it's actually live on YouTube (likely due to YouTube review process).
 
-## **That's all! Congratulation!**
+## That's all! Congratulation!
 
 You have added a YouTube Live Schedule.
 
@@ -104,4 +103,4 @@ You can assign the newly created YouTube Live Schedule asset to your screen by g
 
 You can put the YouTube Live Schedule to a Playlist, Schedule too.
 
-If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
+If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)

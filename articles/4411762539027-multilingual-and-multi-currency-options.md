@@ -3,12 +3,12 @@
 Article URL: https://support.optisigns.com/hc/en-us/articles/4411762539027-Multilingual-and-Multi-Currency-Options
 Last updated: 2026-09-21
 
-#### **Multi-Currency Options**
+#### Multi-Currency Options
 
 OptiSigns supports payment in USD, CAD, GBP, EUR, and AUD  
 Just select your preferred payment currency on checkout.
 
-#### **Multi-Language Options**
+#### Multi-Language Options
 
 There may be some parts of the app that are not translated, or localized.  
 If you notice areas we can improve, please send us a screenshot and your suggestion on how to improve the translation to [support@optisigns.com](mailto:support@optisigns.com)
@@ -45,7 +45,7 @@ select language (this will apply to all users on your account unless they set th
 
 ![Preferences General section with the account Language list open, showing nine languages.](https://support.optisigns.com/hc/article_attachments/55635933731475)
 
-#### **Apps & Widget Translations:**
+#### Apps & Widget Translations:
 
 - These apps are translated as:
   - Meeting Room

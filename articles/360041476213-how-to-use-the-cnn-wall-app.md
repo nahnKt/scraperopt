@@ -34,7 +34,7 @@ First, you will need to have your screens set up and paired. For more informatio
 
 Then log on to our portal: [https://app.optisigns.com/](http://app.optisigns.com/)
 
-Go to **Files/Assets**, Click on "Apps" and add **CNN** on your Account.
+Go to **Files/Assets**, Click on "Apps" and add **CNN** on your Account.
 
 ![The Files/Assets page with the Apps button highlighted in the left sidebar.](https://support.optisigns.com/hc/article_attachments/55252921439379)
 
@@ -55,7 +55,7 @@ Enter your CNN Wall App information:
 
 - Font Size: Set the font size for the CNN Wall app.
 
-Clicking **Advanced**opens up additional options:
+Clicking **Advanced**opens up additional options:
 
 ![Advanced expanded, showing the Date and Time and Scrolling Strip Font Size fields.](https://support.optisigns.com/hc/article_attachments/55252921446675)
 
@@ -67,6 +67,6 @@ Clicking **Advanced**opens up additional options:
 
 After you've configured the CNN News app to your liking, hit **Save**. Your CNN app will appear as an Asset in OptiSigns, and it can now be directly assigned to a screen or used in a Playlist. This asset can then be edited at any time from the Files/Assets tab.
 
-## **That's all!**
+## That's all!
 
 OptiSigns is the leader in [digital signage software](https://www.optisigns.com/). If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)

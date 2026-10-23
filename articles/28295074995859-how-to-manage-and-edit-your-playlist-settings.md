@@ -18,7 +18,7 @@ In this article:
 
 If you need help getting started, you can refer to our article titled [How to Create & Use Playlists](https://support.optisigns.com/hc/en-us/articles/28295104605843) for further guidance and support.
 
-## **Edit your Playlist**
+## Edit your Playlist
 
 To edit a playlist, simply **click** on the playlist.
 
@@ -34,16 +34,15 @@ or, hover over the item in the playlist and check the checkbox.
 
 ![Hovering a playlist item reveals its checkbox](https://support.optisigns.com/hc/article_attachments/55401188507795)
 
-**2.** Select assets within your playlist to access **Remove** and **Edit Duration** options.
+**2.** Select assets within your playlist to access **Remove** and **Edit Duration** options.
 
 ![Selected playlist items showing the Edit Duration and Remove buttons](https://support.optisigns.com/hc/article_attachments/55401188510483)
 
-|  |
-| --- |
-| **Remove:** This option will delete selected asset(s) from the playlist. |
-| **Edit Duration:** You will be able to customize the duration in seconds for all asset(s). |
+> **Remove: This option will delete selected asset(s) from the playlist.**
+>
+> **Edit Duration:** You will be able to customize the duration in seconds for all asset(s).
 
-## **Add Additional Items Into a Playlist**
+## Add Additional Items Into a Playlist
 
 To add items from your files/asset to your playlist:
 
@@ -55,9 +54,9 @@ To add items from your files/asset to your playlist:
 
 ![Two assets ticked in the file list with the add-to-playlist button in the selection bar](https://support.optisigns.com/hc/article_attachments/55401173014419)
 
-## **Playlist Options and Change Multiple Playlists Settings at Once**
+## Playlist Options and Change Multiple Playlists Settings at Once
 
-#### **Singular Playlist Options:**
+#### Singular Playlist Options:
 
 **1.** Click the **gear icon** on the top right-hand side.
 
@@ -85,7 +84,9 @@ To add items from your files/asset to your playlist:
   - Fit
   - Stretch
   - Zoom
-  > **TIP:** For the sharpest results, use images or documents that match your screen's resolution. The Scale settings matter most when content is smaller than the screen.
+  > **TIP**
+  >
+  > For the sharpest results, use images or documents that match your screen's resolution. The Scale settings matter most when content is smaller than the screen.
 - **Shuffle:** The "shuffle" option for a playlist randomizes the playback order of items.
 - **Default Transition:** This option determines the type of transition effect that occurs when switching between items in the playlist:
   - Fade
@@ -113,11 +114,11 @@ To add items from your files/asset to your playlist:
 - **Target Screens:** This field will only be visible if you have selected the option "**Play on**" or "**Not play on**" in the "**Adv. playback settings apply to**" option.
   - Select the target screens by either Screen name or Screen Tags.
 - **Screen Tags**: Add a tag name.
-- **Screens:** Choose your paired screen.
+- **Screens:** Choose your paired screen.
 - **Target tags:** A grouping method for screens, enabling you to push content to tags, with all screens assigned to those tags receiving the content.
   - **Use Asset Default:** By mixing content for different screens within the same playlist, you can simplify the management of your screens.
     - You will also need to set up content tagging which you can learn more about it [here](https://support.optisigns.com/hc/en-us/articles/20879903340947-How-to-Use-The-Asset-Tag-Features-in-The-Playlist).
-  - **Use Playlist Default:** By mixing content for different screens within the same playlist, you can simplify the management of your screens.
+  - **Use Playlist Default:** By mixing content for different screens within the same playlist, you can simplify the management of your screens.
     - Create a tag name.
     - You will also need to set up content tagging which you can learn more about [here](https://support.optisigns.com/hc/en-us/articles/20879903340947-How-to-Use-The-Asset-Tag-Features-in-The-Playlist).
     - Make sure to select "Use Playlist Default".
@@ -132,7 +133,7 @@ To add items from your files/asset to your playlist:
   - Portrait
 - **Background Music:** You will be able to add music to your playlist here. You'll have to upload an MP3 file to OptiSigns before you can select this.
 
-#### **Change Multiple Playlist Settings at Once:**
+#### Change Multiple Playlist Settings at Once:
 
 **1.** Select all the playlists you wish to change.
 
@@ -148,7 +149,7 @@ To add items from your files/asset to your playlist:
 
 **4.** The features on the "Playlist Options" page are the same as the section above.
 
-## **Display Operation Report**
+## Display Operation Report
 
 A **Playlist Operation Report** offers a summary of the features activated within a user's playlist, removing the need to view each asset individually.
 
@@ -162,7 +163,7 @@ A **Playlist Operation Report** offers a summary of the features activated withi
 
 **3.** Open from your downloads to view
 
-## **Copy/Duplicate a playlist**
+## Copy/Duplicate a playlist
 
 **1.** To copy or duplicate the playlist, begin by clicking on the **three vertical buttons**.
 
@@ -170,13 +171,11 @@ A **Playlist Operation Report** offers a summary of the features activated withi
 
 ![Playlist menu open with Duplicate Playlist highlighted](https://support.optisigns.com/hc/article_attachments/55401188523027)
 
-|  |
-| --- |
-| This will create an exact copy of the playlist in your list. |
+> This will create an exact copy of the playlist in your list.
 
 ![The duplicated playlist listed as Copy of Playlist 2](https://support.optisigns.com/hc/article_attachments/55401173029139)
 
-## **Modify Playlist Colors**
+## Modify Playlist Colors
 
 Set a color for the playlist to enhance organization and improve visibility in schedules.
 
@@ -188,7 +187,7 @@ The available colors are shown below:
 
 ![One schedule showing five events in five different colours across a week](https://support.optisigns.com/hc/article_attachments/55401188532371)
 
-## **Delete a Playlist**
+## Delete a Playlist
 
 **1.** Delete a playlist by clicking the **three vertical buttons** and then selecting the **"Delete Playlist"** button.
 
@@ -198,7 +197,7 @@ The available colors are shown below:
 
 ![Delete Playlist confirmation dialog with Cancel and Delete buttons](https://support.optisigns.com/hc/article_attachments/55401188535187)
 
-## **External Playlist Sharing**
+## External Playlist Sharing
 
 **1.** Select the desired playlist.
 
@@ -210,8 +209,8 @@ To learn more about this feature, click [here](https://support.optisigns.com/hc/
 
 ---
 
-## **That's all!**
+## That's all!
 
-If you're interested in exploring our advanced features further, consider [Nested Playlists.](https://support.optisigns.com/hc/en-us/articles/360043621953-How-to-create-and-use-Nested-Playlists) These resources offer detailed insights into optimizing your playlist management experience with OptiSigns.
+If you're interested in exploring our advanced features further, consider [Nested Playlists.](https://support.optisigns.com/hc/en-us/articles/360043621953-How-to-create-and-use-Nested-Playlists) These resources offer detailed insights into optimizing your playlist management experience with OptiSigns.
 
 Please let us know if you have any questions or feedback.

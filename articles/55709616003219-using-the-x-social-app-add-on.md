@@ -59,7 +59,9 @@ Enter the details for your wall:
 - **Profile** (Profile post source only) - Pick one of the free profiles from the list, marked Free (natgeo, sportscenter and uberfacts), or type any X handle, such as OptiSigns or @OptiSigns. A handle you type needs the X Social add-on. It's 1 to 15 letters, numbers or underscores, and OptiSigns checks it exists on X before it saves.
 - **Hashtag** (Hashtag post source only) - The hashtag, without the #. Use letters, numbers and underscores only. Hashtag feeds need the X Social add-on. Posts with this hashtag will appear on the OptiSigns feed.
 
-> **IMPORTANT:** You can't change an asset's **Post source**, **Profile** or **Hashtag** after you save it. To follow a different account or hashtag, create a new X Social asset.
+> **IMPORTANT**
+>
+> You can't change an asset's **Post source**, **Profile** or **Hashtag** after you save it. To follow a different account or hashtag, create a new X Social asset.
 
 ### Display Settings
 
@@ -150,7 +152,9 @@ The add-on includes:
 
 If you need more profiles or a larger monthly allowance, contact [support@optisigns.com](mailto:support@optisigns.com).
 
-> **NOTE:** If you cancel the add-on, it stays active until the end of the period you've paid for. There's no refund for the rest of that period.
+> **NOTE**
+>
+> If you cancel the add-on, it stays active until the end of the period you've paid for. There's no refund for the rest of that period.
 
 ---
 

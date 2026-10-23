@@ -26,6 +26,8 @@ Video walls are a common request from OptiSigns customers. They can be used in n
 
 Now, using the power of the new [OptiSigns Pro](https://www.optisigns.com/post/the-new-optisigns-pro-digital-signage-player-is-here) and [ProMax Player](https://www.optisigns.com/product/hardware/promax-digital-signage-player) and the Video Wall App, it’s possible to push your digital signs to multiple screens and use them as a cohesive video wall easier than ever.
 
+[Embedded content (www.youtube-nocookie.com)](https://www.youtube-nocookie.com/embed/GyWZd10ure0)
+
 ## What’s Needed?
 
 To set up a video wall for use in the Video Wall app, you’ll need:
@@ -36,12 +38,15 @@ To set up a video wall for use in the Video Wall app, you’ll need:
 - Up to four screens (ProMax, max 4K output) or three screens (Pro Player, max 1080p HD output)
 - HDMI/other connectors
 
-> **NOTE:** The Video Wall App can ***only*** be used with the OptiSigns Pro or ProMax Player. It cannot be used in any other capacity.
+> **NOTE**
+>
+> The Video Wall App can ***only*** be used with the OptiSigns Pro or ProMax Player. It cannot be used in any other capacity.
 
-|  |
-| --- |
-| **A NOTE ON PRICING** |
-| The license and Video Wall app apply to the player, not the number of screens. In other words, you will only need one license per video wall, regardless of the number of screens used.  Example: say you have a Pro Plus plan license at $15/month. You then want to make a 4-screen video wall using a ProMax Player. You buy a single Video Wall add-on. This lets you run a 4-screen video wall at $40/month. That same $40/month could be used to run a 2 or 3 screen video wall as well. |
+> **A NOTE ON PRICING**
+>
+> The license and Video Wall app apply to the player, not the number of screens. In other words, you will only need one license per video wall, regardless of the number of screens used.
+>
+> Example: say you have a Pro Plus plan license at $15/month. You then want to make a 4-screen video wall using a ProMax Player. You buy a single Video Wall add-on. This lets you run a 4-screen video wall at $40/month. That same $40/month could be used to run a 2 or 3 screen video wall as well.
 
 ---
 
@@ -99,9 +104,7 @@ Navigate to **Advanced → More**, then find the **Video Wall** option and hit *
 
 You’ll be prompted to add this add-on to your subscription.
 
-|  |
-| --- |
-| **NOTE:** The Video Wall option will only appear if an OptiSigns Pro Player is attached to the screen. |
+> **NOTE:** The Video Wall option will only appear if an OptiSigns Pro Player is attached to the screen.
 
 ---
 
@@ -115,7 +118,8 @@ You’ll be prompted to select the number of screens and their orientation:
 
 ![](https://support.optisigns.com/hc/article_attachments/40326717838739)
 
-> **NOTE:**
+> **NOTE**
+>
 > **4 Screens**are only available using the **OptiSigns ProMax Player.**The regular Pro Player can handle 2 or 3 screens.
 
 Once selected, you’ll have a couple options: you can build a basic video wall, or create a continuous one.
@@ -142,7 +146,7 @@ Clicking the **Gear** icon will lead you to this screen:
 
 ![picture of video wall configs menu with audio zone and primary zone options](https://support.optisigns.com/hc/article_attachments/33382521817235)
 
-**Audio Zone** - Lets you choose which screen the audio will come from. This can be **All**, or any one of the **HDMI ports**you've assigned a screen to.
+**Audio Zone** - Lets you choose which screen the audio will come from. This can be **All**, or any one of the **HDMI ports**you've assigned a screen to.
 
 **Primary Zone** - Setting one of your screens as a Primary Zone will provide a better experience or smoother content transition when you need to coordinate contents in different zones and put use the video wall app in a playlist.
 
@@ -244,7 +248,7 @@ Remember: in most setups, the player will be facing outward, with the AV ports f
 
 ![video wall hdmi diagram](https://support.optisigns.com/hc/article_attachments/36987172953491)
 
-**HD-A-1** goes to your farthest left or most vertical screen, **HD-A-2** goes to your middle screen, and **HD-A-3** goes to the farthest right or bottom screen. If using just two screens, HD-A-3 is not needed.
+**HD-A-1** goes to your farthest left or most vertical screen, **HD-A-2** goes to your middle screen, and **HD-A-3** goes to the farthest right or bottom screen. If using just two screens, HD-A-3 is not needed.
 
 ---
 
@@ -330,7 +334,7 @@ Then you can plug in FireStick, or any other player running OptiSigns and have i
 
 Note that if your wall is big, you should use a Video Controller with 4K support, and use FireStick 4K or equivalent devices to output 4K high-resolution content, which will help the quality of your video wall.
 
-If you have feedback on how to make the how-to guides better, please let us know at: [support@optisigns.com](mailto:support@optisigns.com)
+If you have feedback on how to make the how-to guides better, please let us know at: [support@optisigns.com](mailto:support@optisigns.com)
 
 ---
 

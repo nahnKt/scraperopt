@@ -15,7 +15,7 @@ This article focuses on integration strategies and approaches. For detailed step
 - [SAML SSO with OneLogin (Shibboleth)](https://support.optisigns.com/hc/en-us/articles/4407476403859-How-to-set-up-SAML-2-0-with-OptiSigns-and-OneLogin-Shibboleth)
 - [SAML SSO with Google Workspace](https://support.optisigns.com/hc/en-us/articles/4407493404307-How-to-set-up-SAML-2-0-with-OptiSigns-and-Google-Workspace)
 
-## **Create a backup Admin account during set up:**
+## Create a backup Admin account during set up:
 
 During set up, we recommend leaving Enable Username & Password login, and creating an Admin account with username/password to log back in and config, in case you accidentally lock yourself out by missing assignments of roles or groups.
 
@@ -25,9 +25,9 @@ You can disable this account later once your implementation is completed.
 
 In this case, you are planning not to use email as the unique identifier for the user, and use a username or employee ID instead. We recommend having this on, so the account owner and admin account will be able to manage the account without interruption, e.g. forgetting the password, or an issue with identifying the provider.
 
-## **Strategies for using SAML:**
+## Strategies for using SAML:
 
-#### **1) As an Authentication & Authorization Service (RECOMMENDED)**
+#### 1) As an Authentication & Authorization Service (RECOMMENDED)
 
 SAML can be used to enforce identity verification, but also to enforce user, team, and role mapping in OptiSigns.
 
@@ -50,13 +50,13 @@ The mapping should be like below:
 |  |  |
 | --- | --- |
 | **OKTA** | **ENTRA** |
-| mceclip3.png | For Entra, your "Group Name" within OptiSigns corresponds to your "Object ID" within Entra. See [our article](https://support.optisigns.com/hc/en-us/articles/4407252213395-How-to-Set-Up-SAML-2-0-with-OptiSigns-and-MS-Entra-ID-formerly-Azure-AD#AssignMap) for more information. |
+| ![mceclip3.png](https://support.optisigns.com/hc/article_attachments/4407128634643) | For Entra, your "Group Name" within OptiSigns corresponds to your "Object ID" within Entra. See [our article](https://support.optisigns.com/hc/en-us/articles/4407252213395-How-to-Set-Up-SAML-2-0-with-OptiSigns-and-MS-Entra-ID-formerly-Azure-AD#AssignMap) for more information. ![](https://support.optisigns.com/hc/article_attachments/48859309419667) |
 
 With this set up, let's say a user belongs to Marketing West Coast. You want to move them to Marketing East Coast. Simply update your IDP and move them from West Coast to East Coast. The next time they log in to OptiSigns, that will be reflected and they will belong to the Marketing West Coast team and can only see that content in OptiSigns.
 
-For more on User Management, see our article on [**Teams and Folder Security**](https://support.optisigns.com/hc/en-us/articles/43657735780627-User-Management-Example-Chain-Restaurant-or-Retail-Store-with-Multiple-Locations)in OptiSigns.
+For more on User Management, see our article on [**Teams and Folder Security**](https://support.optisigns.com/hc/en-us/articles/43657735780627-User-Management-Example-Chain-Restaurant-or-Retail-Store-with-Multiple-Locations)in OptiSigns.
 
-#### **2) As Authentication Service Only**
+#### 2) As Authentication Service Only
 
 SAML can be used to enforce your MFA, Password policy, and remove users and revoke access to OptiSigns. You can still manage these users and assign them to Teams or Roles. This approach is quick to set up and flexible as you can quickly move users around in OptiSigns. However, when users move around in your IDP, you will have to remember to move them around in OptiSigns as well, if required.
 
@@ -68,7 +68,7 @@ Going back to our earlier example: when a user moves from Marketing West Coast t
 
 Also if when the user update, change their name, you will have to update OptiSigns as well to keep it in sync.
 
-#### **Enable User Creation:**
+#### Enable User Creation:
 
 We recommend keeping this option checked. When enabled, if users are authenticated and SAML maps the user to a team or role that can use OptiSigns, the user will be created automatically.
 

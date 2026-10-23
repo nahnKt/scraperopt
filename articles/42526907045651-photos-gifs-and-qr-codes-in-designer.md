@@ -47,7 +47,9 @@ To edit the photo, select it. The Top Menu options will change:
 
 We’ll go over each of these options in turn.
 
-> **NOTE:** The following information also applies to images added via the **Image** option, uploaded from your device or as an asset.
+> **NOTE**
+>
+> The following information also applies to images added via the **Image** option, uploaded from your device or as an asset.
 
 ### Background
 
@@ -141,7 +143,9 @@ Here, choose how the image will be scaled. There are three options:
 - **Stretch** - Stretches the image to fill the entire screen.
 - **Zoom** - Zooms in on the image to fill up the entire screen. Not recommended for small images on large displays, as this will create blurriness.
 
-> **NOTE:** If a URL is provided, the **Scale** option will not appear.
+> **NOTE**
+>
+> If a URL is provided, the **Scale** option will not appear.
 
 Expanding the **Settings** section will provide these options for your link:
 
@@ -188,7 +192,9 @@ Selecting the **Effects** option allows you to change a number of different aspe
 
 Here, you have numerous options. We’ll go over each of them in turn.
 
-> **NOTE:** Many of these options are best used with a **transparent background**, else you will not see much difference.
+> **NOTE**
+>
+> Many of these options are best used with a **transparent background**, else you will not see much difference.
 
 Expanding the **Color** section allows you to add color to the photo or image.
 
@@ -273,7 +279,9 @@ Selecting the **Position** option will open the Position section of the Side Men
 
 ![lock and copy style button graphic](https://support.optisigns.com/hc/article_attachments/42526907016595)
 
-> **NOTE:** The "Lock" feature is only available for [**Pro Plus plan users and above**](https://www.optisigns.com/pricing).
+> **NOTE**
+>
+> The "Lock" feature is only available for [**Pro Plus plan users and above**](https://www.optisigns.com/pricing).
 
 Clicking the **Lock** button will lock the selected photo or image in place, preventing any changes from being made to it.
 
@@ -374,6 +382,6 @@ To fix this issue, follow the instructions in our [**How to Fix the Scaling Issu
 
 This will fix the GIF and it will display properly.
 
-### **That’s all!**
+### That’s all!
 
 OptiSigns is the leader in [digital signage software](https://www.optisigns.com/). If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at <support@optisigns.com>.

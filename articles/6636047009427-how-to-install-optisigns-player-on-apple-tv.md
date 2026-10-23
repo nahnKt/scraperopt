@@ -10,23 +10,21 @@ Before we get going, a few limitations you should take note.
 - Apple does not recommend using Apple TV to play website, so some websites may not display properly or Apple may remove support for displaying website. We do not have control over Apple's roadmap.
 - More than 3-4 zones with heavy websites (like PowerBI dashboard) may result in crashing or freezing.
 
-If you need more features, please consider our **[Pre-Configured Android Stick](https://shop.optisigns.com/products/optisigns-android-stick-player-2)**[.](https://support.optisigns.com/hc/en-us/articles/360016174554)
+If you need more features, please consider our **[Pre-Configured Android Stick](https://shop.optisigns.com/products/optisigns-android-stick-player-2)**[.](https://support.optisigns.com/hc/en-us/articles/360016174554)
 
-|  |
-| --- |
-| NOTE: If you are using MDM to manage AppleTV, you can follow [this article](https://support.optisigns.com/hc/en-us/articles/31695220475283-Configuring-Mass-Deployment-with-Jamf-Pro-MDM-on-Apple-Devices) to deploy it. |
+> NOTE: If you are using MDM to manage AppleTV, you can follow [this article](https://support.optisigns.com/hc/en-us/articles/31695220475283-Configuring-Mass-Deployment-with-Jamf-Pro-MDM-on-Apple-Devices) to deploy it.
 
-## **To install OptiSigns on Apple TV, there are 2 high level steps:**
+## To install OptiSigns on Apple TV, there are 2 high level steps:
 
 1. Install OptiSigns channel/app on your Apple TV
 2. Using OptiSigns' web portal to assign content and manage your screens
 
-## **1) Install OptiSigns channel/app on your Apple TV**
+## 1) Install OptiSigns channel/app on your Apple TV
 
 Search for OptiSigns on the Apple store.  
 ![mceclip0.png](https://support.optisigns.com/hc/article_attachments/6635744215571)
 
-#### Go to the search and type in "optisigns" mceclip1.png
+#### Go to the search and type in "optisigns" ![mceclip1.png](https://support.optisigns.com/hc/article_attachments/6673870306707)
 
 Click "Get" the OptiSigns app
 
@@ -40,7 +38,7 @@ It will show the pairing code on your screen.
 
 ![mceclip5.png](https://support.optisigns.com/hc/article_attachments/6673945834003)
 
-You now can go to our portal at: <https://app.optisigns.com/> to pair the screen.
+You now can go to our portal at: <https://app.optisigns.com/> to pair the screen.
 
 ![4.png](https://support.optisigns.com/hc/article_attachments/24124146067731)
 
@@ -58,7 +56,7 @@ The OptiSigns App will change to:
 
 Now you are ready to upload and assign content.
 
-## **2) Using OptiSigns' Web portal to assign content and manage your screens.**
+## 2) Using OptiSigns' Web portal to assign content and manage your screens.
 
 Once you go to our portal at: <https://app.optisigns.com/>to pair the screen and start assigning content to it, you can follow these guides for more detailed steps:
 
@@ -66,4 +64,4 @@ Once you go to our portal at: <https://app.optisigns.com/>to pair the screen and
 - [How to Create & Use Playlists](https://support.optisigns.com/hc/en-us/articles/28295104605843)
 - [Create and Using Schedules with OptiSigns](https://support.optisigns.com/hc/en-us/articles/360016981853)
 
-If you have feedback on how to make the how-to guides better, please let us know at: [support@optisigns.com](mailto:support@optisigns.com)
+If you have feedback on how to make the how-to guides better, please let us know at: [support@optisigns.com](mailto:support@optisigns.com)

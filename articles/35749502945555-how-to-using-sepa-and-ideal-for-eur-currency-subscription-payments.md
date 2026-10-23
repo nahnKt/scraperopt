@@ -5,17 +5,17 @@ Last updated: 2024-11-28
 
 Here’s a simple guide to help you use SEPA and iDEAL for the EUR Currency payment methods when creating or upgrading your subscription.
 
-#### **About the Payment Methods**
+#### About the Payment Methods
 
 - **SEPA (Single Euro Payments Area):** Simplifies euro-denominated payments across participating EU countries.
 - **iDEAL:** iDEAL is a popular payment method in the Netherlands, letting you pay directly from your bank account. This method works only in euros (EUR) and is available to customers located in the Netherlands.
 
-#### **A Few Things to Keep in Mind**
+#### A Few Things to Keep in Mind
 
 - Always select **EUR** as the currency for SEPA and iDEAL payments.
 - iDEAL is only available to customers with a bank account in the Netherlands.
 
-#### **Steps to Create/Upgrade a Subscription and use SEPA/iDEAL as payment method.**
+#### Steps to Create/Upgrade a Subscription and use SEPA/iDEAL as payment method.
 
 - On the [Payment Settings](https://app.optisigns.com/app/s/payment) page, you can update your payment method by choosing either **SEPA** or **iDEAL**.
 - On the [Subscription](https://app.optisigns.com/app/s/subscription-plan) page, locate the currency options in the top-right corner and select **EUR**.

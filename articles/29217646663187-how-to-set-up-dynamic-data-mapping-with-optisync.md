@@ -15,9 +15,7 @@ Last updated: 2026-08-17
   - [How to use Display Format Options](#how-to-use-display-format-options)
 - [Push to Screens](#push-to-screens)
 
-|  |
-| --- |
-| Note: OptiSync is only available on Pro Plus and above plans. |
+> Note: OptiSync is only available on Pro Plus and above plans.
 
 ---
 
@@ -59,12 +57,16 @@ You can add your data source through **Account Settings** or through **Designer 
 - Choose your data source from the list of options and follow the instructions on how to import it
   - *If you fully open your account settings, it will be under "Advanced" in the column on the left*
 
+[Embedded content (www.canva.com)](https://www.canva.com/design/DAGGKZoAUYI/q6eGBJ6JtWzf4hzPK0HdpA/view?embed)
+
 **Designer App:**
 
 - Open the Designer App
 - Select **DataSources** from the column on the left
 - Select **Add DataSource**
 - Choose your data source from the list of options and follow the instructions on how to import it
+
+[Embedded content (www.canva.com)](https://www.canva.com/design/DAGGKyoz5wE/tatblaOkBVslsuHbrJ79eA/view?embed)
 
 You can add any data source, such as an Excel sheet, Google Sheet, POS system, inventory management system, HRIS, or other systems. You can also create a table directly in OptiSigns.
 
@@ -113,7 +115,9 @@ A pop-up message will appear, asking "**Would you like to use this data in a Rep
 - **Use in a Repeater:** This will include the data source element in a Repeater component.
   - **Repeater** is a tool that can be used on the Designer application to display and repeat a list of items dynamically.
 
-> **IMPORTANT:** OptiSync does not support special characters (i.e. anything outside the scope of an English-language keyboard). This will cause the system data to read as blank, and it will not show.
+> **IMPORTANT**
+>
+> OptiSync does not support special characters (i.e. anything outside the scope of an English-language keyboard). This will cause the system data to read as blank, and it will not show.
 
 When you choose to use the data as a Repeater, you're presented with additional options:
 
@@ -137,11 +141,11 @@ You can edit both the template and the Repeater in Designer!
 
 Within the Repeaters section, it will contain several ready to use "**Repeater components**" and "**Repeater Templates.**"
 
-|  |
-| --- |
-| What is the Difference Between the two? |
-| **Repeater Component:** designed to manage and display repeating elements along with some design elements. You can incorporate this Repeater component into any template design of your choice—it doesn't need to be a Repeater template. Once added, you simply connect it to your data source. Think of it as a widget that can be easily implemented and customized across different designs to dynamically display data. |
-| **Repeater Template:** specifically designed to display repeating elements within a predefined template or design layout. Like other templates, it will replace any existed design when applied. You can still make edits and changes as desired. Again, users will only need to download it and connect to your desired data source. |
+> **What is the Difference Between the two?**
+>
+> **Repeater Component:** designed to manage and display repeating elements along with some design elements. You can incorporate this Repeater component into any template design of your choice—it doesn't need to be a Repeater template. Once added, you simply connect it to your data source. Think of it as a widget that can be easily implemented and customized across different designs to dynamically display data.
+>
+> **Repeater Template:** specifically designed to display repeating elements within a predefined template or design layout. Like other templates, it will replace any existed design when applied. You can still make edits and changes as desired. Again, users will only need to download it and connect to your desired data source.
 
 Any of these elements can have a DataSource mapped to them, then be edited in the same manner as any other Designer component.
 
@@ -156,7 +160,7 @@ You can also adjust the formatting of a Repeater by selecting it, then selecting
 
 ![](https://support.optisigns.com/hc/article_attachments/42705270087059)
 
-This will open up the **Data Mapping**section for the Repeater on the Side Menu:
+This will open up the **Data Mapping**section for the Repeater on the Side Menu:
 
 ![](https://support.optisigns.com/hc/article_attachments/53326317461011)
 
@@ -171,13 +175,13 @@ Then, these options will be presented:
   - **Use Default Value:** Show default content, which is what your Repeater element looks like by itself.
   - **Use Blank:** The Repeater will show nothing.
 - **Spacing Between Items:**Increase or decrease the space between the Repeater items.
-- **Item Display Direction:** Change the positioning of the rows from your DataSource within the Repeater items.   
+- **Item Display Direction:** Change the positioning of the rows from your DataSource within the Repeater items.   
   - **Left To Right**: It will display the rows going from left to right.
   - **Top To Bottom**: It will display the rows going top to bottom.
 - **Item Display Alignment:** Change the alignment of the remaining element items (less than the configured items) to be aligned left/center/right or top/center/bottom.
 - **Total Items Displayed per Page:** Increase or decrease how many Repeater items you'd like to be shown.
 - **Maximum Items in Each Row/Column:** Increase or decrease how many Repeater items you'd like shown in each row/column.
-- **Additional Row/Column Spacing:** Increase or decrease the spacing between rows/columns.![](https://support.optisigns.com/hc/article_attachments/53326329465619)
+- **Additional Row/Column Spacing:** Increase or decrease the spacing between rows/columns.![](https://support.optisigns.com/hc/article_attachments/53326329465619)
 - **Duration (seconds):** Adjust the duration of time for how long each Repeater item is shown before.
 - **Page Transition:** Create a page transition for your Repeater. You can choose between Fade and Carousel options, or None at all.
 - **Sort by:** Allows you to quickly sort Repeaters by any data field, with quick filter shortcuts.
@@ -191,6 +195,8 @@ If you edit a Repeater, it will replicate your updates for each instance of data
 - This allows for a consistent look across similar elements without the need to design each one individually.
 
 If you want to use a specific Repeater Template or Component, and would like to update the sample DataSource to one of your DataSources, please follow the steps shown below:
+
+[Embedded content (www.canva.com)](https://www.canva.com/design/DAGGKhwNxOo/xE_nM2goSjoMOCpJaVCmQw/view?embed)
 
 ### How to use the Property Mapping Feature
 

@@ -41,7 +41,9 @@ The Social Mix app settings will open. Enter a **Name**, then add your sources. 
 
 ![Select Facebook window with a Facebook app highlighted](https://support.optisigns.com/hc/article_attachments/56461884193427)
 
-> **TIP:** Don't have a social app yet? Click **Create** in the same window to make one.
+> **TIP**
+>
+> Don't have a social app yet? Click **Create** in the same window to make one.
 
 Once your sources are added, fill in the rest of the settings:
 

@@ -13,7 +13,7 @@ Let's begin,
 
 To change the time zone on your Fire Stick, go to Settings > Preferences > Time Zone. Then select your time zone location. You are all set.
 
-1. Press the **Home button**, and navigate to **Settings** menu
+1. Press the **Home button**, and navigate to **Settings** menu
 
 ![Fire_Stick-1.png](https://support.optisigns.com/hc/article_attachments/1500012114141)
 
@@ -37,4 +37,4 @@ Changing the time zone on your Fire Stick can let your screen start and end with
 
 You're ready to go.
 
-If you have feedback on how to make the how-to guides better, please let us know at: [support@optisigns.com](mailto:support@optisigns.com)
+If you have feedback on how to make the how-to guides better, please let us know at: [support@optisigns.com](mailto:support@optisigns.com)

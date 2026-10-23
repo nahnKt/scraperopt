@@ -5,11 +5,13 @@ Last updated: 2026-09-10
 
 You can replace/change an existing asset (image, video or document) by hovering your mouse over the asset in your library, and click ... then click "Replace Asset". The replacement must be the same media type as the original (i.e. image for image, video for video).
 
-> **NOTE:** Replace Asset is only available on **directly uploaded assets** (images, videos, documents). This does not include created Apps.
+> **NOTE**
+>
+> Replace Asset is only available on **directly uploaded assets** (images, videos, documents). This does not include created Apps.
 
 ![Asset card menu open in Files/Assets, with Replace Asset highlighted](https://support.optisigns.com/hc/article_attachments/55295157180179)
 
-A window will pop up.  You can drag in the new file that you want to use.
+A window will pop up.  You can drag in the new file that you want to use.
 
 Click Upload 1 File.
 

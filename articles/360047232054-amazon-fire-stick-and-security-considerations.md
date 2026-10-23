@@ -5,7 +5,7 @@ Last updated: 2020-05-06
 
 This article will address some commons questions around security for Amazon Fire Stick.
 
-## **Physical Security:**
+## Physical Security:
 
 This is a part that's very easily get overlooked, but it's the easiest for things to go wrong with your devices.
 
@@ -23,7 +23,7 @@ Put your remote somewhere safe, if you have many Fire Stick, it's a good practic
 
 For convenience, you can always use the mobile app for Fire OS Remote to control the Fire Stick from your iPhone or Android Phone. More information [here](https://www.lifewire.com/use-phone-as-remote-control-for-amazon-fire-tv-stick-4571277).
 
-## **Cyber/Network Security:**
+## Cyber/Network Security:
 
 This is the part about security for software, network to your Fire Sticks.
 
@@ -56,9 +56,9 @@ A even more secured way is to connect your FireStick to Ethernet cable for netwo
 Amazon regularly release security fixes, patches for Fire OS.  
 It's automatically pushed to your devices. But you can manually check by:
 
-- Select **Settings > My Fire TV > Device**from the Fire OS setting menu.
-- Go to Software Version section to view the software version currently installed on your Fire TV.
-- Select **Check for System Update**to see if a software update is available for your device.
+- Select **Settings > My Fire TV > Device**from the Fire OS setting menu.
+- Go to Software Version section to view the software version currently installed on your Fire TV.
+- Select **Check for System Update**to see if a software update is available for your device.
 
 **6. Don't download other apps to the Fire Stick**
 
@@ -68,7 +68,7 @@ If you need to download other app, it's best to stick with official apps on the 
 
 That's it, these are the common security considerations if you want to more securely deploy your Fire Stick as digital signage player.
 
-## **Need more advanced, enterprise level security?**
+## Need more advanced, enterprise level security?
 
 You may want to look at:
 

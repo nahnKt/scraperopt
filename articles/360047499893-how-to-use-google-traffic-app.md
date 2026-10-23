@@ -9,11 +9,11 @@ Here's an example how it would look.
 
 ![Google Maps showing colour-coded live traffic across Houston, with a red marker on the chosen location.](https://support.optisigns.com/hc/article_attachments/360082037654)
 
-## **Let's jump in and get started:**
+## Let's jump in and get started:
 
-First, you will need to have your screens set up and paired. For more information on how to do that, click [here](https://www.optisigns.com/blog/how-to-set-up-digital-signs-with-optisigns-and-amazon-fire-tv).
+First, you will need to have your screens set up and paired. For more information on how to do that, click [here](https://www.optisigns.com/blog/how-to-set-up-digital-signs-with-optisigns-and-amazon-fire-tv).
 
-Then log on to our portal: <https://app.optisigns.com/>
+Then log on to our portal: <https://app.optisigns.com/>
 
 Go to Files/Assets, Click on "Apps" and add Google Traffic app to your Account.
 
@@ -23,9 +23,9 @@ Click Google Traffic:
 
 ![The Add App dialog filtered to Traf, with the Google Traffic app card highlighted.](https://support.optisigns.com/hc/article_attachments/55428998725523)
 
- After that, you can enter information for your Google Traffic app.
+ After that, you can enter information for your Google Traffic app.
 
-- Name: Name of your Google Traffic asset, this is the name in your asset list. It will **not** be displayed on your screens.
+- Name: Name of your Google Traffic asset, this is the name in your asset list. It will **not** be displayed on your screens.
 - Location: Center of the map where you want to display traffic around it. Note: Traffic information will be updated every 15 min.
 - Zoom: select zoom level for the map view. We recommend keeping it as 10 - 16. This should give a good coverage for a city, metro area.
 - Show Marker (Optional): if you want to show the market for the Location you selected above.
@@ -34,7 +34,7 @@ Click Google Traffic:
 
 After Saving, you can Preview the Google Traffic app.
 
-## **That's all! Congratulations!**
+## That's all! Congratulations!
 
 You have created your Google Traffic app.  
 You can change the wall any time by click on it in the Files/Assets tab.
@@ -43,4 +43,4 @@ You can assign the newly created instance to your screen by going to Screens, cl
 
 You can put the created social walls in a Playlist and/or Schedule too.
 
-If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
+If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)

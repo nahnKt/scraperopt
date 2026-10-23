@@ -21,13 +21,13 @@ Note:
 
 To use the Sync Play feature, just select the screens you want to enable this feature for.
 
-### 1. Click **Edit** -> **Advanced** -> check **Sync Play**
+### 1. Click Edit -> Advanced -> check Sync Play
 
 ![mceclip1.png](https://support.optisigns.com/hc/article_attachments/4412061147539)
 
 ### 2. Open the side menu of the OptiSigns app on your screen. Go to the Sync Play Timeserver.
 
-#### 
+#### ![](https://support.optisigns.com/hc/article_attachments/15527897797651)
 
 2-1. Set 1 device to **Server** in the Sync Play Timeserver.
 

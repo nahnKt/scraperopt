@@ -88,12 +88,16 @@ The **Brand Colors** can be used to manage accepted fonts through the Brand Kit.
 6. **Code Switcher** - Switch between [hexademical](https://htmlcolorcodes.com/), [RGB](https://www.rapidtables.com/web/color/RGB_Color.html), and [HSLA](https://www.w3schools.com/html/html_colors_hsl.asp) codes
 7. **Previous Colors Used**
 
-> **NOTE:** The **Opacity/Transparency Slider** applies to whichever element the color picker is being applied to, be that text, background, or any of the other areas a color picker can be used.
+> **NOTE**
+>
+> The **Opacity/Transparency Slider** applies to whichever element the color picker is being applied to, be that text, background, or any of the other areas a color picker can be used.
 
 The **Color Drop Tool** lets you choose any color easily.
 
 ![chrome_Aq5bpPMdTr.gif](https://support.optisigns.com/hc/article_attachments/42393206307987)
-> **NOTE:** The Color Drop Tool is not available on certain browsers.
+> **NOTE**
+>
+> The Color Drop Tool is not available on certain browsers.
 
 The color restriction will be applied to all colors in the design - including backgrounds, texts, shapes, and elements. Once enforced, the color palette will only show colors that are allowed by Enforced Branding.
 
@@ -101,7 +105,9 @@ The color restriction will be applied to all colors in the design - including ba
 
 The checkmark denotes the default color. This can be altered by hovering over other colors, and colors can be removed in the same manner.
 
-> **NOTE:** Once Enforce Branding is enabled, background and text colors will be evaluated at the time of saving. If you are using a default white background or black text, ensure these are added to the accepted brand colors. Otherwise, you will receive an error message at the time of saving.
+> **NOTE**
+>
+> Once Enforce Branding is enabled, background and text colors will be evaluated at the time of saving. If you are using a default white background or black text, ensure these are added to the accepted brand colors. Otherwise, you will receive an error message at the time of saving.
 
 ### That’s all!
 

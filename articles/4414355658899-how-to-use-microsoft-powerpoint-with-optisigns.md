@@ -52,7 +52,7 @@ Depending on how you download your PowerPoint, this option can be useful if you 
 
 This option allows you to access private PowerPoint files directly from your Microsoft account. With this option, your PowerPoint will update in our portal with any changes you make to it.
 
-> **NOTE:**
+> **NOTE**
 >
 > The first time you sign in, your account will require Administrator access.
 >
@@ -97,13 +97,13 @@ This option allows you to access private PowerPoint files directly from your Mic
      ![PowerPoint Share menu and Link settings with Anyone selected and Apply highlighted](https://support.optisigns.com/hc/article_attachments/32753266842003)
 6. **Replace** the URL in the generated embed code with the **public** **URL** of your PowerPoint that you just copied**,** as shown below. This ensures that the presentation is accessible without requiring a login.  
      
-   <iframe src="https://**Your-Public-URL**&amp;action=embedview&amp;wdAr=1.7777777777777777&amp;wdEaa=1" width="476px" height="288px" frameborder="0">This is an embedded <a target="\_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="\_blank" href="https://office.com/webapps">Office</a>.</iframe>
+   <iframe src="https://**Your-Public-URL**&amp;action=embedview&amp;wdAr=1.7777777777777777&amp;wdEaa=1" width="476px" height="288px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
 7. **Log in** to the OptiSigns portal.
 8. Go to **Files/Assets**, then **Apps,** and search for the **PowerPoint Online** app.  
    ![Add App dialog searched for PowerPoint, with the PowerPoint Online app card highlighted](https://support.optisigns.com/hc/article_attachments/55936724808595)
 9. Paste the **modified embed code.**  
    **![PowerPoint Online app form with the embed code pasted and Update Interval 600 under Advanced](https://support.optisigns.com/hc/article_attachments/55936708681363)**
-10. Optionally, **customize the Update** **Interval** (default: 600 seconds).
+10. Optionally, **customize the Update** **Interval** (default: 600 seconds).
 11. Click **Save.**
 12. [**Push to Screens**](https://support.optisigns.com/hc/en-us/articles/18988049363859)
 

@@ -3,22 +3,19 @@
 Article URL: https://support.optisigns.com/hc/en-us/articles/29863080711059-How-to-add-a-Microsoft-365-Excel-Spreadsheet-as-a-DataSource-for-OptiSync
 Last updated: 2026-01-29
 
-#### Using our new OptiSync feature in Designer, you can add your Google Sheets to your DataSources and apply to your designs or our prebuilt Repeater Templates or Components. To learn more about OptiSync, please visit our guide [**here**](https://support.optisigns.com/hc/en-us/articles/29217646663187).
+#### Using our new OptiSync feature in Designer, you can add your Google Sheets to your DataSources and apply to your designs or our prebuilt Repeater Templates or Components. To learn more about OptiSync, please visit our guide [here](https://support.optisigns.com/hc/en-us/articles/29217646663187).
 
-|  |
-| --- |
-| Note: OptiSync is only available on **Pro Plus and above** plans. |
+> Note: OptiSync is only available on **Pro Plus and above** plans.
 
 ## Adding Your Excel Spreadsheet as a DataSource
 
 There are two different methods to adding Excel Spreadsheet to your DataSources:
 
-|  |
-| --- |
-| **IMPORTANT NOTE** |
-| OptiSync does not currently (as of 1/15/2025) support Excel's date formatting. In order for dates to properly display, they will need to be redone in TEXT format, or use a formula (like =TEXT(A1, "mm/dd/yy")) to convert them. |
+> **IMPORTANT NOTE**
+>
+> OptiSync does not currently (as of 1/15/2025) support Excel's date formatting. In order for dates to properly display, they will need to be redone in TEXT format, or use a formula (like =TEXT(A1, "mm/dd/yy")) to convert them.
 
-#### **Method 1: Through Designer**
+#### Method 1: Through Designer
 
 - On the Files/Assets page, select **Designer** from the Apps
 - Select **DataSource** on the side menu, then **Add DataSource**
@@ -45,6 +42,8 @@ There are two different methods to adding Excel Spreadsheet to your DataSources:
 - Select your Synchronization and Update Interval
 - Click **Done**
 
+[Embedded content (www.canva.com)](https://www.canva.com/design/DAGGt-QKdIA/On0Hi4xHwkw7xNS5wy8P6Q/view?embed)
+
 **Synchronization**
 
 - **Only once import:** This option imports the data only once when you add the DataSource. After the initial import, the data will not be updated automatically.
@@ -66,10 +65,9 @@ The duration of time between updates if you chose "Periodic direct access" or "P
 - OptiSync does not support special characters (i.e. anything outside the scope of an English-language keyboard). This will cause the system data to read as blank, and it will not show.
 - Row 1 of your Spreadsheet will register as a Header, and must be regular text to support features like Excel Function outputs. A function cannot exist in Row 1 of a spreadsheet.
 
-|  |
-| --- |
-| If you'd like to learn more about OptiSync and how to use this DataSource for Data Mapping, please visit the following guide: |
-| [**How to Set Up Dynamic Data Mapping with OptiSync**](https://support.optisigns.com/hc/en-us/articles/29217646663187) |
+> **If you'd like to learn more about OptiSync and how to use this DataSource for Data Mapping, please visit the following guide:**
+>
+> [**How to Set Up Dynamic Data Mapping with OptiSync**](https://support.optisigns.com/hc/en-us/articles/29217646663187)
 
 ## That's it!
 

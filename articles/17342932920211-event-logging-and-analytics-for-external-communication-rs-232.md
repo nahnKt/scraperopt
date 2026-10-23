@@ -7,7 +7,7 @@ With OptiSigns you can enable track of the data communication between the digita
 
 Once it is enabled, it will keep tracking of the inbound/outbound event data that was sent between the digital signage player and external devices. For example, if you are using IoT sensors, the feature can track the serial command that was sent from your sensors, and you can analyze the data to monitor and further optimize your IoT sensors usage. Or you can track the RS232 commands(power on/off, mute/unmute etc) that was sent to your TVs and use it as a proof of your compliance.
 
-### **Prerequisite:**
+### Prerequisite:
 
 To use this feature, you will need to confirm in advance that the connection between your digital signage player and external devices are working properly.
 
@@ -21,9 +21,7 @@ Note: To test and confirm your external communication(RS-232) connection and con
 
 ![](https://support.optisigns.com/hc/article_attachments/17344754633875)
 
-## 
-
-## **Let's jump in and get started:**
+## Let's jump in and get started:
 
 **1. Setup: Enable RS232 logging**
 
@@ -44,7 +42,7 @@ If for some reason, you don't want real-time data (i.e. to reduce network usage 
 
 **2. Enable data collection on IoT sensors add-on**
 
-If you are using IoT sensors, you can set it up to collect the event data within the IoT Sensor Add-on. Simply tick the "Send Data" checkbox, it will start to track the event data.  **![](https://support.optisigns.com/hc/article_attachments/17351908243987)**
+If you are using IoT sensors, you can set it up to collect the event data within the IoT Sensor Add-on. Simply tick the "Send Data" checkbox, it will start to track the event data.  **![](https://support.optisigns.com/hc/article_attachments/17351908243987)**
 
 **3. Data collection with advanced scheduling**
 
@@ -70,10 +68,10 @@ You can also go to the report history tab and download the historical data expor
 
 ![](https://support.optisigns.com/hc/article_attachments/17345817445779)
 
-## **Summary:**
+## Summary:
 
 The RS-232 logging and analytics will collect the event data and make it available to customers. The data is available in JSON format, you can automate the data export and build your own data pipeline to process the data for further analysis.
 
 **That's all!**
 
-If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
+If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)

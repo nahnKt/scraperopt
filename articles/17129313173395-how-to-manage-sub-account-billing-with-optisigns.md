@@ -11,7 +11,7 @@ If you would like to manage the recourses in the "sub-account" instead, we sugge
 
 If you are a very large franchise or, organizations that need over 50+ sub-accounts, please reach out to us we have a team billing feature that may be more suitable for you.
 
-## **Let's jump in and get started:**
+## Let's jump in and get started:
 
 Log on to our portal: <https://app.optisigns.com/app/s/sub-account-billing>
 

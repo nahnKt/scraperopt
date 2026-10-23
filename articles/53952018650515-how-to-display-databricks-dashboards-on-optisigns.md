@@ -68,7 +68,9 @@ Keep the default entitlements (**Consumer**, **Databricks SQL**, **Workspace** =
 
 Next, open the service principal. Your **Client ID** and **Secret** will show. Copy these values. You'll need them.
 
-> **NOTE:** These secrets are shown only once. Store them safely. If you lose the secret, you'll need to update your connection.
+> **NOTE**
+>
+> These secrets are shown only once. Store them safely. If you lose the secret, you'll need to update your connection.
 
 The last two values you need are your **Workspace URL** and **Workspace ID.** These are both visible in your Databricks browser address bar (the ID is the `?o=` value).
 
@@ -104,7 +106,9 @@ These values correspond [to the In DataBricks section](#in-databricks) of this a
 
 Click **Add** to save the connection.
 
-> **NOTE:** One connection is equal to one Databricks workspace.  
+> **NOTE**
+>
+> One connection is equal to one Databricks workspace.  
 >   
 > If you have more than one workspace, add a separate connection for each.
 
@@ -155,7 +159,9 @@ Back in OptiSigns, **reopen the app config** (or re-select the connection) so th
 
 **Only needed if you published with** ***Individual data permission***. With *Share data permission*, queries run on the publisher's credentials and you can skip this step.
 
-> **NOTE:** Sharing the dashboard is not the same as granting access to its data. Sharing lets the service principal OPEN the dashboard. Reading the tables behind it needs separate Unity Catalog privileges. Without them, the dashboard loads with all its titles and layout, but every tile will show "Unable to render visualization."
+> **NOTE**
+>
+> Sharing the dashboard is not the same as granting access to its data. Sharing lets the service principal OPEN the dashboard. Reading the tables behind it needs separate Unity Catalog privileges. Without them, the dashboard loads with all its titles and layout, but every tile will show "Unable to render visualization."
 
 Click Catalog in the sidebar and select the schema your dashboard's tables live in. Then go to the Permissions tab and click Grant.
 

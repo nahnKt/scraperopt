@@ -21,4 +21,4 @@ The assets will be added to the end of the playlists.
 
 That's it, you have added assets to many playlists at the same time.
 
-If you have any additional questions or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
+If you have any additional questions or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)

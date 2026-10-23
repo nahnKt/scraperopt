@@ -46,6 +46,6 @@ You can also put it in the splitscreen app, then you will be able to have other 
 
 ![A TV playing the Live TV stream in a split screen beside a social feed and a stock ticker.](https://support.optisigns.com/hc/article_attachments/10159027869971)
 
-### **That's all! Congratulation!**
+### That's all! Congratulation!
 
-If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
+If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)

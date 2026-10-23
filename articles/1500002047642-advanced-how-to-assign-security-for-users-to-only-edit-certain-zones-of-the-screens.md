@@ -52,7 +52,7 @@ For the Department B Playlist folder in Playlist: You can edit the "Change Permi
 
 ![mceclip19.png](https://support.optisigns.com/hc/article_attachments/1500001932781)
 
-Now we have:   
+Now we have:   
 Admin can see:
 
 - Administration folder in the Screen.
@@ -69,4 +69,4 @@ DepartmentB User can see the
 - Department B folder in the Files/Assets
 - Department B Playlist Folder in the Playlist
 
-If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
+If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)

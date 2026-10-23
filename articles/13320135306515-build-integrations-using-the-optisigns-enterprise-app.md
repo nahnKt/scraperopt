@@ -12,7 +12,7 @@ The digital signage use case for enterprise users are often complex. There may b
 OptiSigns Enterprise app is a framework and pre-built template to help enterprise customers easily build integration with their enterprise applications that need to send data to the screen and control the screen. It can be used in various cases, for example, you can use it to send customer specific communications from your CS system to your customers. In this guide, we will walk you through how to use the OptiSigns Enterprise app with the example below.  
 ![Control Center Data field holding the JSON payload, beside the screen showing the finished customer message](https://support.optisigns.com/hc/article_attachments/13440210713235)
 
-### **How to use OptiSigns Enterprise App:**
+### How to use OptiSigns Enterprise App:
 
 OptiSigns Enterprise App is more than a framework, it also contains templates to help you with the development and deployment. There are mainly 3 steps to get Enterprise App setup and working properly.
 
@@ -20,9 +20,9 @@ OptiSigns Enterprise App is more than a framework, it also contains templates to
 2. Build the integration to your enterprise systems or custom applications. For this tutorial, we will use the demo control center as an example.
 3. Send data from your system to the screen and get it published.
 
-#### **1. Create Enterprise App and build custom designed page.**
+#### 1. Create Enterprise App and build custom designed page.
 
-Go to [app.optisigns.com](https://app.optisigns.com/).
+Go to [app.optisigns.com](https://app.optisigns.com/).
 
 Click Files/Assets, then click Apps, and select "Enterprise App".
 
@@ -37,7 +37,7 @@ The template comes with sample code that you can use directly, all you need to d
 
 ![Enterprise App WebIDE showing the sample App.js code and the Save and Deploy button](https://support.optisigns.com/hc/article_attachments/13320838658451)
 
-#### **2. Build the integration to your enterprise systems or custom applications.**
+#### 2. Build the integration to your enterprise systems or custom applications.
 
 We will use the demo Control Center to show how you can send data and interact with the screens in this tutorial. In your cases, the demo Control Center will be your systems that you want to initiate the process to control the screen or a custom application that was specifically built for your need.
 
@@ -55,7 +55,7 @@ Click the "Edit" button will popup the Edit Device page. This is where we can co
 
 ![Control Center Edit Device dialog with an empty Data field and Type set to Send Data](https://support.optisigns.com/hc/article_attachments/13321033226131)
 
-#### **3. Send data from your system to the screen and get it published.**
+#### 3. Send data from your system to the screen and get it published.
 
 Looking at this screen, we can have any asset/playlist/schedule assigned to the screen. The screen will just play the assigned content as normal. When we initiate the integration from the demo Control Center, we can send the freeform JSON data to the screen, and assign the Enterprise App asset ID to take over the screen immediately and display the data.
 
@@ -82,4 +82,4 @@ On the screen, you will see those data sent from the demo Control Center are dis
 
 This is how you can build integration with OptiSigns Enterprise App.
 
-If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
+If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)

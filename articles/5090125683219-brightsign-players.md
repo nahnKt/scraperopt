@@ -7,6 +7,8 @@ BrightSign is the leader in commercial grade digital signage players, which is k
 
 It is very easy to setup OptiSigns on BrightSign players. There are 2 ways you can set it up. You can set it up in standalone mode, or you can set it up on BSN.cloud.
 
+[Embedded content (www.youtube-nocookie.com)](https://www.youtube-nocookie.com/embed/ciozRgKiclw)
+
 ## Option 1: Setup with BSN.cloud
 
 **1) Download BrightAuthor**
@@ -47,11 +49,11 @@ Please make sure your BrightSign player is connected to the internet.
 
 **6) Pair the screen**
 
-Now you are ready to go to our portal at: <https://app.optisigns.com/>
+Now you are ready to go to our portal at: <https://app.optisigns.com/>
 
 Pair the screen using your screen's code and start assigning content to it.
 
-For detailed steps click [here](https://support.optisigns.com/hc/en-us/articles/360016374813).
+For detailed steps click [here](https://support.optisigns.com/hc/en-us/articles/360016374813).
 
 ## Option 2: Standalone Mode
 
@@ -77,11 +79,11 @@ Please make sure your BrightSign player is connected to the internet.
 
 **4) Pair the screen**
 
-Now you are ready to go to our portal at: <https://app.optisigns.com/>
+Now you are ready to go to our portal at: <https://app.optisigns.com/>
 
 Pair the screen using your screen's code and start assigning content to it.
 
-Once you pair the screen and start assigning content to it, you can follow these guides for more detailed steps:
+Once you pair the screen and start assigning content to it, you can follow these guides for more detailed steps:
 
 - [Set up & add a screen](https://support.optisigns.com/hc/en-us/articles/360016374813)
 - [How to Upload & Manage Your Files/ Assets](https://support.optisigns.com/hc/en-us/articles/360016247974)
@@ -130,4 +132,4 @@ This will allow your BrightSign player to use the latest versions of Chromium.
 
 Now you are ready to use OptiSigns on your BrightSign players.
 
-If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
+If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)

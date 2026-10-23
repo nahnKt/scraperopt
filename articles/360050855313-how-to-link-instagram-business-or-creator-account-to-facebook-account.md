@@ -3,7 +3,9 @@
 Article URL: https://support.optisigns.com/hc/en-us/articles/360050855313-How-to-link-Instagram-Business-or-Creator-Account-to-Facebook-Account
 Last updated: 2025-01-15
 
-> **NOTE:** In order to use Instagram on OptiSigns, you cannot use any Personal Accounts. They must be Business Accounts. This is a policy of Meta.
+> **NOTE**
+>
+> In order to use Instagram on OptiSigns, you cannot use any Personal Accounts. They must be Business Accounts. This is a policy of Meta.
 
 Having an Instagram Business or Creator come with many advantages including ability to use hashtag or view other business profile.
 

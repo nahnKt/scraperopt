@@ -65,7 +65,8 @@ The below screen should then appear (with nothing filled in), along with a Previ
 - **Name** **-** Name of your Microsoft Meeting Room Wall, this is the name of the wall in your asset list. It will **not** be displayed on your screens.
 - **Rooms** - Select list of rooms you want to display. You can choose as many as you like.
 
-> **IMPORTANT:**
+> **IMPORTANT**
+>
 > **Rooms** may only be selected **once** during asset creation and cannot be changed later. To do this, simply delete the old asset and create a new one.
 
 - **Allow Booking -** Check this to allow booking of the meeting room via a QR code displayed on the screen. We will go over this more in the **Allow Booking** section of the article below.
@@ -132,7 +133,9 @@ Then, select your created Microsoft Meeting Room asset:
 
 Now hit **Save**. Your Microsoft Meeting Room asset will now display on screen.
 
-> **NOTE:** Be sure to push the app to the intended screen first to test it - the Preview sometimes looks odd.
+> **NOTE**
+>
+> Be sure to push the app to the intended screen first to test it - the Preview sometimes looks odd.
 
 You can also deploy it as part of a split screen, allowing you to show other assets at the same time. See how in our [Split Screen app article.](https://support.optisigns.com/hc/en-us/articles/360026559573-How-to-Create-and-Use-the-Split-Screen-App) It can also be displayed in a Playlist or Schedule.
 
@@ -146,6 +149,6 @@ OptiSigns uses Microsoft APIs for integration. In order for our integrations to 
 
 This administrator access is only needed for first time access. Once the OptiSigns app is approved for use, other users can use OptiSigns directly.
 
-### **That's all!**
+### That's all!
 
 If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)

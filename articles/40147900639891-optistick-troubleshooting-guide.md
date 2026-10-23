@@ -144,13 +144,17 @@ The OptiStick Player ships with a Remote Control. Which remote control you have 
 
 **![gen 3 remote control](https://support.optisigns.com/hc/article_attachments/40147917443347)**
 
-> **NOTE:** To pair or re-pair this remote, hold the **Back**and **Home**buttons.
+> **NOTE**
+>
+> To pair or re-pair this remote, hold the **Back**and **Home**buttons.
 
 **Gen 2 Remote:**
 
 ![gen 2 remote control](https://support.optisigns.com/hc/article_attachments/40147900615827)
 
-> **NOTE:** To pair or re-pair this remote, hold the **Return**and **OK**buttons.
+> **NOTE**
+>
+> To pair or re-pair this remote, hold the **Return**and **OK**buttons.
 
 OptiSigns Players also support the [**Mobile Admin App**](https://support.optisigns.com/hc/en-us/articles/30003143806099-How-to-Use-the-OptiSigns-Mobile-Admin-App) as a Remote Control. This is our ***top recommendation,*** as not only does it function as a true remote control (allowing you to control your players from anywhere), but it has numerous other features as well.
 
@@ -199,7 +203,9 @@ For some reason, Android devices lead with Midway Island, in the middle of the P
 
 Now your device and schedule should sync properly.
 
-> **NOTE:** These steps can be performed remotely using the **Mobile Admin App**or through **MDM Commands**. The OptiStick needs to be connected and online for these commands to go through.
+> **NOTE**
+>
+> These steps can be performed remotely using the **Mobile Admin App**or through **MDM Commands**. The OptiStick needs to be connected and online for these commands to go through.
 
 ### How to Factory Reset the OptiStick
 

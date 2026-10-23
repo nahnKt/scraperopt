@@ -30,7 +30,7 @@ Click **Connections**, then hit the "Add New" button to create a new RS232 conne
 
 ![External Communications (RS232) page, Connections tab, with an arrow on the Add New button.](https://support.optisigns.com/hc/article_attachments/55411852508179)
 
-In the **Add Connection** window, you can give a name to the connection and define the serial port to use, Baud Rate, Data bits, Stop bits, and Parity. This info is determined by the commercial display used. You should be able to get it from your TV user manual.  Flow control is normally not needed in this case, you can just leave it blank.
+In the **Add Connection** window, you can give a name to the connection and define the serial port to use, Baud Rate, Data bits, Stop bits, and Parity. This info is determined by the commercial display used. You should be able to get it from your TV user manual.  Flow control is normally not needed in this case, you can just leave it blank.
 
 ![Add Connection dialog: Name, COM port, Baud rate, Data bits, Stop bits, Parity and flow controls.](https://support.optisigns.com/hc/article_attachments/55411852508947)
 
@@ -64,7 +64,7 @@ Map the command to the actions. The actions will be used in the advanced schedul
 
 Once the RS-232 configuration is complete, you will need to set up an Operational Schedule.
 
-Go to the Edit Screens, then go to the **Operational Schedule**section. Hit **New**.
+Go to the Edit Screens, then go to the **Operational Schedule**section. Hit **New**.
 
 ![Edit Screen dialog with the Operational Schedule picker open and an arrow on the New option.](https://support.optisigns.com/hc/article_attachments/55411873089427)
 
@@ -87,4 +87,4 @@ To power your screen on or off using RS-232, there are two relevant options:
 
 That's all! Now you have learned how to schedule TV power on/off using RS232.
 
-If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
+If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)

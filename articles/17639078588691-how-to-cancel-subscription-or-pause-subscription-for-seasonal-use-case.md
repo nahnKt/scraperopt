@@ -7,7 +7,7 @@ With OptiSigns, customers paying via credit card have the capability to manage t
 
 Our "**Onhold**" folder reduces the number of screen licenses that are being counted as using subscription. This allows you to have new screens added without buying a new screen license. This also allows you to cancel your subscription without having to remove your screens from your OptiSigns account.
 
-> **IMPORTANT:**
+> **IMPORTANT**
 >
 > Please make sure to follow all the steps below to ensure your subscriptions are cancelled or paused.
 
@@ -50,4 +50,4 @@ You will want to click on the "**-**" icon to reduce your subscriptions and "**n
 
 This will officially cancel your subscription, however, you will always have the ability to reactivate your account!
 
-If you have feedback on how to make the how-to guides better, please let us know at: [support@optisigns.com](mailto:support@optisigns.com)
+If you have feedback on how to make the how-to guides better, please let us know at: [support@optisigns.com](mailto:support@optisigns.com)

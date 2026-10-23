@@ -11,7 +11,7 @@ Nowadays, digital security is critical in the world because both businesses and 
 - The SMS feature is only for Pro Plus and can only take **US numbers**.
 - An email is required for MFA so this feature will not be available for users with a **username** as a login.
 
-## **Let's jump in and get started:**
+## Let's jump in and get started:
 
 You can set up the Two-factor Authentication on the Personal Profile page: <https://app.optisigns.com/app/s/personal-profile>
 
@@ -22,7 +22,7 @@ There are two authentication verification options to set up two-factor authentic
 - Enable Authentication App
 - Enable Text Message (SMS)
 
-#### **1) Enable Authentication App**
+#### 1) Enable Authentication App
 
 You can Scan the QR code with a security or authentication app like Google Authenticator, Authy or Duo. Download one from the App Store or Play Store.
 
@@ -38,9 +38,7 @@ You can download the Backup Codes.
 
 You can turn off the **Authentication App** at any time, you can just click the "**Turn Off**" button.**Enable**
 
-#### 
-
-#### **2) Text Message (SMS)**
+#### 2) Text Message (SMS)
 
 Enter the phone number that you would like to use.
 
@@ -54,6 +52,6 @@ You can download the Backup Codes.
 
 ![](https://support.optisigns.com/hc/article_attachments/18381755259155)
 
-You can turn off the **Text Message (SMS)** at any time, you can just click the "**Turn Off**" button.
+You can turn off the **Text Message (SMS)** at any time, you can just click the "**Turn Off**" button.
 
-If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
+If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)

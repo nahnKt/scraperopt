@@ -22,7 +22,7 @@ Or at the bottom strip:
 
 You can click [here](https://support.optisigns.com/hc/en-us/articles/14502723487379) to know how to create the AeriCast Wireless Presentation app
 
-## **Let's jump in and get started:**
+## Let's jump in and get started:
 
 Launch the **AeriCast Present** app. Enter the present code.
 

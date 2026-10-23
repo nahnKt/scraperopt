@@ -24,7 +24,7 @@ The map updates on its own. Once it is on a screen, there is nothing to refresh.
 - An OptiSigns-enabled device
 - A screen, set up and paired with OptiSigns
 
-> **IMPORTANT:**
+> **IMPORTANT**
 >
 > Weather Radar currently covers the United States only. The **Location** search offers US places, and there is no radar coverage outside the US. Results are best inside the continental US, where map detail and lightning are available.
 >

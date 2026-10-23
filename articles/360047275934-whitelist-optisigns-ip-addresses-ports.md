@@ -27,7 +27,7 @@ IP Addresses and URLs for **OptiSigns**:
 - 52.217.39.148 (File)
 - 162.243.189.2 (Files)
 - 157.230.201.46 (API)
-- 206.189.255.219 (API)
+- 206.189.255.219 (API)
 - 167.172.3.79 (API)
 - 209.38.62.216 (API)
 - 24.199.67.135 (API)
@@ -53,7 +53,9 @@ OptiSigns utilizes RealVNC for **Remote Device Control**. If you use remote cont
 
 - \*.services.vnc.com
 
-> **NOTE:** If Remote Access still does not work, try adding this rule to your firewall without the asterisk (services.vnc.com)
+> **NOTE**
+>
+> If Remote Access still does not work, try adding this rule to your firewall without the asterisk (services.vnc.com)
 
 OptiSigns utilizes **Cloudflare Pages** to host branding portals. If you encounter any issues accessing your OptiSigns branding portal, you can resolve this by whitelisting the following domain:
 

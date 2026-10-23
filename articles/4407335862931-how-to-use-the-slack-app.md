@@ -14,7 +14,7 @@ Chat log view screenshot is below, you can view a live example [here](https://so
 
 ![Slack app on a screen in Chat Log View, showing channel messages and a shared food flyer image](https://support.optisigns.com/hc/article_attachments/4409649423635)
 
-## **Let's jump in and get started:**
+## Let's jump in and get started:
 
 First, you will need to have your screens set up and paired. For more information on how to do that, click [here](https://www.optisigns.com/blog/how-to-set-up-digital-signs-with-optisigns-and-amazon-fire-tv).
 
@@ -77,7 +77,7 @@ After saving, you can preview the wall. It may take several seconds for the app 
 
 ---
 
-## **How to send messages to OptiSigns from Slack:**
+## How to send messages to OptiSigns from Slack:
 
 You can select how to send messages to OptiSigns from Slack by setting Message Filters:
 
@@ -93,7 +93,7 @@ If your Slack message has more than one image, we only fetch the first image to 
 
 ---
 
-## **That's all! Congratulations!**
+## That's all! Congratulations!
 
 You have created your Slack Wall.  
 You can change the wall any time by clicking on it in the Files/Assets tab.

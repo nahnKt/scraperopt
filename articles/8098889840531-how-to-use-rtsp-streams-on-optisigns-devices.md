@@ -9,7 +9,7 @@ This article will guide you through how to create and use the RTSP Stream app on
 
 For displaying RTSP streams via Windows or Raspberry Pi, see our article [here](https://support.optisigns.com/hc/en-us/articles/8066591235603).
 
-### **How to Use the RTSP App on an OptiSigns Device**
+### How to Use the RTSP App on an OptiSigns Device
 
 Go to our portal: <http://app.optisigns.com/>
 
@@ -21,7 +21,7 @@ Enter your RTSP Stream app information:
 
 ![mceclip0.png](https://support.optisigns.com/hc/article_attachments/8099265055251)
 
-- Name: Name of your RTSP Stream app, this is the name of the app in your asset list. It will **not** be displayed on your screens.
+- Name: Name of your RTSP Stream app, this is the name of the app in your asset list. It will **not** be displayed on your screens.
 - URL: the URL link to the RTSP Stream link you want to display.
 
 Here are some free public RTSP URLs:
@@ -34,7 +34,9 @@ rtsp://demo:demo@ipvmdemo.dyndns.org:5541/onvif-media/media.amp?profile=profile_
 
 Click Save to save your asset.
 
-> **NOTE:** Ensure your cameras are on the same network as your digital signage device.
+> **NOTE**
+>
+> Ensure your cameras are on the same network as your digital signage device.
 
 ## That's all!
 

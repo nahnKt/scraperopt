@@ -15,7 +15,9 @@ Last updated: 2025-08-11
 
 Using OptiSigns, it’s possible to create a sophisticated setup for your OptiSigns portal to manage users, permissions, and screens. Securely configuring the OptiSigns portal to your needs during the initial onboarding process can save time and prevent issues down the line.
 
-> **NOTE:** These User Management options discussed here are only available to [**Pro Plus subscribers or above**](https://www.optisigns.com/pricing)**.**
+> **NOTE**
+>
+> These User Management options discussed here are only available to [**Pro Plus subscribers or above**](https://www.optisigns.com/pricing)**.**
 
 Here, we’ll be providing a practical example of how a restaurant chain might use OptiSigns. In the course of this article, we’ll:
 
@@ -25,7 +27,9 @@ Here, we’ll be providing a practical example of how a restaurant chain might u
 - Create [**Custom Branding**](https://support.optisigns.com/hc/en-us/articles/1500000485202-Custom-Branding-Settings) for the OptiSigns portal,and [**Enforce Brand Guidelines**](https://support.optisigns.com/hc/en-us/articles/42313875427859-Brand-Kit-and-Enforcing-Brand-Guidelines)across your teams
 - Fold OptiSigns access into a corporate **SSO** structure
 
-> **IMPORTANT:** This article applies to **Account Owners** and **Super Admins**. The steps laid out here cannot be undertaken by anyone with lower permissions (Admin, User, etc.).
+> **IMPORTANT**
+>
+> This article applies to **Account Owners** and **Super Admins**. The steps laid out here cannot be undertaken by anyone with lower permissions (Admin, User, etc.).
 
 ---
 
@@ -55,11 +59,11 @@ In our example, we will focus on location. This is the single most common way we
 
 For our hypothetical chain restaurant or retail store, we will create an internal folder structure to mirror the corporate organizational structure. So, in this case, that is **Region → State → City/Sub-region → Store Location/Number.** We’ll create nested sub-folders corresponding to these values. When set up, it will look something like this:
 
-#### **Top Level:**
+#### Top Level:
 
 **![top level folders for default team](https://support.optisigns.com/hc/article_attachments/43657735752211)**
 
-#### **Screen Level:**
+#### Screen Level:
 
 ![screen level display showing nesting](https://support.optisigns.com/hc/article_attachments/43658114517651)
 
@@ -83,10 +87,9 @@ Before we can do that, we’ll need to set up our Teams. Teams act like a bucket
 
 In this example, we’ll want to create a Team for each store location. In addition, we’ll want to set up a Team for any managers of the Los Angeles City/Subregion; California state; and Pacific Region. We’ll then use Folder permissions to restrict access to each nested folder to the appropriate Team. By doing this, only the Account Owner and Super Admins will have access to the full structure.
 
-|  |
-| --- |
-| **IMPORTANT NOTE** |
-| For increased centralization, you can remove Teams at various levels. If you want a 100% centrally managed system with no input outside your IT department, you can skip this step entirely. OptiSigns is extremely flexible and can be configured to any structure you like. |
+> **IMPORTANT NOTE**
+>
+> For increased centralization, you can remove Teams at various levels. If you want a 100% centrally managed system with no input outside your IT department, you can skip this step entirely. OptiSigns is extremely flexible and can be configured to any structure you like.
 
 To get started, go to **Account Members** under your user profile.
 
@@ -104,10 +107,9 @@ The following screen will appear:
 
 Here, we’ve named the team after the region, which will be managing all screens in the region. We’ve also written a short description of the team's purpose. We’ll set up the “Number of screens limit” later, once all our screens are set up.
 
-|  |
-| --- |
-| **IMPORTANT NOTE** |
-| There are no such things as “Sub-Teams” in OptiSigns. While it is possible to provide regional managers (in our example) access to all the screens or content under their purview, they WILL NOT be able to manage their users in kind. This can only be done by Super Admins, who can manage Users across teams. Set up your teams accordingly. |
+> **IMPORTANT NOTE**
+>
+> There are no such things as “Sub-Teams” in OptiSigns. While it is possible to provide regional managers (in our example) access to all the screens or content under their purview, they WILL NOT be able to manage their users in kind. This can only be done by Super Admins, who can manage Users across teams. Set up your teams accordingly.
 
 Now we’ll proceed to create all our Teams. A basic setup might look something like this:
 
@@ -122,7 +124,9 @@ The others, we don’t need to worry about for this example. For more on User Ro
 
 For this example, we’ve given Admin access to all our regional and local managers, as well as the store manager. A User has been added to the store as well, who will be able to add content and edit the screens only within that store.
 
-> **NOTE:** If you plan to add Users to the platform via SSO, you may skip this step. We’ve created the users above for demonstration purposes.
+> **NOTE**
+>
+> If you plan to add Users to the platform via SSO, you may skip this step. We’ve created the users above for demonstration purposes.
 
 Finally, ***Refresh your browser***. You’ll need to do this before the next step.
 
@@ -132,7 +136,7 @@ Finally, ***Refresh your browser***. You’ll need to do this before the next st
 
 Now that we’ve made our Teams, it’s time to set up Folder Level security. We only want to grant access to screens that the users on the Team will actually use, and no more.
 
-To do this, go to your **Screens** tab. Find the Folder you want to set permissions for. In this case, we’ll start with the **Pacific** folder at the top of the structure. Click the **Three Dots →  Change Permissions:**
+To do this, go to your **Screens** tab. Find the Folder you want to set permissions for. In this case, we’ll start with the **Pacific** folder at the top of the structure. Click the **Three Dots →  Change Permissions:**
 
 ![find change permission tab on folder](https://support.optisigns.com/hc/article_attachments/43657783484051)
 
@@ -176,7 +180,9 @@ Here, we’ve filtered out Eagle Mountain (the other city-level team we’ve set
 
 All the other store locations have been filtered out. If we were to look at another store location, we’d exchange the Cosmos Space Center team for the team corresponding to that store. This way, the people assigned to the lowest level teams will only have access to the single folder that applies to them, but members of “higher level” teams will be able to see all the stores in their respective level.
 
-> **NOTE:** Another option: it is possible to restrict folder access to users within the Default Team. This is a good option if you want your regional managers to have more access.
+> **NOTE**
+>
+> Another option: it is possible to restrict folder access to users within the Default Team. This is a good option if you want your regional managers to have more access.
 
 This can be applied across OptiSigns, and it is possible to create similar nesting within the **Files/Assets**, **Playlists**, and **Schedules** area of the Portal:
 

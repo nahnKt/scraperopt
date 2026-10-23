@@ -54,7 +54,7 @@ The below screen will then appear (with nothing filled in), along with a Preview
 ![Outlook Calendar form with Name, Calendars, Title, Display Mode, and Only Show Ongoing and Upcoming Events](https://support.optisigns.com/hc/article_attachments/55981279591955)
 
 - **Name -** Name of your calendar that you wish to see it labeled as within the OptiSigns platform. This name is internal to you only and ***will not*** be displayed on your screens.
-- **Calendars -**  The dropdown will show all the calendars that are within the account. These can be calendars you created or subscribed to.
+- **Calendars -**  The dropdown will show all the calendars that are within the account. These can be calendars you created or subscribed to.
 - **Title -** Title of the calendar. This ***will*** be displayed onscreen.
 - **Display Mode -** Select the view of the calendar
   - **Schedule -** Linear listing of every event in succession by time and date.
@@ -95,7 +95,7 @@ Toggle this open or closed. These settings will be reflected in the Preview on t
 - **Time Range** **-** Choose the range of time you want to display. By default, it is set to **Full Day**, and you can choose **8AM - 5PM**, **9AM - 5PM**, or **Custom**. This will let you fine-tune the times you wish to actually show your calendar.
 - **Slot spacing -** Changes the spacing of the slots within the calendar.
 - **Show Location -** Show the location of your calendar's event.
-- **Auto Scroll -** By default, the calendar will focus the display of events on current local time or your set time zone time. This can be less helpful if you anticipate viewers to be able to see all event activities of your calendar.   
+- **Auto Scroll -** By default, the calendar will focus the display of events on current local time or your set time zone time. This can be less helpful if you anticipate viewers to be able to see all event activities of your calendar.   
   Set Auto Scroll to Enable to pan the schedule so all times are shown.
 - **Time Format -** Change between 12 hour and 24 hour clocks.
 - **Weather -** Entering location information allows weather information to be overlaid on your calendar.
@@ -126,7 +126,9 @@ Then, select your created Microsoft Outlook Calendar asset:
 
 Now hit **Save**. Your Microsoft Outlook Calendar asset will now display on screen.
 
-> **NOTE:** Be sure to push the app to the intended screen first to test it - the Preview sometimes looks odd.
+> **NOTE**
+>
+> Be sure to push the app to the intended screen first to test it - the Preview sometimes looks odd.
 
 You can also deploy it as part of a split screen, allowing you to show other assets at the same time. See how in our [Split Screen app article.](https://support.optisigns.com/hc/en-us/articles/360026559573-How-to-Create-and-Use-the-Split-Screen-App) It can also be displayed in a Playlist or Schedule.
 
@@ -144,11 +146,11 @@ This administrator access is only needed for first time access. Once the OptiSig
 
 A limitation of the integration is that OptiSigns can only display what is tied to a given Microsoft account. This means that any calendars shared with that account or present in Microsoft Rooms cannot be displayed.
 
-To fix this, you can change the calendar directory from Rooms to a personal one. First, find the calendar you wish to display, then hit the **3-dot icon**and navigate to **Remove**:
+To fix this, you can change the calendar directory from Rooms to a personal one. First, find the calendar you wish to display, then hit the **3-dot icon**and navigate to **Remove**:
 
 ![Outlook on the web calendar list with a calendar's menu open and Remove highlighted](https://support.optisigns.com/hc/article_attachments/42117346771219)
 
-Next, hit **Add Calendar**. Find the calendar from the directory you wish to display, then add it to **My Calendars:**
+Next, hit **Add Calendar**. Find the calendar from the directory you wish to display, then add it to **My Calendars:**
 
 ![Outlook on the web Add calendar dialog on Add from directory, adding a room calendar to My calendars](https://support.optisigns.com/hc/article_attachments/42117351512467)
 
@@ -158,4 +160,4 @@ Now, the appropriate calendar should display once it's been recreated in OptiSig
 
 ### That's all!
 
-If you have feedback on how to make the how-to guides better, please let us know at: [support@optisigns.com](mailto:support@optisigns.com)
+If you have feedback on how to make the how-to guides better, please let us know at: [support@optisigns.com](mailto:support@optisigns.com)

@@ -17,9 +17,7 @@ Last updated: 2026-02-05
 - [Setting Up OptiSigns Login to Appear in Office.com (OPTIONAL)](#setting-up-optisigns-login-to-appear-in-officecom)
 - [Frequently Asked Questions](#frequently-asked-questions)
 
-|  |
-| --- |
-| **NOTE:** This feature is available to **Pro Plus**, **Engage**, and **Enterprise** plan users. |
+> **NOTE:** This feature is available to **Pro Plus**, **Engage**, and **Enterprise** plan users.
 
 SAML (Security Assertion Markup Language) 2.0 allows a single authorization to access multiple systems. This can be configured to allow easy access to OptiSigns digital signage through your Microsoft Entra ID. Entra ID will act as the IDP (Identity Provider), with OptiSigns will work as the SP (Service Provider).
 
@@ -122,9 +120,7 @@ With this, your login portal and integration are all set up. If this is all you 
 
 We highly recommend creating groups of users to be assigned within Azure to be automatically mapped to OptiSigns with the correct role and group.
 
-|  |
-| --- |
-| **NOTE:** Without configuring this, all users will be assigned User Role and Default Team. You will have to manually change their roles and teams within the OptiSigns app. |
+> **NOTE:** Without configuring this, all users will be assigned User Role and Default Team. You will have to manually change their roles and teams within the OptiSigns app.
 
 Head back to the [SAML settings page](https://app.optisigns.com/app/s/saml-settings) within OptiSigns. Scroll to **Advanced Settings** and you should see this:
 
@@ -158,9 +154,7 @@ You may wish to map the “Unmapped users/groups” section to **No Team (Disabl
 
 ![unmapped users/groups with no team selected](https://support.optisigns.com/hc/article_attachments/37186635129363)
 
-|  |
-| --- |
-| **NOTE:** If you map an SAML group to a Team, then delete the Team, it will result in new users being mapped to No Team. They will have to contact you to be assigned to a team in order to use the app. |
+> **NOTE:** If you map an SAML group to a Team, then delete the Team, it will result in new users being mapped to No Team. They will have to contact you to be assigned to a team in order to use the app.
 
 ### Managing Attributes & Claims in Microsoft Azure
 
@@ -239,7 +233,7 @@ Finally, go to the **Users and groups** section within Azure and assign your gro
 
 It’s often convenient to have the OptiSigns app appear as a clickable option on your company’s Office.com portal.
 
-To set this up, you'll first need to find your OptiSigns Account ID. To do this, simply find a paired screen, and hit **Edit** **→** **Advanced** **→** **More**.
+To set this up, you'll first need to find your OptiSigns Account ID. To do this, simply find a paired screen, and hit **Edit** **→** **Advanced** **→** **More**.
 
 ![edit screen advanced more](https://support.optisigns.com/hc/article_attachments/38825933298579)
 
@@ -271,7 +265,7 @@ This will allow the OptiSigns app to appear in your Microsoft Office portal. Thi
 
 Here, we’ll answer some of the most common questions we get around this topic.
 
-#### **I Got this Error Message. Help?**
+#### I Got this Error Message. Help?
 
 Unable to process request due to missing initial state. This may happen if browser sessionStorage is inaccessible or accidentally cleared. Some specific scenarios are - 1) Using IDP-Initiated SAML SSO. 2) Using signInWithRedirect in a storage-partitioned browser environment.
 
@@ -279,7 +273,7 @@ Unable to process request due to missing initial state. This may happen if brows
 
 This error appears for one of two reasons:
 
-1. The wrong URL was input. This is frequently (https://auth.optisigns.com/\_\_/auth/handler)
+1. The wrong URL was input. This is frequently (https://auth.optisigns.com/__/auth/handler)
 2. The user has tried to access the OptiSigns portal from Office.com without setting up SAML SSO in Microsoft Azure correctly.
 
 The easiest way to solve this problem is to login through your branded URL.
@@ -288,7 +282,7 @@ The easiest way to solve this problem is to login through your branded URL.
 
 This will be unique to your organization. For more information, follow the steps outlined in the “Add OptiSigns as an App in Microsoft Entra ID Portal” section.
 
-#### **It’s Saying I Don’t Belong to a Team/Group. How Can I Fix This?**
+#### It’s Saying I Don’t Belong to a Team/Group. How Can I Fix This?
 
 This error has to do with group mapping. To start, follow all the steps outlined in the “Assign and Map Users and Groups” section above.
 
@@ -316,7 +310,7 @@ Finally, make sure the user and group have been added to the application within 
 
 This should resolve the issue.
 
-#### **I've made it into my OptiSigns account, but don't seem to have all the side menu options I'm used to. What’s going on?**
+#### I've made it into my OptiSigns account, but don't seem to have all the side menu options I'm used to. What’s going on?
 
 It's likely you've signed on through your Branded Portal, using a URL similar to this one:
 
@@ -326,7 +320,7 @@ https://app.optisigns.com/signIn/<accountId>
 
 Go ahead and follow the steps outlined [**here**](#setting-up-optisigns-login-to-appear-in-officecom) and this issue should resolve itself.
 
-### **That's all!**
+### That's all!
 
 You have configured SAML 2.0 for OptiSigns with Microsoft Entra.
 

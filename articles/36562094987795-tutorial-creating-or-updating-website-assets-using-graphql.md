@@ -5,7 +5,9 @@ Last updated: 2025-01-28
 
 Using GraphQL, it is possible to create a website asset on OptiSigns.
 
-> **NOTE:** At this time, this Mutation is primarily used to create or update Website assets.
+> **NOTE**
+>
+> At this time, this Mutation is primarily used to create or update Website assets.
 
 **1. Creating a New Website Asset**
 
@@ -46,14 +48,14 @@ This asset can now be assigned to a device, queried for additional information, 
 
 **2. Updating Assets**
 
-Updating assets is as simple as running the same Mutation while providing an \_id field. This can be done for any asset type, not just website assets, but we will be using a website asset as an example.
+Updating assets is as simple as running the same Mutation while providing an _id field. This can be done for any asset type, not just website assets, but we will be using a website asset as an example.
 
 **Variables:**
 
 ```
 {  
   "payload": {  
-    "_id": "",  
+    "_id": "",  
     "originalFileName": "",  
     "webLink": "",  
     "webType": "",  

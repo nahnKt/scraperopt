@@ -7,15 +7,15 @@ OptiSigns Admin Mobile App is a powerful tool that allows you to control your Op
 
 This guide will walk you through the steps to effectively use the app's remote control feature.
 
-> **NOTE:** The Remote Control feature on the OptiSigns Admin Mobile app is only available on OptiSigns players.
+> **Note:**
+>
+> The Remote Control feature on the OptiSigns Admin Mobile app is only available on OptiSigns players.
 
-#### 
-
-#### 20230816-191704.png
+#### ![20230816-191704.png](https://support.optisigns.com/hc/article_attachments/30943323519123)
 
 To learn more about our Mobile Admin App, please visit [our guide.](https://support.optisigns.com/hc/en-us/articles/30003143806099)
 
-## **Step 1: Download and Log in to the App**
+## Step 1: Download and Log in to the App
 
 First, ensure you have the OptiSigns Admin Mobile App installed on your smartphone. You can download it from the [Google Play Store](https://play.google.com) or the [Apple App Store](https://www.apple.com/app-store/).
 
@@ -23,11 +23,9 @@ First, ensure you have the OptiSigns Admin Mobile App installed on your smartpho
 
 You can learn more about our Mobile Admin app here.
 
-## **Step 2: Connect to your OptiSigns Android Stick**
+## Step 2: Connect to your OptiSigns Android Stick
 
-|  |
-| --- |
-| Note: Make sure Bluetooth is enabled on your smartphone. |
+> Note: Make sure Bluetooth is enabled on your smartphone.
 
 There are two ways to connect the OptiSigns Admin Mobile app to your device to use the remote control feature.
 
@@ -56,7 +54,9 @@ We recommend using this method as it is the fastest and easiest way to connect a
 3. Follow the on-screen instructions to **pair** **your** **smartphone** with the OptiSigns device.
    - If the device does not appear, ensure it is powered on and within range.
 
-## **Step 3: Access the Remote Control**
+[Embedded content (www.canva.com)](https://www.canva.com/design/DAGHYbDBHfE/LxDFY9Patp9SlOUYykOKCw/view?embed)
+
+## Step 3: Access the Remote Control
 
 Once connected, you will see a virtual remote interface with various control buttons, as shown above, such as:
 
@@ -67,12 +67,12 @@ Once connected, you will see a virtual remote interface with various control but
 5. [OptiSigns Menu Bar](https://support.optisigns.com/hc/en-us/articles/360056090593)
 6. Device Settings
 
-## **Trouble Shooting:**
+## Trouble Shooting:
 
 - **Device Not Found**: Ensure your OptiSigns device is powered on and within Bluetooth range. Restart both the device and the app if necessary.
 - **App Not Responding**: Close the app completely and reopen it. Ensure you have the latest version installed.
 
-## **That's it!**
+## That's it!
 
 Using the OptiSigns Admin Mobile App's remote control feature makes managing your OptiSigns Android Stick easy and efficient. With simple installation, pairing, and intuitive controls, you can effortlessly navigate and control your device settings.
 

@@ -24,7 +24,9 @@ Here are some key features:
 
 Let's get started.
 
-> **NOTE:** Folder Permissions options are only available with a [**Pro Plus subscription or higher**](https://www.optisigns.com/pricing).
+> **NOTE**
+>
+> Folder Permissions options are only available with a [**Pro Plus subscription or higher**](https://www.optisigns.com/pricing).
 
 ---
 
@@ -32,7 +34,9 @@ Let's get started.
 
 To apply Folder Security settings, you'll need to create a folder. Folder permissions can be set during folder creation, or after a Folder is made.
 
-> **IMPORTANT:** Anything dealing with Folder Security is specific to users with **Owner**, **Super Admin**, or **Admin** permissions within OptiSigns. These roles are managed by your organization.
+> **IMPORTANT**
+>
+> Anything dealing with Folder Security is specific to users with **Owner**, **Super Admin**, or **Admin** permissions within OptiSigns. These roles are managed by your organization.
 
 When creating a **New Folder**, simply click **Advanced** to open up the Folder Security options:
 
@@ -66,7 +70,9 @@ Clicking the **blank area** allows you to add a new permission.
 
 As you can see, as the account owner or Super Admin, we have a lot of options. We can give access to everyone on the account, everyone on the team, only Team Admins, individual users, or other teams.
 
-> **IMPORTANT:** Users which appear here are ***only users registered on the current team**.* Other users on other teams will not appear.
+> **IMPORTANT**
+>
+> Users which appear here are ***only users registered on the current team**.* Other users on other teams will not appear.
 
 In this case, we'll grant access to our samurai friend Sanjuro here.
 

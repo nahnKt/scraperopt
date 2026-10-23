@@ -32,7 +32,7 @@ Here is a Single view screenshot. View a live example [here](https://social-play
 
 Log in to our portal: [https://app.optisigns.com/](http://app.optisigns.com/).
 
-Then go to **Files/Assets**, Click on **Apps** and add **ESPN** on your Account.
+Then go to **Files/Assets**, Click on **Apps** and add **ESPN** on your Account.
 
 ![Files/Assets page with the Apps button highlighted in the left sidebar](https://support.optisigns.com/hc/article_attachments/55264464642451)
 
@@ -53,7 +53,7 @@ Enter your ESPN Wall App information:
 
 - Font Size: Set the font size for the ESPN Wall app.
 
-Clicking **Advanced**opens up additional options:
+Clicking **Advanced**opens up additional options:
 
 ![Advanced section expanded, showing Date and Time and Scrolling Strip Font Size](https://support.optisigns.com/hc/article_attachments/55264472860819)
 
@@ -69,6 +69,6 @@ Your ESPN app will appear as an Asset in OptiSigns, and it can now be directly a
 
 ---
 
-## **That's all!**
+## That's all!
 
 OptiSigns is the leader in [digital signage software](https://www.optisigns.com/). If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com).

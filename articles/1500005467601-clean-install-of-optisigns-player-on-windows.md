@@ -5,7 +5,9 @@ Last updated: 2025-10-23
 
 Performing a clean install of OptiSigns on Windows could help to resolve issues you experiencing.
 
-> **NOTE:** Be sure your version of Windows is up-to-date before trying a clean install.
+> **NOTE**
+>
+> Be sure your version of Windows is up-to-date before trying a clean install.
 
 To perform a clean install first follow these steps to completely remove OptiSigns:
 

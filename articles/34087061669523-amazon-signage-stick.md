@@ -16,9 +16,7 @@ First, plug the Amazon Signage Stick into the HDMI port on your screen, then con
 
 Power it on, then follow the onscreen instructions to set up your Network access.
 
-|  |
-| --- |
-| **NOTE:** During the initial setup of your Amazon Signage Stick, you will need access to the Internet for it to work. |
+> **NOTE:** During the initial setup of your Amazon Signage Stick, you will need access to the Internet for it to work.
 
 Once the signage player is online, you should see a screen similar to the one below urging you to pair your device.
 

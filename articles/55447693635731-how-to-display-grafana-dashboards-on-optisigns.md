@@ -55,7 +55,9 @@ Once it is set up, the dashboard appears by itself. Nobody has to log in on the 
 
 Depending on your setup, you may also need a service-account token from Grafana. The next section tells you if you do.
 
-> **NOTE:** Only team admins can add a Grafana connection. If you are not a team admin, ask one to add it for you. You can still build the app yourself once the connection exists.
+> **NOTE**
+>
+> Only team admins can add a Grafana connection. If you are not a team admin, ask one to add it for you. You can still build the app yourself once the connection exists.
 
 ---
 
@@ -110,7 +112,7 @@ Copy the token and store it somewhere safe. You will paste it into OptiSigns in 
 
 ![Grafana token created dialog with the token value and Copy to clipboard highlighted](https://support.optisigns.com/hc/article_attachments/55447621366163)
 
-> **IMPORTANT:**
+> **IMPORTANT**
 >
 > **The token is shown only once.** If you lose it, you will need to generate a new one and update your OptiSigns connection.
 >
@@ -124,7 +126,9 @@ Go to **Integrations** under your main menu, then click the **Grafana** tab and 
 
 ![OptiSigns Integrations page on the Grafana tab with the Add Connection button highlighted](https://support.optisigns.com/hc/article_attachments/55447637926547)
 
-> **TIP:** You can also create a new connection while you create the app. Open the **Grafana connection** dropdown and choose **New Grafana connection**.
+> **TIP**
+>
+> You can also create a new connection while you create the app. Open the **Grafana connection** dropdown and choose **New Grafana connection**.
 
 Fill in the first two fields:
 
@@ -144,7 +148,9 @@ A line then appears under the URL that names your setup. For some addresses, "**
 
 Follow the section that matches. If the line says our servers can't reach your Grafana, or mentions a login page, follow [Grafana on Your Own Network](#if-your-grafana-is-on-your-own-network).
 
-> **NOTE:** One connection is one Grafana instance. If you have more than one, add a separate connection for each. A public dashboard link is the exception: each link is its own connection.
+> **NOTE**
+>
+> One connection is one Grafana instance. If you have more than one, add a separate connection for each. A public dashboard link is the exception: each link is its own connection.
 
 ### If You Use Grafana Cloud
 
@@ -158,12 +164,13 @@ Click **Add** to save the connection.
 
 ![Add Grafana Connection form with name, URL, masked service-account token and connection test](https://support.optisigns.com/hc/article_attachments/55447669482259)
 
-> **NOTE:** Grafana Cloud does not support Live mode. Grafana Cloud tells browsers not to embed its pages, so a screen cannot load it directly. OptiSigns shows it as a screenshot instead.
+> **NOTE**
+>
+> Grafana Cloud does not support Live mode. Grafana Cloud tells browsers not to embed its pages, so a screen cannot load it directly. OptiSigns shows it as a screenshot instead.
 
-|  |
-| --- |
-| **TROUBLESHOOTING** |
-| If the test says "We couldn't reach this Grafana Cloud instance. It may be asleep.", open your Grafana in a browser once to wake it, then click **Re-test**. |
+> **TROUBLESHOOTING**
+>
+> If the test says "We couldn't reach this Grafana Cloud instance. It may be asleep.", open your Grafana in a browser once to wake it, then click **Re-test**.
 
 ### If You Self-Host Grafana
 
@@ -240,11 +247,15 @@ Read the test result. The test runs by itself.
 
 ![Connection test showing Connected through OptiSigns' fixed IP with the Image mode and Live mode lines below](https://support.optisigns.com/hc/article_attachments/56227064739347)
 
-> **NOTE:** If Cloudflare blocks the test, the result includes a **Cloudflare Ray ID**. Give it to whoever manages your Cloudflare account so they can find the block.
+> **NOTE**
+>
+> If Cloudflare blocks the test, the result includes a **Cloudflare Ray ID**. Give it to whoever manages your Cloudflare account so they can find the block.
 
 **Can't allow our IP?** Under the test you will see "Can't allow our IP? Screens on an allowed network can load the dashboard directly." Open **Set up Live mode on your Grafana** there and follow [Set Up Live Mode on Your Grafana](#set-up-live-mode-on-your-grafana). Your screens then load the dashboard themselves, so they need to be on a network your firewall allows.
 
-> **NOTE:** The fixed IP can't get past a login page, such as single sign-on or a password prompt in front of Grafana. Cloudflare Access is the exception, because it supports a Bypass rule.
+> **NOTE**
+>
+> The fixed IP can't get past a login page, such as single sign-on or a password prompt in front of Grafana. Cloudflare Access is the exception, because it supports a Bypass rule.
 
 ### If You Use a Public Dashboard Link
 
@@ -281,15 +292,21 @@ It turns on two things:
 - JWT authentication, so your Grafana accepts a signed token from OptiSigns instead of a password. Your own Grafana logins are unaffected.
 - Embedding, so the dashboard can load in the OptiSigns preview and in the Web Player.
 
-> **IMPORTANT:** Make sure to add the whole block, since both parts are needed. If your Grafana also sends a Content-Security-Policy, its frame-ancestors setting has to allow embedding too.
+> **IMPORTANT**
+>
+> Make sure to add the whole block, since both parts are needed. If your Grafana also sends a Content-Security-Policy, its frame-ancestors setting has to allow embedding too.
 
 After the first screen connects, you'll see a user named `optisigns-signage` in your Grafana. That's your OptiSigns screens signing in.
 
-> **NOTE:** The block contains an OptiSigns web address, on the line that starts with `jwk_set_url`. Your Grafana server needs to reach that address on the internet to check our signature.
+> **NOTE**
+>
+> The block contains an OptiSigns web address, on the line that starts with `jwk_set_url`. Your Grafana server needs to reach that address on the internet to check our signature.
 
 If you would rather show screenshots from a self-hosted Grafana, install Grafana's image renderer service. The bundled renderer plugin was removed in Grafana 13, so the standalone service is the only option on current versions. See [Grafana's image rendering documentation](https://grafana.com/docs/grafana/latest/setup-grafana/image-rendering/). You can then switch the mode under **Advanced** on the app. This is not available for a Grafana on your own network, because our servers cannot reach it to take the screenshot.
 
-> **NOTE:** OptiSigns asks Grafana to hide its own time picker and variable bar, which needs Grafana 11.3 or newer. On older versions those controls may still be visible on the screen.
+> **NOTE**
+>
+> OptiSigns asks Grafana to hide its own time picker and variable bar, which needs Grafana 11.3 or newer. On older versions those controls may still be visible on the screen.
 
 ---
 
@@ -320,7 +337,9 @@ Under **Dashboard**, what you see depends on the connection:
 
 - **Single panel ID (optional)**: leave this blank to show the whole dashboard. Enter a panel's ID to show just that one panel, filling the screen. You can find the ID in Grafana's URL when you view a single panel.
 
-> **NOTE:** Shortened Grafana links won't work in **Dashboard link**, so copy the link from your browser's address bar instead. The same goes for snapshot and playlist links.
+> **NOTE**
+>
+> Shortened Grafana links won't work in **Dashboard link**, so copy the link from your browser's address bar instead. The same goes for snapshot and playlist links.
 
 ### Display Settings
 
@@ -350,7 +369,9 @@ The **Advanced** section holds one setting most screens never need.
 
 Click **Save** when you're done. The dialog stays open so you can keep adjusting. Click **Close** when you're finished.
 
-> **NOTE:** Advanced isn't shown for a Grafana on your own network or for a public dashboard link.
+> **NOTE**
+>
+> Advanced isn't shown for a Grafana on your own network or for a public dashboard link.
 
 ### About the Preview
 

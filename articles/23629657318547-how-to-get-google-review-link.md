@@ -24,4 +24,4 @@ Check-in app with SMS follow up can help you get more Google reviews and grow yo
 
 You can now use your google review link in the Check-in app with SMS follow up to grow your google review and business.
 
-If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
+If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)

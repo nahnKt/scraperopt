@@ -30,7 +30,9 @@ First, open the page you want to display in Notion. Click **Share**, turn on **S
 
 ![Notion page Share menu with Share to web turned on and the Copy button next to the published link](https://support.optisigns.com/hc/article_attachments/56378528559763)
 
-> **NOTE:** The Notion app only accepts a public **notion.site** link, such as **https://your-page.notion.site/page-name**. If the link you paste doesn't match, the app shows **Please enter a valid Notion public page URL** and you won't be able to save.
+> **NOTE**
+>
+> The Notion app only accepts a public **notion.site** link, such as **https://your-page.notion.site/page-name**. If the link you paste doesn't match, the app shows **Please enter a valid Notion public page URL** and you won't be able to save.
 
 Next, go to the OptiSigns portal. Go to **Files/Assets** and select **Apps**.
 

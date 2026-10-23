@@ -52,4 +52,4 @@ This can also be done with Teams Town hall. For a Town hall, click **Share event
 Have the host start the meeting a few minutes before the screens join automatically.  
 It will take a device 10-15s to join the meeting, so it's not a good idea to put the Teams Meeting in a playlist. It's better to use it as single asset to take up full screen or be part of a [Split Screen zone](https://support.optisigns.com/hc/en-us/articles/360026559573).
 
-If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
+If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)

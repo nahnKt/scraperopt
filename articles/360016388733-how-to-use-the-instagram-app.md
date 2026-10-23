@@ -42,7 +42,9 @@ OptiSigns has two Instagram apps. Pick the one that matches what you want to sho
 - **Instagram** - Shows the posts from **your own** Instagram profile. You sign in with Instagram directly. This is the app covered in this article.
 - **Instagram Business** - Shows the posts from **any public profile** or a **hashtag**. You connect through Facebook, using an Instagram account linked to a Facebook Page. See [How to Use the Instagram Business App](https://support.optisigns.com/hc/en-us/articles/360051495193).
 
-> **NOTE:** Both apps need an Instagram **Business** or **Creator** account. Personal accounts can't be used, as this is Meta's policy. Switching is free and only takes a few clicks ([see how](https://help.instagram.com/502981923235522)).
+> **NOTE**
+>
+> Both apps need an Instagram **Business** or **Creator** account. Personal accounts can't be used, as this is Meta's policy. Switching is free and only takes a few clicks ([see how](https://help.instagram.com/502981923235522)).
 
 ---
 
@@ -92,7 +94,9 @@ Click **Advanced** for more options:
 
 Now hit **Save**. You'll have created an Instagram app, and it will appear in your **Files/Assets**. It may take a few seconds for the app to fetch your posts.
 
-> **TIP:** Click **Preview** at the bottom of the app settings to see your wall in a new tab.
+> **TIP**
+>
+> Click **Preview** at the bottom of the app settings to see your wall in a new tab.
 
 ### Moderating Posts
 

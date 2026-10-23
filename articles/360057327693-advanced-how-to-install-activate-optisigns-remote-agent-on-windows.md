@@ -14,9 +14,11 @@ Before we start, please make sure you have the following:
 - You have the authorization, privilege to install apps and background services on your Windows device
 - Windows version 7 or later.
 
-> **NOTE:** The Remote Control feature is only available to subscribers with a **Pro Plus** **plan or above.**
+> **NOTE**
+>
+> The Remote Control feature is only available to subscribers with a **Pro Plus** **plan or above.**
 
-## **How to Install & Activate OptiSigns Remote Agent on Windows**
+## How to Install & Activate OptiSigns Remote Agent on Windows
 
 Download [OptiSigns Remote Agent for Windows](https://links.optisigns.com/a83m).
 

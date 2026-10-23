@@ -3,12 +3,11 @@
 Article URL: https://support.optisigns.com/hc/en-us/articles/11116333259283-Setting-Up-Your-Samsung-Smart-Signage-Platform-SSSP-Commercial-Grade
 Last updated: 2026-01-12
 
-### Samsung Smart Signage Platform —SSSP— powered displays are one of the most popular commercial grade TVs. OptiSigns supports Samsung SSP devices natively. Nearly all features are supported, including offline playback and auto update of the OptiSigns app. Getting your SSSP with OptiSigns is an easy process!
+### Samsung Smart Signage Platform —SSSP— powered displays are one of the most popular commercial grade TVs. OptiSigns supports Samsung SSP devices natively. Nearly all features are supported, including offline playback and auto update of the OptiSigns app. Getting your SSSP with OptiSigns is an easy process!
 
-|  |
-| --- |
-| **This article is for installing OptiSigns on Samsung SSP devices only!** |
-| Your screen should be marked as "SSSP/Samsung Smart Signage Platform". Samsung has other product lines that run on Tizen OS, and aren't SSSPs. Not sure if your Samsung Smart TV is an SSP or uses Tizen OS? Check out our [**Full List of Samsung SSP Models.**](https://support.optisigns.com/hc/en-us/articles/17882306279315-Samsung-Smart-Signage-Platform-SSSP-Supported-Model-List) |
+> **This article is for installing OptiSigns on Samsung SSP devices only!**
+>
+> Your screen should be marked as "SSSP/Samsung Smart Signage Platform". Samsung has other product lines that run on Tizen OS, and aren't SSSPs. Not sure if your Samsung Smart TV is an SSP or uses Tizen OS? Check out our [**Full List of Samsung SSP Models.**](https://support.optisigns.com/hc/en-us/articles/17882306279315-Samsung-Smart-Signage-Platform-SSSP-Supported-Model-List)
 
 *\*For TVs utilizing Samsung Tizen OS, please use this guide:* [*How to use OptiSigns with Browser*](https://www.optisigns.com/post/how-to-use-optisigns-with-browser)*.*
 
@@ -32,6 +31,8 @@ The installation process to get OptiSigns on your SSSP is easy! There are two di
 
 *For a detailed visual guide for these options, please watch and follow along with our SSSP installation instructional video:*
 
+[Embedded content (www.youtube.com)](https://www.youtube.com/embed/uraaVW53dAQ?si=R-Be6NCsV7sY5HOO)
+
 ---
 
 ## Option 1: Install on an SSSP Display That is Already in Use:
@@ -44,11 +45,11 @@ Press the **"Home"** button on the remote to begin.
 | --- | --- |
 | **Current/New Models** | **Older Models** |
 | Select: **App Management** | Select: **URL Launcher Settings** |
-| app managment non-proxy.jpg | URL launcher setting.jpg |
+| ![app managment non-proxy.jpg](https://support.optisigns.com/hc/article_attachments/33310200732051) | ![URL launcher setting.jpg](https://support.optisigns.com/hc/article_attachments/33310200738195) |
 | Your App Management/URL Launcher Settings will open. If you already have an app installed, select: **Uninstall**. Proceed once there are no apps installed. |
-| Select: **Install Custom App**  install custom app.jpg | Select: **Install Web App**  install web app.jpg |
+| Select: **Install Custom App**  ![install custom app.jpg](https://support.optisigns.com/hc/article_attachments/33310214902291) | Select: **Install Web App**  ![install web app.jpg](https://support.optisigns.com/hc/article_attachments/33310200745875) |
 | Enter in the URL of the OptiSigns app for SSSP: **https://t.optisigns.com** |
-| Select: **Go**  app managment go | Select: **Done**  url launcher done.jpg |
+| Select: **Go**  ![app managment go](https://support.optisigns.com/hc/article_attachments/33310200753555) | Select: **Done**  ![url launcher done.jpg](https://support.optisigns.com/hc/article_attachments/33310200757907) |
 
 The OptiSigns app will automatically begin to download.
 
@@ -74,20 +75,20 @@ Please note:
 |  |  |
 | --- | --- |
 | **Current/New Models** | **Older Models** |
-| Select your **Language**.  1a_select your language.jpg | Select your **Language**.  1b_Select your language to start setup.jpg |
-| Connect to your desired internet network.  2a_wireless connection.jpg | Installation Type, select: **Basic Setup**  2b_installation type.jpg |
-| Smart Signage Privacy Notice, select: **OK**  3a_Smart Signage Privacy Notice.jpg | Select the proper Display Orientation. **Do not skip this step.** You will not be able to change this setting remotely through OptiSigns. You can only change it through your screen settings on-site with the TV remote.  3b_Display Orientation.jpg |
-| Installation Type, select: **Basic Setup**  4a_Installation type.jpg | Connect to your desired internet network.  4b_wired connection.jpg |
-| Select the proper Display Orientation. **Do not skip this step.** You will not be able to change this setting remotely through OptiSigns. You can only change it through your screen settings on-site with the TV remote.  5a_Display Orientation.jpg | Smart Signage Privacy Notice, select: **OK**  5b_Smart Signage Privacy Notice.jpg |
-| Player Selection, select: **Custom App**  6a_Player Selection.jpg | Play via select: **URL Launcher**  6b_Play via.jpg |
-| Enter the OptiSigns app URL: **https://t.optisigns.com** and select: **Go**  7a_Player Selection Optisigns URL.jpg | Enter the OptiSigns app URL: **https://t.optisigns.com** and select: **Done**  7b_Play via OptiSigns url.jpg |
-| Connect to RM Server, select: **Skip**  8a_Connect to RM Server.jpg | Connect to RM Server, select: **Skip**  8b_connect to RM Server.jpg |
+| Select your **Language**.  ![1a_select your language.jpg](https://support.optisigns.com/hc/article_attachments/33310200781203) | Select your **Language**.  ![1b_Select your language to start setup.jpg](https://support.optisigns.com/hc/article_attachments/33310214943635) |
+| Connect to your desired internet network.  ![2a_wireless connection.jpg](https://support.optisigns.com/hc/article_attachments/33310200818579) | Installation Type, select: **Basic Setup**  ![2b_installation type.jpg](https://support.optisigns.com/hc/article_attachments/33310214952979) |
+| Smart Signage Privacy Notice, select: **OK**  ![3a_Smart Signage Privacy Notice.jpg](https://support.optisigns.com/hc/article_attachments/33310200847635) | Select the proper Display Orientation. **Do not skip this step.** You will not be able to change this setting remotely through OptiSigns. You can only change it through your screen settings on-site with the TV remote.  ![3b_Display Orientation.jpg](https://support.optisigns.com/hc/article_attachments/33310214961171) |
+| Installation Type, select: **Basic Setup**  ![4a_Installation type.jpg](https://support.optisigns.com/hc/article_attachments/33310200866707) | Connect to your desired internet network.  ![4b_wired connection.jpg](https://support.optisigns.com/hc/article_attachments/33310200870803) |
+| Select the proper Display Orientation. **Do not skip this step.** You will not be able to change this setting remotely through OptiSigns. You can only change it through your screen settings on-site with the TV remote.  ![5a_Display Orientation.jpg](https://support.optisigns.com/hc/article_attachments/33310214973459) | Smart Signage Privacy Notice, select: **OK**  ![5b_Smart Signage Privacy Notice.jpg](https://support.optisigns.com/hc/article_attachments/33310200878611) |
+| Player Selection, select: **Custom App**  ![6a_Player Selection.jpg](https://support.optisigns.com/hc/article_attachments/33310200880019) | Play via select: **URL Launcher**  ![6b_Play via.jpg](https://support.optisigns.com/hc/article_attachments/33310214994707) |
+| Enter the OptiSigns app URL: **https://t.optisigns.com** and select: **Go**  ![7a_Player Selection Optisigns URL.jpg](https://support.optisigns.com/hc/article_attachments/33310200891283) | Enter the OptiSigns app URL: **https://t.optisigns.com** and select: **Done**  ![7b_Play via OptiSigns url.jpg](https://support.optisigns.com/hc/article_attachments/33310215004947) |
+| Connect to RM Server, select: **Skip**  ![8a_Connect to RM Server.jpg](https://support.optisigns.com/hc/article_attachments/33310215008915) | Connect to RM Server, select: **Skip**  ![8b_connect to RM Server.jpg](https://support.optisigns.com/hc/article_attachments/33310200910483) |
 | **Do not skip this**, and be sure to enter the correct Date & Time. If you skip, or enter incorrectly, your SSSP screen will not connect to the OptiSigns app. |
-| Set Current Time  9a_Set Current Time.jpg | Clock Set  9b_Clock Set.jpg |
-| **Set PIN**. *Creating a PIN is optional.* Enter a new PIN, or leave blank, and select: **Next**  10a_Set PIN.jpg | Depending on the software version of your older model, you may be prompted to set a PIN. Our testing screen does not prompt us to set a PIN. If you are prompted too, then simply create a PIN or skip that step. |
-| Set-up Process is complete.  11a_Samsung Smart Signage is now ready to use.jpg | Select "**Done**" to complete the set-up process.  10b_Complete.jpg |
+| Set Current Time  ![9a_Set Current Time.jpg](https://support.optisigns.com/hc/article_attachments/33310215025299) | Clock Set  ![9b_Clock Set.jpg](https://support.optisigns.com/hc/article_attachments/33310215029523) |
+| **Set PIN**. *Creating a PIN is optional.* Enter a new PIN, or leave blank, and select: **Next**  ![10a_Set PIN.jpg](https://support.optisigns.com/hc/article_attachments/33310215035411) | Depending on the software version of your older model, you may be prompted to set a PIN. Our testing screen does not prompt us to set a PIN. If you are prompted too, then simply create a PIN or skip that step. |
+| Set-up Process is complete.  ![11a_Samsung Smart Signage is now ready to use.jpg](https://support.optisigns.com/hc/article_attachments/33310215037459) | Select "**Done**" to complete the set-up process.  ![10b_Complete.jpg](https://support.optisigns.com/hc/article_attachments/33310215042579) |
 | A menu will automatically appear at the bottom of your screen. If it does not, simply press the "**Home**" button your remote. |
-| Select "**Custom** App" to launch OptiSigns.  12b_Custom App.jpg | Select **"URL Launcher**" to launch OptiSigns.  12b_URL Launcher.jpg |
+| Select "**Custom** App" to launch OptiSigns.  ![12b_Custom App.jpg](https://support.optisigns.com/hc/article_attachments/33310200937363) | Select **"URL Launcher**" to launch OptiSigns.  ![12b_URL Launcher.jpg](https://support.optisigns.com/hc/article_attachments/33310200944275) |
 
 The OptiSigns app will open and a pairing code will appear:
 

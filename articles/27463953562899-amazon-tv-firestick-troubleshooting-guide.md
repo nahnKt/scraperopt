@@ -7,7 +7,7 @@ If you are experiencing black screens, device not powering up, not connected to 
 
 Please follow the steps below for troubleshooting, it commonly resolve 90%+ of the issues.
 
-> **IMPORTANT:**
+> **IMPORTANT**
 >
 > With the launch of the Amazon Signage Stick, Amazon has been removing support for digital signage on FireSticks. As such, OptiSigns will be ending its support for Amazon Firesticks in the near future**.** We recommend our OptiStick device, or the Amazon Signage Stick.
 >
@@ -24,7 +24,7 @@ OptiSigns runs on new VegaOS FireStick models, but with some restrictions. The a
 
 **FireOS 8 (2023-2025) Model autostart:**
 
-If you already have a newer model and still want to try to use it, and you can handle ADB via USB commands, [please follow this guide to enable](https://support.optisigns.com/hc/en-us/articles/23274673797139-How-to-enable-auto-start-on-the-Amazon-Fire-TV-Stick-4K-Gen-2s-2023-model) ADB and autostart for your device.
+If you already have a newer model and still want to try to use it, and you can handle ADB via USB commands, [please follow this guide to enable](https://support.optisigns.com/hc/en-us/articles/23274673797139-How-to-enable-auto-start-on-the-Amazon-Fire-TV-Stick-4K-Gen-2s-2023-model) ADB and autostart for your device.
 
 **Networking: (This is the most common issue)**
 

@@ -29,4 +29,4 @@ Then you can recreate the Facebook app in the OptiSigns portal: <https://app.opt
 
 You should be able to see your Facebook page in the dropdown list.
 
-If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
+If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)

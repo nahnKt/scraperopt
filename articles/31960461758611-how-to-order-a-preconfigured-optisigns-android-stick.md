@@ -7,16 +7,14 @@ OptiSigns devices are designed for easy, fast deployment. To support it, OptiSig
 
 **Please note that pre-configuration is available for US customers only.**
 
-|  |
-| --- |
-| *Note: To learn more about where to buy our devices, please click* [*here*](https://support.optisigns.com/hc/en-us/articles/32129032857875)*.* |
+> *Note: To learn more about where to buy our devices, please click* [*here*](https://support.optisigns.com/hc/en-us/articles/32129032857875)*.*
 
 ---
 
 ## How to Order Devices:
 
 1. **Login** to your account within [**our portal**](https://app.optisigns.com/app/screenManagement).
-2. Either navigate to the [**Screens page**](https://app.optisigns.com/app/screenManagement) and select "**Order Device**" **or** select **"Order Devices"** under your account name.  
+2. Either navigate to the [**Screens page**](https://app.optisigns.com/app/screenManagement) and select "**Order Device**" **or** select **"Order Devices"** under your account name.  
    ![The Screens page header with the Order Devices button highlighted](https://support.optisigns.com/hc/article_attachments/54796963539219)
 3. Select **how many devices** you'd like to order, then select **Next**.  
    ![Device price and quantity stepper with the Next: Pre-configure button highlighted](https://support.optisigns.com/hc/article_attachments/54796963540243)
@@ -41,6 +39,6 @@ OptiSigns devices are designed for easy, fast deployment. To support it, OptiSig
 You can also order devices through other channels:
 
 - Buy directly from [the OptiSigns website.](https://shop.optisigns.com/products/optisigns-android-stick-player-2)
-- Buy from [Amazon.com](https://links.optisigns.com/optistick-amazon-us) ([CA](https://links.optisigns.com/optistick-amazon-ca), [UK](https://links.optisigns.com/optistick-amazon-uk), [DE](https://links.optisigns.com/optistick-amazon-de))
+- Buy from [Amazon.com](https://links.optisigns.com/optistick-amazon-us) ([CA](https://links.optisigns.com/optistick-amazon-ca), [UK](https://links.optisigns.com/optistick-amazon-uk), [DE](https://links.optisigns.com/optistick-amazon-de))
 
 #### That's it! Now, you can bring your screens to life with OptiSigns!

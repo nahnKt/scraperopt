@@ -19,9 +19,9 @@ Last updated: 2025-07-16
 
 In this article, we will create a real Digital Menu Board (DMB) integrated with a Clover POS system. The DMB pulls product info from Clover and display it onscreen. When an item is not available, it will display as "SOLD OUT."
 
-> **NOTE:**
+> **NOTE**
 >
-> #### API Integration is only available with a **Pro Plus** plan or higher.
+> #### API Integration is only available with a Pro Plus plan or higher.
 
 ---
 
@@ -35,7 +35,9 @@ With OptiSync, we can link APIs to the OptiSigns portal and push the data to scr
 
 This article will focus on these POS specific wrinkles, and the process of mapping POS data to assets and pushing them to screens.
 
-> **IMPORTANT:** In order to integrate a POS system, you'll need to first set up an API Gateway request. A complete guide for how to do that can be found [here](https://support.optisigns.com/hc/en-us/articles/22875592994195-How-to-Integrate-API-and-Publish-API-Data-via-OptiSync).
+> **IMPORTANT**
+>
+> In order to integrate a POS system, you'll need to first set up an API Gateway request. A complete guide for how to do that can be found [here](https://support.optisigns.com/hc/en-us/articles/22875592994195-How-to-Integrate-API-and-Publish-API-Data-via-OptiSync).
 
 ---
 
@@ -80,7 +82,7 @@ In this example, we'll pretend the parameter you are changing is called "merchan
 
 Now, go back to the API request config page. Substitute the merchantID in the API endpoint with the Key name you previously defined.
 
-#### **clover url request**
+#### ![clover url request](https://support.optisigns.com/hc/article_attachments/31893086738707)
 
 When the API request is triggered on the device, it will take the value from the device and substitute it at runtime. For each screen, you'll want to perform these same steps, keeping the Key name the same while changing the Value. This will allow you to push different data to different screens off a single API Request.
 
@@ -112,9 +114,7 @@ This will fix the returned data, allowing it to display properly. It will also a
 
 ![](https://support.optisigns.com/hc/article_attachments/32060273039763)
 
-|  |
-| --- |
-| **NOTE:** Enabling and configuring a WebHook allows near real-time updating of the data pulled from your API. If you plan to keep track of store inventory using your digital signs, we recommend setting one up. You will need to input the provided WebHook key into your API to set this up. |
+> **NOTE:** Enabling and configuring a WebHook allows near real-time updating of the data pulled from your API. If you plan to keep track of store inventory using your digital signs, we recommend setting one up. You will need to input the provided WebHook key into your API to set this up.
 
 ---
 
@@ -150,7 +150,7 @@ You should see this screen:
 
 Hit **Save**, and the DataSource is created.
 
-It should appear in the left column under **"Used in this design".**It will definitely appear in the **"Other DataSources"** section. You may need to refresh the page for it to appear.
+It should appear in the left column under **"Used in this design".**It will definitely appear in the **"Other DataSources"** section. You may need to refresh the page for it to appear.
 
 ![](https://support.optisigns.com/hc/article_attachments/31937799814163)
 
@@ -196,7 +196,7 @@ If your numbers need extra formatting, click on the number, then hit **Settings.
 
 **![](https://support.optisigns.com/hc/article_attachments/32077278901139)**
 
-Click **Advanced Options →** **"Display Format"** and choose **"Number,"** then click **"Number Format"** and select the formatting you'd like. This will allow you to add dollar signs to your prices, with other options.
+Click **Advanced Options →** **"Display Format"** and choose **"Number,"** then click **"Number Format"** and select the formatting you'd like. This will allow you to add dollar signs to your prices, with other options.
 
 ![ShareX_q0ybaobi0E.png](https://support.optisigns.com/hc/article_attachments/32060268867859)
 
@@ -270,4 +270,4 @@ Under **Type**, choose asset, then select your DMB asset to play.
 
 You should be able to create an Digital Menu Board with dynamic data features.
 
-If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com).
+If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com).

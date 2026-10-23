@@ -48,7 +48,9 @@ Within Salesforce, you will collect three values:
 
 We will show how to find them in the article below.
 
-> **NOTE:** The **Integrations** page is only available to team admins. If you are not a team admin, ask one to add the Salesforce connection for you. Once the connection exists, you can still build the app and use it on OptiSigns.
+> **NOTE**
+>
+> The **Integrations** page is only available to team admins. If you are not a team admin, ask one to add the Salesforce connection for you. Once the connection exists, you can still build the app and use it on OptiSigns.
 
 ---
 
@@ -66,7 +68,9 @@ In Salesforce, go to **Setup**, then **Company Information**, and look through t
 
 If none of them is there, your org does not have CRM Analytics. It is a paid add-on — contact your Salesforce Account Executive to have it provisioned.
 
-> **IMPORTANT:** CRM Analytics is available as an add-on for Enterprise, Performance and Unlimited Editions, and is included in Developer Edition. Professional Edition can only get it through a specific contract with Salesforce.
+> **IMPORTANT**
+>
+> CRM Analytics is available as an add-on for Enterprise, Performance and Unlimited Editions, and is included in Developer Edition. Professional Edition can only get it through a specific contract with Salesforce.
 
 ### Enable the Slack Apps
 
@@ -74,7 +78,9 @@ Salesforce image also requires **Slack for Salesforce** and **CRM Analytics for 
 
 Go to **Setup**, then **Slack Apps Setup**. In section 2, review and accept the terms and conditions. In section 3, enable **CRM Analytics for Slack** — it has its own page, so open it and click **Agree and enable Slack integration**.
 
-> **NOTE:** You do not have to use Slack, and nobody needs a Slack account. The apps only have to be enabled in your org.
+> **NOTE**
+>
+> You do not have to use Slack, and nobody needs a Slack account. The apps only have to be enabled in your org.
 
 ---
 
@@ -126,7 +132,7 @@ For **OAuth Scopes**, move these across to **Selected OAuth Scopes**:
 
 - **Manage user data via APIs (api)**
 - **Manage user data via Web browsers (web) (only needed for Salesforce image)**
-- **Perform requests at any time (refresh\_token, offline\_access)**
+- **Perform requests at any time (refresh_token, offline_access)**
 
 Under **Flow Enablement**, tick **Enable Client Credentials Flow**. Leave the other flows unticked.
 
@@ -134,7 +140,9 @@ The standard sign-in flow OptiSigns also uses is switched on automatically once 
 
 ![Salesforce OAuth settings with Enable OAuth ticked, the OptiSigns callback URL and three selected scopes highlighted](https://support.optisigns.com/hc/article_attachments/55895827366163)
 
-> **IMPORTANT:** Salesforce compares the Callback URL character for character. A trailing slash, `http` instead of `https`, or an extra space will make sign-in fail later with a blank page and a `redirect_uri_mismatch` error. The field accepts several URLs, one per line, so an existing one can stay alongside it.
+> **IMPORTANT**
+>
+> Salesforce compares the Callback URL character for character. A trailing slash, `http` instead of `https`, or an extra space will make sign-in fail later with a blank page and a `redirect_uri_mismatch` error. The field accepts several URLs, one per line, so an existing one can stay alongside it.
 
 ### Leave the Security Settings Alone
 
@@ -156,7 +164,9 @@ Leave the rest of the tab as it is, then click **Save**.
 
 ![Salesforce Policies tab with Enable Client Credentials Flow ticked and the Run As Username field highlighted](https://support.optisigns.com/hc/article_attachments/55895866473875)
 
-> **NOTE:** The "Run As" user needs no dashboard access at all. OptiSigns uses it to ask Salesforce to recalculate a dashboard at each update, so your screens show current numbers even when nobody has opened that dashboard in Salesforce. Reports are run fresh every time and do not need it.
+> **NOTE**
+>
+> The "Run As" user needs no dashboard access at all. OptiSigns uses it to ask Salesforce to recalculate a dashboard at each update, so your screens show current numbers even when nobody has opened that dashboard in Salesforce. Reports are run fresh every time and do not need it.
 
 ### Copy the Consumer Key and Secret
 
@@ -203,7 +213,9 @@ This is a one-time step. Afterwards OptiSigns keeps the connection alive on its 
 
 ![OptiSigns Integrations page, Salesforce tab, with a connection showing Signed in](https://support.optisigns.com/hc/article_attachments/55908508001683)
 
-> **NOTE:** Until this sign-in is complete, the connection row says **Sign-in required** and you will not be able to save a Salesforce asset. To sign in later, or to reconnect, use the connection row's menu and choose **Sign-in**.
+> **NOTE**
+>
+> Until this sign-in is complete, the connection row says **Sign-in required** and you will not be able to save a Salesforce asset. To sign in later, or to reconnect, use the connection row's menu and choose **Sign-in**.
 
 ---
 
@@ -236,7 +248,9 @@ Fill in the form. There are three sections: **Connect**, **Content**, and **Disp
 
 Click **Save**, then assign the asset to a screen.
 
-> **NOTE:** With Salesforce image, reports is rendered as its saved chart, so it needs a chart and at least one row of data. Tabular reports cannot be displayed. OptiSigns checks this against your org when you press **Save** and tells you if the report will not work, rather than letting the screen fail later. Redraw shows any report, as a table, a bar chart, or a single number.
+> **NOTE**
+>
+> With Salesforce image, reports is rendered as its saved chart, so it needs a chart and at least one row of data. Tabular reports cannot be displayed. OptiSigns checks this against your org when you press **Save** and tells you if the report will not work, rather than letting the screen fail later. Redraw shows any report, as a table, a bar chart, or a single number.
 
 ---
 
@@ -281,7 +295,7 @@ All three are settings inside your Salesforce, so your Salesforce admin will nee
 
 You have most likely pasted the address from your browser bar, which ends in lightning.force.com. OptiSigns needs the login host, which ends in my.salesforce.com. Click your avatar in Salesforce to see it.
 
-#### Sign-in fails with "redirect\_uri\_mismatch" on a blank page. How do I fix it?
+#### Sign-in fails with "redirect_uri_mismatch" on a blank page. How do I fix it?
 
 The **Callback URL** on your External Client App does not exactly match the one OptiSigns uses. Open the app in Salesforce and check it character for character against the URL in [Set Up OAuth](#set-up-oauth) above — watch for a trailing slash or a stray space.
 

@@ -16,10 +16,9 @@ Flash Message App lets you quickly override your screens with a message. This is
 - Flash Assets, Playlists, or a Simple Message on your screens
 - Flash immediately, or schedule when and how long your flash message should last
 
-|  |
-| --- |
-| **USE CASE** |
-| In a car dealership service waiting room, you could have your normal marketing playlist playing most of the time. When a customer's car is ready, the Flash Message app can interrupt the playlist with a message like: "Mr. Joe, your car is ready!" on the screens for a moment. Then, return to playing the normal playlist. |
+> **USE CASE**
+>
+> In a car dealership service waiting room, you could have your normal marketing playlist playing most of the time. When a customer's car is ready, the Flash Message app can interrupt the playlist with a message like: "Mr. Joe, your car is ready!" on the screens for a moment. Then, return to playing the normal playlist.
 
 ---
 
@@ -45,7 +44,7 @@ Set up your Flash Message:
 
 ![Flash Message setup form: settings on the left, live Preview pane on the right](https://support.optisigns.com/hc/article_attachments/55289118664083)
 
-- **Name**: Name of your Flash Message App, this is the name in your asset list and will **not** be displayed on your screens.
+- **Name**: Name of your Flash Message App, this is the name in your asset list and will **not** be displayed on your screens.
 - **Target:** Select the screens you want to target, or screens that has certain tags. Learn more about screens tagging [here](https://support.optisigns.com/hc/en-us/articles/360051746974).
 
   ![Target dropdown open, showing the Screens and Tags options](https://support.optisigns.com/hc/article_attachments/55289118664979)
@@ -72,7 +71,9 @@ Set up your Flash Message:
 - **Flash Time:** Set when you want to flash. You can choose to flash **Immediately** or select **Schedule** to flash sometime in the future.
   - **Start Time / End Time:** Choose when to start and when to end your Flash Message.
 
-    > **NOTE:** For Start & End Times with Recurring Settings, the duration between start and end time must be less than 24 hours.  
+    > **NOTE**
+    >
+    > For Start & End Times with Recurring Settings, the duration between start and end time must be less than 24 hours.  
     >   
     > It can be longer for one-time only messages.
 - **Recurring Settings:** Choose whether or not you want this Flash Message to occur. When checked, additional options will appear:
@@ -89,7 +90,9 @@ Set up your Flash Message:
   - **On:** Allows you to set a specific date at which time the Flash Message will stop recurring.
   - **After:** Allows you to set a specific number of recurrences after which the message will stop recurring.
 
-> **NOTE:** If the setup is Repeat: **Every 1 day** and Ends After: **1 occurrence**, this is equivalent to "run once only." It does not mean "repeat one more time." This essentially negates the **Recurring** **Settings** altogether.
+> **NOTE**
+>
+> If the setup is Repeat: **Every 1 day** and Ends After: **1 occurrence**, this is equivalent to "run once only." It does not mean "repeat one more time." This essentially negates the **Recurring** **Settings** altogether.
 
 - **Preview Window:** This shows how your Flash Message asset will look when pushed to a screen.
 - **Orientation Options:** Change between Landscape and Portrait orientation for the Preview.
@@ -112,6 +115,6 @@ You can Expire it immediately by clicking **...** button and hitting **Expire No
 
 You have created your Flash Message App, and know how to activate it.
 
-## **That's all!**
+## That's all!
 
 OptiSigns is the leader in [digital signage software](https://www.optisigns.com/). If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com).

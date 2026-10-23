@@ -9,12 +9,12 @@ OptiSigns does support LG WebOS Signage, all apps, features are supported, inclu
 
 Please note that this article is for installing OptiSigns on LG WebOS Signage devices only, the screens should be marked as "LG Digital Signage". For the normal consumer TV with LG WebOS, please use the [normal webplayer](https://www.optisigns.com/post/how-to-use-optisigns-with-browser).
 
-#### **The installation process is easy, you have 2 options:**
+#### The installation process is easy, you have 2 options:
 
 1) Installation from a USB drive: this is the easiest as you don't need to use remote to type in a URL, and it's useful if you have a lot of TVs to set up, you can use the same USB to set them up quickly.  
 2) Installation from server: if you don't have or don't want to use USB drive, just need to punch in the URL: <https://links.optisigns.com/lg> in your SI server TV settings (see detail below)
 
-#### **Before you begin:**
+#### Before you begin:
 
 - Ensure your TV is factory reset with basic settings
 
@@ -26,7 +26,7 @@ Please note that this article is for installing OptiSigns on LG WebOS Signage de
 
 ![mceclip1.png](https://support.optisigns.com/hc/article_attachments/4414489377299)
 
-#### **1) Installation from a USB Drive:**
+#### 1) Installation from a USB Drive:
 
 Download the this file [com.lg.app.signage.ipk](https://links.optisigns.com/lg) to your computer.
 
@@ -73,7 +73,7 @@ From now on, OptiSigns app will be automatically started with the TV, and it wil
 
 ![mceclip12.png](https://support.optisigns.com/hc/article_attachments/4414487042195)
 
-#### **2) Installation from server:**
+#### 2) Installation from server:
 
 On the TV, enter the settings menu (press the config wheel icon on the remote controller)  
 Navigate to: EZ Setting -> SI Server Setting
@@ -115,10 +115,10 @@ From now on, OptiSigns app will be automatically started with the TV, and it wil
 
 ![mceclip12.png](https://support.optisigns.com/hc/article_attachments/4414487042195)
 
-#### **Batch installation from the server URL with settings from a USB drive:**
+#### Batch installation from the server URL with settings from a USB drive:
 
 Instead of typing in the URL and change settings for reach device, you can create USB drive to re-use it on many screens.  
-1) Create a file named ‘scap\_installation.json’ on your computer with this content:
+1) Create a file named ‘scap_installation.json’ on your computer with this content:
 
 ```
 {  
@@ -140,17 +140,17 @@ Instead of typing in the URL and change settings for reach device, you can creat
 Enter the settings menu (the config wheel icon on the remote)   
 Navigate to ‘General’ -> ‘System Information’
 
-#### **To upgrade the** **LG WebOS Signage firmware** **on the device:**
+#### To upgrade the LG WebOS Signage firmware on the device:
 
 If you are running WebOs 4.1 or older, you may need to upgrade your Firmware to for the device to be able to play OptiSigns apps like Weather, Social Medias, etc.  
 Get the latest firmware file (.epk) from [LG website](https://partner.lge.com/global/portal/main/main/fowardMenuUrl.lge?_MenuId=210099&_MenuLevel=3&_MenuParentId=210021&_SuperCategoryCode=&_searchKeyWord=&pageName=&gdprChk=&pwConfirmYn=&popupYn=&menuType=C&_SuperCategoryCode=&needReload=&siteCountryCode=global&corporationCode=LGEHQ&obuCode=) (please see [this article on LG's website](https://www.lg.com/us/support/help-library/lg-tv-how-to-manually-update-software--20154165668198), contact us, or LG if you need help)  
-Create a folder names ‘LG\_MONITOR’ in the root of your USB drive   
+Create a folder names ‘LG_MONITOR’ in the root of your USB drive   
 Copy the new firmware .epk file into it   
 Insert the USB drive into the TV's USB port  
 The update menu will automatically appear   
 Click on ‘Update’ and wait till the process finishes
 
-#### **Copy config from 1 device to another:**
+#### Copy config from 1 device to another:
 
 You can create USB drive config to replicate settings from 1 device to another (include WiFi, OptiSigns app, time zone, etc.) this will save you time if you have many devices to set up.
 

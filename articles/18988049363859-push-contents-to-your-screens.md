@@ -49,7 +49,9 @@ This method allows the user to apply more conditions when pushing content to scr
 - **Split Screen app:** Open a Split Screen app → Select the Push to Screens in the top right corner
 - **Designer:** Open the Designer App → Select the Push to Screen button in the top right corner
 
-#### When pushing content to the screen, there are multiple options of **when** you want the content to go live:
+[Embedded content (www.canva.com)](https://www.canva.com/design/DAGKHQT-9ZQ/czLD8g9kENiwQBWZvNEOnw/view?embed)
+
+#### When pushing content to the screen, there are multiple options of when you want the content to go live:
 
 ![](https://support.optisigns.com/hc/article_attachments/31407460275731)
 
@@ -57,7 +59,7 @@ This method allows the user to apply more conditions when pushing content to scr
 - **Schedule Changes:** Select a time for the content to start playing. Optional, set an expiration time, if you'd like the content to stop playing at some point or revert to the last played content.
 - **Temp Takeover:** Temporarily take over the screens for a selected period of time before reverting back to the previously assigned content.
 
-#### There are also multiple options on **where** to target the content to:
+#### There are also multiple options on where to target the content to:
 
 [![](https://support.optisigns.com/hc/article_attachments/31407460277651)](https://support.optisigns.com/hc/en-us/articles/20879903340947)
 

@@ -16,13 +16,15 @@ OptiSigns supports a wide range of files for playback. Follow **[this guide](htt
 
 - MP4
 
-> **NOTE:** We recommend our users convert video files to MP4 before uploading.
+> **NOTE**
+>
+> We recommend our users convert video files to MP4 before uploading.
 
 **Video Codec:**
 
 - H264
 
-> **NOTE:**
+> **NOTE**
 >
 > Additional video codecs may be supported depending on your hardware used. However, for ease of use, we recommend videos be encoded in H264 in MP4 format. See our article on re-encoding for instructions:
 >

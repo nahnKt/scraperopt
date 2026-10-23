@@ -3,10 +3,11 @@
 Article URL: https://support.optisigns.com/hc/en-us/articles/360016174554-Amazon-Firestick
 Last updated: 2026-08-25
 
-|  |
-| --- |
-| **PLEASE READ** |
-| With the launch of the Amazon Signage Stick, Amazon has been removing support for digital signage on FireSticks. As such, OptiSigns will be ending its support for Amazon Firesticks in the near future**.** We recommend our OptiStick device, or the Amazon Signage Stick.In addition, in October 2024, [**Amazon eliminated the ability to auto start the app**](https://www.aftvnews.com/amazon-blocks-long-running-fire-tv-capability-breaking-popular-apps-with-no-warning-and-giving-developers-the-runaround/) with FireStick & Fire TVs starting with FireOS 8. Amazon have released their own [**digital signage stick**](https://signage.amazon.com/), which supports OptiSigns, and we also have our own [**OptiSigns Android Player**](https://app.optisigns.com/app/s/order-device). |
+> **PLEASE READ**
+>
+> #### With the launch of the Amazon Signage Stick, Amazon has been removing support for digital signage on FireSticks. As such, OptiSigns will be ending its support for Amazon Firesticks in the near future. We recommend our OptiStick device, or the Amazon Signage Stick.
+>
+> #### In addition, in October 2024, [Amazon eliminated the ability to auto start the app](https://www.aftvnews.com/amazon-blocks-long-running-fire-tv-capability-breaking-popular-apps-with-no-warning-and-giving-developers-the-runaround/) with FireStick & Fire TVs starting with FireOS 8. Amazon have released their own [digital signage stick](https://signage.amazon.com/), which supports OptiSigns, and we also have our own [OptiSigns Android Player](https://app.optisigns.com/app/s/order-device).
 
 There are workarounds with [ADB commands](https://support.optisigns.com/hc/en-us/articles/23274673797139) or manually to start the app.
 
@@ -31,7 +32,9 @@ Consider a dedicated player, like our [Android Stick Player](https://links.optis
 
 If you already have FireStick Lites, or older FireStick versions, you can continue this article to set it up.
 
-## **Here are the high-level steps:**
+[Embedded content (www.youtube-nocookie.com)](https://www.youtube-nocookie.com/embed/iIYwR_tDvgc)
+
+## Here are the high-level steps:
 
 1) Set up Amazon Fire TV Stick
 
@@ -41,7 +44,7 @@ If you already have FireStick Lites, or older FireStick versions, you can contin
 
 So let's dive in!
 
-### **1) Set up Amazon Fire TV Stick**
+### 1) Set up Amazon Fire TV Stick
 
 Plug in FireStick and connect it to power.
 
@@ -51,11 +54,9 @@ When connecting to power, it's temping to use the USB of the TV to power the Fir
 
 Power on the Fire TV and follow the on-screen instruction to connect to Wi-Fi, and register the device with your Amazon account.
 
-|  |
-| --- |
-| Note: Amazon Fire TV requires internet to work. |
+> Note: Amazon Fire TV requires internet to work.
 
-### **2) Download & Set up OptiSigns Digital Signage from Amazon App Store**
+### 2) Download & Set up OptiSigns Digital Signage from Amazon App Store
 
 Press the **Search** icon on the **Find** section of the Fire TV,
 
@@ -97,7 +98,7 @@ The Fire TV screen will change to:
 
 Now you are ready to upload and assign content.
 
-### **3) Using OptiSigns' web portal to assign content and remotely manage your screens**
+### 3) Using OptiSigns' web portal to assign content and remotely manage your screens
 
 Once you go to our portal at: <https://app.optisigns.com/>to pair the screen and start assigning content to it, you can follow these guides for more detailed steps:
 

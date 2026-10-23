@@ -47,4 +47,4 @@ For your convenient, if you use one of our Split Screen Templates, we already la
 
 ![The Split Screen zone editor, with the Bottom Scrolling Strip zone set to the scrolling strip asset](https://support.optisigns.com/hc/article_attachments/55223933829651)
 
-If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
+If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)

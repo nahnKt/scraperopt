@@ -40,7 +40,9 @@ Within Datadog, you will collect three values:
 
 We will show how to find them in the article below.
 
-> **NOTE:** The **Integrations** page is only available to team admins. If you are not a team admin, ask one to add the Datadog connection for you. Once the connection exists, you can still build the app and use it on your screens.
+> **NOTE**
+>
+> The **Integrations** page is only available to team admins. If you are not a team admin, ask one to add the Datadog connection for you. Once the connection exists, you can still build the app and use it on your screens.
 
 ---
 
@@ -56,7 +58,9 @@ You can also click your avatar in Datadog. The site is shown under **Current Org
 
 ![Datadog account menu showing the organization's site as US1 - East](https://support.optisigns.com/hc/article_attachments/56493695889427)
 
-> **IMPORTANT:** The site cannot be changed after the connection is created. If you pick the wrong one, delete the connection and add it again.
+> **IMPORTANT**
+>
+> The site cannot be changed after the connection is created. If you pick the wrong one, delete the connection and add it again.
 
 ### Turn On Embed Sharing
 
@@ -89,7 +93,9 @@ Click **Copy** and keep the key somewhere safe. We'll paste it into OptiSigns la
 
 ![New API Key dialog with the key value hidden and the Copy button highlighted](https://support.optisigns.com/hc/article_attachments/56493705344275)
 
-> **NOTE:** By default, only Datadog admins can create API keys. If you are not an admin, you can copy an existing API key from the same page instead.
+> **NOTE**
+>
+> By default, only Datadog admins can create API keys. If you are not an admin, you can copy an existing API key from the same page instead.
 
 ### Create an Application Key
 
@@ -97,8 +103,8 @@ Still in Datadog, go to **Organization Settings**, then **Application Keys**, an
 
 Scopes are optional. A key with no scopes has the same permissions as the user who owns it. If you do set scopes, include both of these:
 
-- **dashboards\_read**
-- **dashboards\_embed\_share**
+- **dashboards_read**
+- **dashboards_embed_share**
 
 ![Application key scopes with dashboards_embed_share and dashboards_read selected](https://support.optisigns.com/hc/article_attachments/56493713302419)
 
@@ -106,7 +112,9 @@ Click **Copy** right away. Datadog only shows an application key once, so if you
 
 ![New application key dialog with the key hidden, its scopes listed and the Copy button highlighted](https://support.optisigns.com/hc/article_attachments/56493705803795)
 
-> **IMPORTANT:** An application key belongs to the Datadog user who created it. If that user is deactivated, Datadog revokes the key and your screens stop showing the dashboard. A key owned by a shared service account avoids this.
+> **IMPORTANT**
+>
+> An application key belongs to the Datadog user who created it. If that user is deactivated, Datadog revokes the key and your screens stop showing the dashboard. A key owned by a shared service account avoids this.
 
 ---
 
@@ -189,11 +197,11 @@ One of the keys is wrong, or the connection's **Datadog site** does not match yo
 
 #### OptiSigns says "Datadog rejected this connection." Why?
 
-The application key does not have permission to embed dashboards. Make sure **Embed** is turned on under **Public Sharing**, that the key's owner has the **Shared Dashboards Embed Write** permission, and that a scoped key includes **dashboards\_embed\_share**.
+The application key does not have permission to embed dashboards. Make sure **Embed** is turned on under **Public Sharing**, that the key's owner has the **Shared Dashboards Embed Write** permission, and that a scoped key includes **dashboards_embed_share**.
 
 #### My dashboard is not in the Dashboard list. Why?
 
-The list shows the dashboards your application key can read. If a dashboard is missing, the key's owner may not have access to it, or a scoped key may be missing **dashboards\_read**.
+The list shows the dashboards your application key can read. If a dashboard is missing, the key's owner may not have access to it, or a scoped key may be missing **dashboards_read**.
 
 #### OptiSigns says "This dashboard has reached the Datadog limit of 1000 secure embeds." What can I do?
 

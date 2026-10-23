@@ -5,11 +5,11 @@ Last updated: 2026-09-24
 
 You can display your Viva Engage Posts on your digital signs screen with OptiSigns.
 
-## **Let's jump in and get started:**
+## Let's jump in and get started:
 
-First, you will need to have your screens set up and paired. For more information on how to do that, click [here](https://www.optisigns.com/blog/how-to-set-up-digital-signs-with-optisigns-and-amazon-fire-tv).
+First, you will need to have your screens set up and paired. For more information on how to do that, click [here](https://www.optisigns.com/blog/how-to-set-up-digital-signs-with-optisigns-and-amazon-fire-tv).
 
-Then log on to our portal: <http://app.optisigns.com/>
+Then log on to our portal: <http://app.optisigns.com/>
 
 Go to Files/Assets, Click on "Apps", find and click on Viva Engage:
 
@@ -23,9 +23,9 @@ Enter details for your Viva Engage:
 
 ![Viva Engage settings: Name, My Community, Display Mode, Theme, Speed, Font Size and Advanced](https://support.optisigns.com/hc/article_attachments/55732123385491)
 
-- Name: Name of your app asset, this is the name of the wall in your asset list. It will **not** be displayed on your screens.
-- My Community : select your Viva Engage community site.
-- Display Mode: Select Single Post View, Social Wall View, Social Kiosk View or Brick View.
+- Name: Name of your app asset, this is the name of the wall in your asset list. It will **not** be displayed on your screens.
+- My Community : select your Viva Engage community site.
+- Display Mode: Select Single Post View, Social Wall View, Social Kiosk View or Brick View.
 - Theme: Select Light or Dark Theme. You can also customize your background color if you select Custom.
 
   ![Theme set to Custom, showing the Background Color and Text Color fields](https://support.optisigns.com/hc/article_attachments/55732135802131)
@@ -38,7 +38,7 @@ Enter details for your Viva Engage:
 You can click Advanced and set:
 
 - Moderation: This is an option for you to moderate your content (show, hide certain posts), default is "Always show new posts" meaning all new posts are automatically shown, no review, approval needed. You can read more about [content moderation feature here](https://support.optisigns.com/hc/en-us/articles/4403015887763).
-- Filter Posts: By Time (i.e last 30 days) or by last XX number of posts
+- Filter Posts: By Time (i.e last 30 days) or by last XX number of posts
 - Scrolling Strip Font Size: If you put the Viva Engage app to a SplitScreen zone that is a scrolling strip, you can set how big you want the scrolling text to be
 - Continue Playing Content in Playlist: In the playlist, the Viva Engage app plays 10 items in the 1st round, and it will start with #11 item in the 2nd round.
 
@@ -49,7 +49,7 @@ After Saving, you can Preview the wall. It may take several seconds for the app 
 
 ![A Viva Engage post playing on screen: photo on the left, author, time and post text on the right](https://support.optisigns.com/hc/article_attachments/54681650124819)
 
-## **That's all! Congratulations!**
+## That's all! Congratulations!
 
 You have created your Viva Engage Wall.  
 You can change the wall any time by clicking on it in the Files/Assets tab.

@@ -11,7 +11,9 @@ Last updated: 2026-02-04
 - [Adding or Inviting Users](#adding-or-inviting-users)
 - [Managing Users](#managing-users)
 
-> **NOTE:** Role Security is only available to **Pro Plus** plan subscribers or above.
+> **NOTE**
+>
+> Role Security is only available to **Pro Plus** plan subscribers or above.
 
 With OptiSigns, it's possible to control User access by granting various roles. Roles can be assigned, and custom roles created to provide more granular control of user security. For example, you may want someone to contribute content, but not add new screens.
 
@@ -74,7 +76,7 @@ You'll see this somewhat intimidating screen:
 
 The **Name** refers to the name of the role (i.e. Admin, User, etc.). The other options control what sorts of access the Role has.
 
-In this example, we'll be creating a custom role called Designer. We want the Designer to be able to create and upload content, but have no access to screens, playlists or schedules. This role would be one we'd consider for an outside contractor or someone we view as a slight security risk.
+In this example, we'll be creating a custom role called Designer. We want the Designer to be able to create and upload content, but have no access to screens, playlists or schedules. This role would be one we'd consider for an outside contractor or someone we view as a slight security risk.
 
 ![mceclip12.jpg](https://support.optisigns.com/hc/article_attachments/38720784827923)
 
@@ -153,4 +155,4 @@ Now these members can be removed from this Team, and have their user permissions
 
 ### That's all!
 
-OptiSigns is the leader in [digital signage software](https://www.optisigns.com/). If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com).
+OptiSigns is the leader in [digital signage software](https://www.optisigns.com/). If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com).

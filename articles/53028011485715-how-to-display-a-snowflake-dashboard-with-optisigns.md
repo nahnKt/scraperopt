@@ -10,10 +10,9 @@ Last updated: 2026-07-01
 
 If you want to display a Snowflake Dashboard, this can be accomplished with the dedicated Snowflake app within OptiSigns. This article will show how to set that up.
 
-|  |
-| --- |
-| **IMPORTANT NOTE** |
-| The Snowflake app only works with ***internal reports*** made using Snowsight, or Streamlit with Snowflake Authentication. Other applications of Snowflake will not work using OptiSigns. |
+> **IMPORTANT NOTE**
+>
+> The Snowflake app only works with ***internal reports*** made using Snowsight, or Streamlit with Snowflake Authentication. Other applications of Snowflake will not work using OptiSigns.
 
 ---
 
@@ -83,7 +82,7 @@ You can also deploy it as part of a split screen, allowing you to show other ass
 
 ## Frequently Asked Questions
 
-#### **How does the encryption of my password work at OptiSigns? If I input it, will I be at risk?**
+#### How does the encryption of my password work at OptiSigns? If I input it, will I be at risk?
 
 Here's how the encryption flow works:
 
@@ -108,7 +107,7 @@ The Master Password can then be input. It will need to match the Master Password
 
 This will ensure no one, not even OptiSigns, can decrypt your password under any circumstance.
 
-#### **How do I obtain my Snowflake 2FA information?**
+#### How do I obtain my Snowflake 2FA information?
 
 If 2FA is enabled on your login, you'll need to obtain a **Secret Key**.
 

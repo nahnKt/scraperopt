@@ -55,7 +55,7 @@ Enter your The Guardian Wall App information:
 
 - Font Size: Set the font size for The Guardian Wall app.
 
-Clicking **Advanced**opens up additional options:
+Clicking **Advanced**opens up additional options:
 
 ![Advanced section expanded, showing the Date & Time and Scrolling Strip Font Size dropdowns](https://support.optisigns.com/hc/article_attachments/55263751997459)
 
@@ -71,6 +71,6 @@ Your Guardian app will appear as an Asset in OptiSigns, and it can now be direct
 
 ---
 
-## **That's all!**
+## That's all!
 
 OptiSigns is the leader in [digital signage software](https://www.optisigns.com/). If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)

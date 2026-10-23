@@ -9,9 +9,7 @@ When Proof-of-play Report is enabled, the screen will report the starting and en
 
 You can also include Assets Tags and Screens Tags that will allow you to create complex aggregated reports.
 
-|  |
-| --- |
-| This feature is available for **Pro-Plus** or above subscription plans. |
+> This feature is available for **Pro-Plus** or above subscription plans.
 
 **Feature summary:**
 
@@ -33,7 +31,7 @@ Here are the high level steps to set up and use Proof of Play report.
 4. Using Report: Save & Schedule reports to be emailed out
 5. Export Data: Schedule data export & download data
 
-## **Let's jump in and get started:**
+## Let's jump in and get started:
 
 **1. Setup: Enable Proof of Play feature on your account:**
 
@@ -116,7 +114,7 @@ Here's how a data export looks like:
 
 ![mceclip11.png](https://support.optisigns.com/hc/article_attachments/360096894574)
 
-## **Summary:**
+## Summary:
 
 OptiSigns' Proof of play or Playback Report give you real-time insight into playback of your assets on screens. You have the flexibility of slice & dice the data in your the Portal or schedule raw data export for your own analysis.
 

@@ -5,7 +5,7 @@ Last updated: 2024-02-19
 
 If you have experience with the OptiSigns app will go to sleep mode after 4 hours on the Fire Stick, you can follow this article to turn off the **Still Watching** feature.
 
-1. Press the **Home button**, and navigate to **Settings**menu
+1. Press the **Home button**, and navigate to **Settings**menu
 
 ![mceclip0.png](https://support.optisigns.com/hc/article_attachments/18470989801875)
 
@@ -27,4 +27,4 @@ If you have experience with the OptiSigns app will go to sleep mode after 4 hour
 
 Then you can relaunch the OptiSigns app. It will not pop out the warning message.
 
-If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
+If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)

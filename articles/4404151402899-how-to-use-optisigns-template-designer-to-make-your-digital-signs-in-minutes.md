@@ -3,14 +3,15 @@
 Article URL: https://support.optisigns.com/hc/en-us/articles/4404151402899-How-to-Use-OptiSigns-Template-Designer-to-Make-Your-Digital-Signs-in-Minutes
 Last updated: 2025-06-11
 
-|  |
-| --- |
-| **Important:** Designer 2.0 is currently the default option, but you can still go back to Designer 1.0 by clicking the "Use Designer 1.0" button in the top-right corner. |
-|  |
+> **Important: Designer 2.0 is currently the default option, but you can still go back to Designer 1.0 by clicking the "Use Designer 1.0" button in the top-right corner.**
+>
+> ![](https://support.optisigns.com/hc/article_attachments/42099317838355)
 
 OptiSigns has an extensive library of thousands of templates, covering various industries, along with a user-friendly Designer tool that enables you to create captivating promotions, events, marketing content, and menus within minutes!
 
 Watch this 3min video on Designer 1.0 to learn more:
+
+[Embedded content (www.youtube-nocookie.com)](https://www.youtube-nocookie.com/embed/GTJRzDpA3EU)
 
 In this article, we will review the following for Designer 1.0 and 2.0:
 
@@ -20,9 +21,9 @@ In this article, we will review the following for Designer 1.0 and 2.0:
 4. How to add design elements, apps, QR codes, or widgets to your design
 5. How to create your own templates to share with your team
 
-# **Let's jump in and get started:**
+# Let's jump in and get started:
 
-## **Access the Designer app (or tool)**
+## Access the Designer app (or tool)
 
 You can access our Designer app in 2 ways:
 
@@ -36,7 +37,7 @@ You can access our Designer app in 2 ways:
 
 ![chrome_FwUnhtgHeX.jpg](https://support.optisigns.com/hc/article_attachments/41677809103251)
 
-## **Browse for templates in our Template library**
+## Browse for templates in our Template library
 
 To access our Template Library, simply go to <https://canvas.optisigns.com/>
 
@@ -60,9 +61,9 @@ You can rename the design by clicking on the name on top bar:
 |  |  |
 | --- | --- |
 | **Designer 1.0** | **Designer 2.0** |
-|  |  |
+| ![](https://support.optisigns.com/hc/article_attachments/41677809125779) | ![](https://support.optisigns.com/hc/article_attachments/41677774744851) |
 
-## **Assigning your design to your screen**
+## Assigning your design to your screen
 
 Once a design is created, it is just like any images you upload to your OptiSigns File/Asset.  
 You can go to the Dashboard ([app.optisigns.com](https://app.optisigns.com/)) Click Edit Screens and assign your design to it.
@@ -71,7 +72,7 @@ You can go to the Dashboard ([app.optisigns.com](https://app.optisigns.com/)) Cl
 
 For detail guide to set up your screens and assign content, [click here](https://support.optisigns.com/hc/en-us/articles/360016174554).
 
-## **Adding Stock Photo to your design**
+## Adding Stock Photo to your design
 
 Click on the "Photo" button on the left hand side menu to open the Stock Photo section.  
 You can search for photos and click them to instantly add it to your design.  
@@ -80,18 +81,16 @@ Stock Photo is powered by **Unsplash** with 1.5M and growing number of photos.
 |  |  |
 | --- | --- |
 | **Designer 1.0** | **Designer 2.0** |
-|  |  |
+| ![](https://support.optisigns.com/hc/article_attachments/41677809129491) | ![](https://support.optisigns.com/hc/article_attachments/41677809131155) |
 
-## 
-
-## **Adding an Uploaded Image File/Asset to your design**
+## Adding an Uploaded Image File/Asset to your design
 
 If you want to add a File or Asset you've already uploaded to OptiSigns to your design, you can do that by clicking the **Widgets** button, then hitting **Overlay Image:**
 
 |  |  |
 | --- | --- |
 | **Designer 1.0** | **Designer 2.0** |
-|  |  |
+| ![](https://support.optisigns.com/hc/article_attachments/41677774752019) | ![](https://support.optisigns.com/hc/article_attachments/41677809133971) |
 
 Then select your asset from the Files/Assets pop-up window:
 
@@ -101,7 +100,7 @@ Once selected, the asset will appear in the Designer.
 
 ![firefox_OOa0s1qeXM.jpg](https://support.optisigns.com/hc/article_attachments/40330704264595)
 
-## **Adding icon/elements to your design**
+## Adding icon/elements to your design
 
 You can add icons, elements to your designs by clicking the "**Element**" button on the left hand side menu.  
 There are 1000+ well designed icons and elements to browse, search and choose from. Provided by FontAwesome.
@@ -111,7 +110,7 @@ There are 1000+ well designed icons and elements to browse, search and choose fr
 |  |  |
 | --- | --- |
 | **Designer 1.0** | **Designer 2.0** |
-|  |  |
+| ![](https://support.optisigns.com/hc/article_attachments/41677809134739) | ![](https://support.optisigns.com/hc/article_attachments/41677774771859) |
 
 Click on any icon to add it into your design.  
 You then can further edit its size, color, opacity, etc. by clicking on the icon once it's in your designs canvas.
@@ -119,9 +118,9 @@ You then can further edit its size, color, opacity, etc. by clicking on the icon
 |  |  |
 | --- | --- |
 | **Designer 1.0** | **Designer 2.0** |
-| Customization options are available in the top context bar when double clicked | Customization options are available in the top context bar and selecting "**Effects**" will provide further options in the left sidemenu. |
+| Customization options are available in the top context bar when double clicked  ![](https://support.optisigns.com/hc/article_attachments/41677774773011) | Customization options are available in the top context bar and selecting "**Effects**" will provide further options in the left sidemenu.  ![](https://support.optisigns.com/hc/article_attachments/41677774773779) |
 
-## **Adding QR Code to your sign**
+## Adding QR Code to your sign
 
 QR Code is a great way to get more value out of your signs.  
 You can create QR code for variety type of actions, here are some good examples to go with Digital Signs:
@@ -137,9 +136,9 @@ You can create QR code for variety type of actions, here are some good examples 
 |  |  |
 | --- | --- |
 | **Designer 1.0** | **Designer 2.0** |
-|  |  |
+| ![](https://support.optisigns.com/hc/article_attachments/41677809144083) | ![](https://support.optisigns.com/hc/article_attachments/41677774777747) |
 
-## **Create your own templates to share with your team**
+## Create your own templates to share with your team
 
 You can make your designs a template for your team to use by clicking "Your Template" on the left hand side menu.
 
@@ -150,6 +149,6 @@ This will make a copy of your current design and set it as template. Now other u
 |  |  |
 | --- | --- |
 | **Designer 1.0** | **Designer 2.0** |
-|  |  |
+| ![](https://support.optisigns.com/hc/article_attachments/41677774780819) | ![](https://support.optisigns.com/hc/article_attachments/41677809150739) |
 
-If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
+If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)

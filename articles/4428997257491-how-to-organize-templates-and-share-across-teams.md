@@ -13,7 +13,7 @@ In general, it is mainly 3 parts.
 - Configure the permissions on the folder to have it assigned to the right teams. Since the template cannot be modified, the folder should be set up with "View" permission only.
 - When others use the template, they will not have permission to save and change the template, instead, they will have to "save as" at another location where they have permission.
 
-Here is an example. The "QR\_Code\_Template" is under TemplateFolder / TemplateSubFolder. To make it only viewable but not modifiable by others, you will need to set the folder permission to view only.  In this case, the folder is available to Team 1. So users from Team1 can open and use the template, but they cannot modify the template and have to save it to another location where they have permission.
+Here is an example. The "QR_Code_Template" is under TemplateFolder / TemplateSubFolder. To make it only viewable but not modifiable by others, you will need to set the folder permission to view only.  In this case, the folder is available to Team 1. So users from Team1 can open and use the template, but they cannot modify the template and have to save it to another location where they have permission.
 
 ![mceclip0.png](https://support.optisigns.com/hc/article_attachments/4428983032467)
 
@@ -33,7 +33,7 @@ Users can save it to a location they have edit permission by choosing a folder a
 
 ![mceclip4.png](https://support.optisigns.com/hc/article_attachments/4428995962771)
 
-### **That's all!**
+### That's all!
 
 This is how you can leverage the folder structures and permissions to manage the templates and share them across teams.
 

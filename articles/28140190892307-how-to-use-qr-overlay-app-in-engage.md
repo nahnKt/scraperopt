@@ -9,7 +9,7 @@ As the content displays, the QR will stay on top at the location you place it in
 
 This is Free for all users on all plans.
 
-# **Let's jump in and get started:**
+# Let's jump in and get started:
 
 First, head over to our Engage section in our OptiSigns portal, or click on the link below:
 
@@ -70,7 +70,7 @@ Also, adjust the QR Code to your preferred size, making it bigger or smaller.
 
 Lastly, click **Save** and **Assign** your QR Overlay to your Screen or Tags, or you can assign it later.
 
-## **That's all! Congratulations!**
+## That's all! Congratulations!
 
 You’ve successfully created a QR Overlay to fit your brand’s unique identity!
 

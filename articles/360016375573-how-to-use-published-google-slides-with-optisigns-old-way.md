@@ -17,7 +17,7 @@ If this is the first time you use OptiSigns, you can [read here](https://www.opt
 
 Otherwise, let's dive in.
 
-## **1) Create and prepare your Google Slides**
+## 1) Create and prepare your Google Slides
 
 Open your [Google Slides](https://docs.google.com/presentation/?usp=mkt_slides) presentation or create new a new presentation that you like.
 
@@ -51,7 +51,7 @@ You will get a link like below. Copy that link to clipboard. We will use it in O
 
 If you make changes to the slides, you don't have to regenerate the link again.
 
-## **2) Add Google Slide App on OptiSigns**
+## 2) Add Google Slide App on OptiSigns
 
 Go to our portal: https://app.optisigns.com
 
@@ -85,7 +85,7 @@ You will see your Google Slides Presentation is added.
 
 ![mceclip9.png](https://support.optisigns.com/hc/article_attachments/360055531293)
 
-## **3) Assign it to your screens**
+## 3) Assign it to your screens
 
 Now go back to Screen tab.
 

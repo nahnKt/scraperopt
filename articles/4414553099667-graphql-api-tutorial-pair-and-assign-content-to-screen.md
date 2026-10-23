@@ -3,9 +3,9 @@
 Article URL: https://support.optisigns.com/hc/en-us/articles/4414553099667-GraphQL-API-Tutorial-Pair-and-Assign-Content-to-Screen
 Last updated: 2025-01-28
 
-In this tutorial, we will walk through how to get a new screen paired and assign content making it ready to use through the API. Generally, it involves 2 steps.  Firstly, you will need to get the screen paired to your account. Then you will need to update the screen to rename it, and assign the content to be played on the screen.
+In this tutorial, we will walk through how to get a new screen paired and assign content making it ready to use through the API. Generally, it involves 2 steps.  Firstly, you will need to get the screen paired to your account. Then you will need to update the screen to rename it, and assign the content to be played on the screen.
 
-#### **1. Pair screen**
+#### 1. Pair screen
 
 To pair a screen, you will need to use the pairDevice mutation. And supply the pairing code you get from the screen as a arguments in the payload. If it runs successfully, it will return the requested data from the server, and an id will be assigned to the screen. This id will be needed in the next step to rename and assign the content to the screen.
 
@@ -25,7 +25,7 @@ mutation {
 
 ![](https://support.optisigns.com/hc/article_attachments/36564341500819)
 
-#### **2. Rename the paired screen and assign asset/playlist to the screen**
+#### 2. Rename the paired screen and assign asset/playlist to the screen
 
 To change the screen name or change the content assigned to the screen, you can use the updateDevice mutation. You will need to supply the screen id retrieved from the above step, and specify how you would like to change the device in the payload.
 

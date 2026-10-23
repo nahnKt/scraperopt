@@ -14,9 +14,7 @@ In this article:
   - [Option 2: Through Edit Screen Menu](#option-2-through-the-edit-screen-menu)
 - [Advanced Settings](#advanced-settings)
 
-|  |
-| --- |
-| **NOTE:** This feature requires the **Engage plan** or higher. |
+> **NOTE:** This feature requires the **Engage plan** or higher.
 
 ---
 
@@ -28,13 +26,15 @@ The OptiSigns IoT Sensor Add-on allows you to use any IoT sensors that work with
 
 Our YouTube video shows how it supports the lift and learn use cases using a Nexmosphere brand sensor.
 
+[Embedded content (www.youtube-nocookie.com)](https://www.youtube-nocookie.com/embed/5W__BqfYp7o)
+
 *This feature supports Windows, Linux , MacOS, BrightSigns Player, and our pre-configured Android Stick.*
 
 ---
 
-## **Quick Start Guide for OptiSigns IoT Sensor Add-on**
+## Quick Start Guide for OptiSigns IoT Sensor Add-on
 
-For the following example, we will use a temperature sensor with an **Arduino** board to demonstrate how it works. ***Your board may have slightly different connection options - we will note instances where this may be the case.***
+For the following example, we will use a temperature sensor with an **Arduino** board to demonstrate how it works. ***Your board may have slightly different connection options - we will note instances where this may be the case.***
 
 **EDITOR’S NOTE — PRIVACY: the first screenshot (repeated as the last image) shows a real person photo, full name and social handle, readable at full size. Recommend replacing or blurring it. It is also the same image twice, opening and closing the article. (delete before publishing)**
 
@@ -52,7 +52,7 @@ From there you can modify the set up to fit your need.
 
 ---
 
-## **1. Set Up Serial Communication Channel**
+## 1. Set Up Serial Communication Channel
 
 In the top right corner, click on the account name.
 
@@ -68,23 +68,21 @@ See **"Advanced" →** **"External Communications"**.
 
 Click **"Add New"** in the **Connections** tab to bring up the **Add Connection** page, where you can define the parameters for the serial communication.![The Add Connection dialog: Name, COM port, Baud rate, Data bits, Stop bits, Parity and encoding fields.](https://support.optisigns.com/hc/article_attachments/55404728356499)
 
-|  |
-| --- |
-| **NOTE:** Most of the required settings will depend on your device. Please see your device's documentation for specific information. |
+> **NOTE:** Most of the required settings will depend on your device. Please see your device's documentation for specific information.
 
 We are only going to cover three main settings off this screen: **Name, COM Port,** and **Baud Rate.**
 
 - **Name:** A quick name for your sensor. Enter whatever you'd like.
 - **COM port:** Designates which serial port the serial communication channel will enter from.  
   Please note, different systems will organize the serial port differently.
-  - **Windows:** Normally represented as "COM#". This will depend on the port you've plugged the sensor into.
+  - **Windows:** Normally represented as "COM#". This will depend on the port you've plugged the sensor into.
   - **Linux:** Normally represented as something like "/dev/ttyUSB0" or "/dev/ttyACM0".
   - **Brightsigns:** Normally represented as "1" or "2"
   - **OptiSigns Preconfigured Android Sticks:** Usually is "USB0"
 
-> **NOTE:**
+> **NOTE**
 >
-> You can find your COM Port by navigating to the **Trigger Event Viewer**page on your screen and clicking on "Show":
+> You can find your COM Port by navigating to the **Trigger Event Viewer**page on your screen and clicking on "Show":
 >
 > ![The player's Trigger Event Viewer showing Sensor port: COM3 - not open, above the Send Command row.](https://support.optisigns.com/hc/article_attachments/42985157368979)
 
@@ -96,13 +94,11 @@ The other options (Data Bits, Stop Bits, Parity, Flow Controls, Receive Line End
 
 **Save** the connection once the configuration is complete and then it is ready for use.
 
-|  |
-| --- |
-| **NOTE:** If you wish to set up custom commands to send to your sensor now, see the ***Set Up Custom Sensor Commands*** section of this guide. |
+> **NOTE:** If you wish to set up custom commands to send to your sensor now, see the ***Set Up Custom Sensor Commands*** section of this guide.
 
 ---
 
-## **2. Set Up IoT sensor via Lift and Learn**
+## 2. Set Up IoT sensor via Lift and Learn
 
 The IoT sensor is configured through our **Engage** tab. Click **New App,** then find **Lift and Learn**.
 
@@ -110,15 +106,13 @@ The IoT sensor is configured through our **Engage** tab. Click **New App,** then
 
 ![The Engage page with the New App button highlighted in the left sidebar.](https://support.optisigns.com/hc/article_attachments/55404711439379)
 
-Once you've selected Lift and Learn, click **Build.**
+Once you've selected Lift and Learn, click **Build.**
 
 ![Engage app picker with Lift and Learn selected and the Build button highlighted.](https://support.optisigns.com/hc/article_attachments/55404728360595)
 
 ![The Lift and Learn build form: Name, Change content, Play for at least, Rest for, and the Play rules table.](https://support.optisigns.com/hc/article_attachments/55404728362899)
 
-|  |
-| --- |
-| **NOTE:** In the case of custom commands, these are often device specific. Your user manual may have several basic commands. More commands can be determined through OptiSigns; however, the rest of the setup process will need to be completed first. |
+> **NOTE:** In the case of custom commands, these are often device specific. Your user manual may have several basic commands. More commands can be determined through OptiSigns; however, the rest of the setup process will need to be completed first.
 
 - **Name:** This is an internally facing name that will help you organize your IoT devices. Type whatever you wish.
 - **Change Content:** Switch between "Immediately" and a "Delay" of your choice in milliseconds.
@@ -134,12 +128,12 @@ Once you've selected Lift and Learn, click **Build.**
 
 ![The processing-rule code editor with a default process(value) function, and Close and Update buttons.](https://support.optisigns.com/hc/article_attachments/55404728364307)
 
-- **Play Content:** Determines what content plays (or stops) when trigger conditions are met. Options are "Asset," "Playlist," or "Stop Playing."
-- **Commands:** Allows you to send out commands to sensors instead of just receiving them. If you're using a typical IoT sensor, **you most likely won't need to use this**. These are typically used for other types of devices, such as atmospheric lighting or speakers. These commands are created in the "Commands" section of the "External Communications (RS232)" section from before. We will be returning to this later in the article.
+- **Play Content:** Determines what content plays (or stops) when trigger conditions are met. Options are "Asset," "Playlist," or "Stop Playing."
+- **Commands:** Allows you to send out commands to sensors instead of just receiving them. If you're using a typical IoT sensor, **you most likely won't need to use this**. These are typically used for other types of devices, such as atmospheric lighting or speakers. These commands are created in the "Commands" section of the "External Communications (RS232)" section from before. We will be returning to this later in the article.
 - **Action:** Allows you to move a Rule's place in the list, or delete them.
 - **Add Rule:** Allows the creation of more rules, with no maximum. These can be deleted or organized via the Action setting.
 
-We ***strongly recommend*** obtaining a string command and inputting it into the **Play Rules**section. This will reduce or eliminate any potential issues.
+We ***strongly recommend*** obtaining a string command and inputting it into the **Play Rules**section. This will reduce or eliminate any potential issues.
 
 To do this, boot up your screen and navigate to the OptiSigns main menu. Scroll down until you see **Trigger Event Viewer**.
 
@@ -155,7 +149,7 @@ Once you've got everything set up to your liking, hit **Assign** to move to the 
 
 ---
 
-## **3. Assign the IoT Sensor Add-on app to a Screen**
+## 3. Assign the IoT Sensor Add-on app to a Screen
 
 There are two options for assigning your Sensor Add-On to a screen.
 
@@ -191,14 +185,13 @@ Once IoT Sensor Addon is activated, you can assign the IoT sensor Add-on app tha
 
 ---
 
-## **Advanced Settings**
+## Advanced Settings
 
-|  |
-| --- |
-| **Use Case** |
-| In special cases when you need to send commands back to external devices, such as a light source or speaker, these options are for you. These options are not needed for those using ordinary IoT sensor devices. |
+> **Use Case**
+>
+> In special cases when you need to send commands back to external devices, such as a light source or speaker, these options are for you. These options are not needed for those using ordinary IoT sensor devices.
 
-First, navigate to **External Communications (RS232) → Add New**
+First, navigate to **External Communications (RS232) → Add New**
 
 ![External Communications (RS232) page with the Commands tab highlighted.](https://support.optisigns.com/hc/article_attachments/55404728374931)
 
@@ -229,4 +222,4 @@ Now you have completed all the needed configurations to use the IoT sensors add-
 
 ![Two signage screens side by side: a safety notice with live sensor temperature, and a red Equipment Overheated alert.](https://support.optisigns.com/hc/article_attachments/13110301584531)
 
-If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
+If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)

@@ -19,7 +19,7 @@ If auto-activation fails, then you can follow these steps to manually install & 
 - You have enough authorization, and privileges to install apps, and background services on your device
 - optisigns-ai-detection runs on any Raspberry Pi OS, or any major Linux distro such as Ubuntu.
 
-## **How to manually install optisigns-ai-detection**
+## How to manually install optisigns-ai-detection
 
 Make sure you have a camera installed on your system.  
 Open Terminal.
@@ -44,7 +44,7 @@ After you see "Starting OptiSigns AI Detection Service ..." you are done!
 
 You can go back to [app.optisigns.com](https://app.optisigns.com/app/screenManagement) to use the AI feature now
 
-## **Further technical detail for optisigns-ai-detection**
+## Further technical detail for optisigns-ai-detection
 
 The binary executable is downloaded and installed to ~/bin/optisigns-ai-detection
 
@@ -66,7 +66,7 @@ run : to run the ai detection agent in console or terminal or service
 show or -s: show camera feed
 ```
 
-## **How to remove optisigns-ai-detection:**
+## How to remove optisigns-ai-detection:
 
 Open Terminal and run:
 

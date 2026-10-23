@@ -17,7 +17,9 @@ In this article:
   - [More Remote Command Options](#more-remote-command-options)
   - [Final Options](#final-options)
 
-> **NOTE:** If you're new to OptiSigns, you'll be using one of two interfaces: the **1.0** interface, or the **Updated** interface. For your convenience, we've provided screenshots of each.
+> **NOTE**
+>
+> If you're new to OptiSigns, you'll be using one of two interfaces: the **1.0** interface, or the **Updated** interface. For your convenience, we've provided screenshots of each.
 
 ---
 
@@ -42,8 +44,8 @@ The Edit Screen window, shown below, will appear.
 - **Type -** Select what will be bound to the screen
   - **Asset**: This is a specific content type such as images, videos, or app instances i.e. Weather app or Designer app
     - You can click on '**Change**' to change the Selected Asset
-    - When the '**Asset**' option is selected, you have the ability to choose from different scaling options - None, Fit, Stretch, or Zoom.
-  - **Playlist**:  Selecting this allows you to [Select a Playlist](https://support.optisigns.com/hc/en-us/articles/28295104605843) from the drop-down which will bind the screen to that playlist.
+    - When the '**Asset**' option is selected, you have the ability to choose from different scaling options - None, Fit, Stretch, or Zoom.
+  - **Playlist**:  Selecting this allows you to [Select a Playlist](https://support.optisigns.com/hc/en-us/articles/28295104605843) from the drop-down which will bind the screen to that playlist.
     - A playlist is a grouping of assets and or nested playlists in a specific order.
     - You can click on 'Go To' to go to the selected playlist. It will open a new window and display the playlist and its contents.
   - **Schedule**: Selecting this allows you to [Select a Schedule](https://support.optisigns.com/hc/en-us/articles/360016981853) from the drop-down and designate a schedule you want the screen to follow.
@@ -54,7 +56,7 @@ The Edit Screen window, shown below, will appear.
   - **Zoom:** Fills the whole screen by cropping the edges.
 - **Orientation**- Adjust the positioning of the content on your screen.
   - **Landscape**: Default layout for most screens
-  - **Rotate 90 degrees**:  Rotates screen 90 degrees clockwise from landscape.
+  - **Rotate 90 degrees**:  Rotates screen 90 degrees clockwise from landscape.
   - **Rotate 180 degrees**: Rotates screen180 degrees clockwise from landscape.
   - **Rotate 270 degrees**: Rotates 270 degrees clockwise from landscape.
 
@@ -64,7 +66,9 @@ The Edit Screen window, shown below, will appear.
 
 Clicking the **"Advanced"** option at the bottom of the Edit Screen window provides the options below.
 
-> **NOTE:** The available settings and their ordering in your Edit Screen options may vary depending on your hardware, pricing plan, and version of OptiSigns (1.0 or the Updated UI).
+> **NOTE**
+>
+> The available settings and their ordering in your Edit Screen options may vary depending on your hardware, pricing plan, and version of OptiSigns (1.0 or the Updated UI).
 
 ![](https://support.optisigns.com/hc/article_attachments/50178083710099)
 
@@ -74,7 +78,7 @@ Clicking the **"Advanced"** option at the bottom of the Edit Screen window provi
 - **Connection Status**
   - [**Show Downloading Status**](https://support.optisigns.com/hc/en-us/articles/12947300131731) - Set to show or hide downloading status on your screen
   - [**Show Offline Indicator**](https://support.optisigns.com/hc/en-us/articles/12498801963027) - Show an icon on the screen when there's no network connection, this is useful if your screen have live content that need internet connection all the time.
-- **Background Type** - You can select a background for a consistent backdrop in situations where content may not fill the screen or if the content is not Scaled. You can choose from the following:
+- **Background Type** - You can select a background for a consistent backdrop in situations where content may not fill the screen or if the content is not Scaled. You can choose from the following:
   - Default
   - Color
   - Image
@@ -144,9 +148,7 @@ This window provides information about your system in the form of Python lists a
 
 ![](https://support.optisigns.com/hc/article_attachments/50178099594515)
 
-|  |
-| --- |
-| **Note:** If you are not using an OptiSigns Player (OptiStick, Pro, or ProMax) these features will not be shown in your options. |
+> **Note:** If you are not using an OptiSigns Player (OptiStick, Pro, or ProMax) these features will not be shown in your options.
 
 [**Operational Schedule**](https://support.optisigns.com/hc/en-us/articles/28598173096723)- Schedule TV power on/off times and control volume and brightness.
 
@@ -178,6 +180,6 @@ At the bottom of the window, you will see several options, including **Help, Pre
 - **Schedule** - This lets you see the schedule you have the screen on quickly. *Only clickable when a schedule is selected above.*
 - **Identify Screen** - Displays information on the screen for 30 seconds, displaying the Device name and other specific data for identification or troubleshooting purposes.
 
-## **That's It!**
+## That's It!
 
 Click **Save** when you are completed; otherwise, you will lose all changes.

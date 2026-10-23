@@ -28,7 +28,7 @@ Click [**here**](#using-optisigns-web-portal-remote-access) if you want to use t
 
 ### Using OptiSigns Player (With Device Access)
 
-If you have access to the device, simply open the **Hamburger menu** on the OptiSigns Player and hit **Unpair**.
+If you have access to the device, simply open the **Hamburger menu** on the OptiSigns Player and hit **Unpair**.
 
 ![optisigns player unpair option](https://support.optisigns.com/hc/article_attachments/38483285075347)
 
@@ -56,7 +56,7 @@ There, you can find the Pairing Code inside the data:
 
 Write this pairing code down or copy/paste it and do not lose it, or else you will not be able to perform the next step.
 
-Next, remove the device from the current account by backing out of this menu, clicking the **Three Dots**, then hitting **Remove**:
+Next, remove the device from the current account by backing out of this menu, clicking the **Three Dots**, then hitting **Remove**:
 
 ![web portal remove screen](https://support.optisigns.com/hc/article_attachments/38483257569427)
 

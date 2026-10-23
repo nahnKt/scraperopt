@@ -6,7 +6,9 @@ Last updated: 2025-06-27
 With OptiSigns, you can set up Teams, invite other users / account members and set security levels.  
 Team(like workspace) is built for segregation, all the resources (Screens, Assets, Users etc) in a team are segregated from other teams. Account owner will have access to all the teams, if you need to act as a global administrator and have access to all the teams, you can use the Super Admin role for that purpose.
 
-> **NOTE:** Teams can only be added under the **Pro Plus****plan**or above. Free and Standard plan users can still Add/Invite members to the Default team.
+> **NOTE**
+>
+> Teams can only be added under the **Pro Plus****plan**or above. Free and Standard plan users can still Add/Invite members to the Default team.
 
 This article will guide you through how to work with Teams, and set security for your account.
 
@@ -31,7 +33,7 @@ This article will guide you through how to work with Teams, and set security for
 - [Delete a user](#delete-a-user)
 - [Switch between teams, if user belong to more than 1 team](#switch-between-teams-for-users-belong-to-more-than-1-team)
 
-## **Create/Edit a team, assign quota, limit to the team:**
+## Create/Edit a team, assign quota, limit to the team:
 
 Click on your name on top right for drop down menu, then click Account Members.  
 Then Click Add Team.
@@ -55,7 +57,7 @@ There you can change team's Name, # of screens allocation.
 
 ![mceclip5.png](https://support.optisigns.com/hc/article_attachments/360045401893)
 
-## **Invite members to teams**
+## Invite members to teams
 
 To invite members to teams, click Manage Members.
 
@@ -79,7 +81,7 @@ If user belong to more than 1 team, they can drop down and select to switch and 
 
 ![mceclip10.png](https://support.optisigns.com/hc/article_attachments/360045402113)
 
-## **Set/change member's security level**
+## Set/change member's security level
 
 To change a member's security level/role, just click on the ... next to the member's name, and select change role.
 
@@ -87,7 +89,7 @@ To change a member's security level/role, just click on the ... next to the memb
 
 ![mceclip1.png](https://support.optisigns.com/hc/article_attachments/360045726613)
 
-## **Remove a member from a team**
+## Remove a member from a team
 
 Removing a team member will remove the member from the team, the person can still be member of other team or can be invited to the team again. This is different than delete the team member, which will remove the user from all teams and completely delete from the system.
 
@@ -95,7 +97,7 @@ To remove a member from a team click on the ... next to the team member, and sel
 
 ![mceclip2.png](https://support.optisigns.com/hc/article_attachments/360045728493)
 
-## **Delete a user**
+## Delete a user
 
 Delete a user will remove the user from all teams and completely delete it from the system. This cannot be undone.
 
@@ -103,7 +105,7 @@ To delete a user, click on the ... button next to the user and select Delete Use
 
 ![mceclip3.png](https://support.optisigns.com/hc/article_attachments/360044867014)
 
-## **Switch between teams, for users belong to more than 1 team**
+## Switch between teams, for users belong to more than 1 team
 
 If you belong to more than 1 team, you can switch between teams to manage screens for each team.  
 To do so, simply click on your name on the top right, then in the drop-down click the team name to expand and select the team you want to switch to.

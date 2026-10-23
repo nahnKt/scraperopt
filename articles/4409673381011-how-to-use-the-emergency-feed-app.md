@@ -49,7 +49,7 @@ These are the options, and what they do. Any edits made to these options should 
 - **Name**: Name of your assets. This is for organizational purposes and will not be displayed on your screens.
 - **RSS Feed URL:** The URL of the Emergency RSS feed you wish to display.
 - **Target:** Select Screens or Tags, then choose the proper one.
-- **Status:** Choose between Active and Inactive states for the feed.
+- **Status:** Choose between Active and Inactive states for the feed.
 - **Check RSS Feed Every (seconds):** Set the amount of time in seconds for the app to update the Emergency Feed.
 - **Preview Window:** This shows how your Emergency Feed asset will look when pushed to a screen.
 - **Orientation Options:** Change between Landscape and Portrait orientation for the Preview.
@@ -84,8 +84,8 @@ Click **Advanced** to expand the field and provide a slate of additional options
 - **Title Tag:** Message title from the RSS XML feed. The default is <title> - you can change it if your feed is different
 - **Description Tag**: Message content from the RSS XML feed. The default is <description> - you can change it if your feed is different
 - **Location (Screen Tags):** Some RSS can pass locations tag (i.e. emergency in a certain location only). The default tag is <location> - you can change it if your feed is different
-- **Filter content containing:** Filter content based on specific words in the title or description (i.e. "fire"). If any title or description contains the word "fire" (case insensitive), the app will trigger the screen takeover.
-- **Exclude title containing:** this filter will only apply to the title. You can hide all the old feeds by filtering with specific words in the title. I.E: “All Clear”, so after the emergency is gone, all the feeds before this title will be hidden, then the screen will revert to the original content or just display the new content after that.
+- **Filter content containing:** Filter content based on specific words in the title or description (i.e. "fire"). If any title or description contains the word "fire" (case insensitive), the app will trigger the screen takeover.
+- **Exclude title containing:** this filter will only apply to the title. You can hide all the old feeds by filtering with specific words in the title. I.E: “All Clear”, so after the emergency is gone, all the feeds before this title will be hidden, then the screen will revert to the original content or just display the new content after that.
 
 Click **Save**.
 

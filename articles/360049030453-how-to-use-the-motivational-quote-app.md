@@ -20,20 +20,20 @@ The following window will pop-up and you will need to enter the details and quot
 ![The Motivational Quotes form: Name, Background Type, Selected Playlist, Opacity, Text Color, Quote, Duration](https://support.optisigns.com/hc/article_attachments/55262219536147)
 
 - Name: Name of your Motivational Quote app that you wish to see it labeled as within the OptiSigns platform. This name is internal to you only.
-- Background Type:  The drop-down will show you either Playlist or Single Color
+- Background Type:  The drop-down will show you either Playlist or Single Color
 - Selected Playlist - This allows you to select an playlist of images that you want to appear as backgrounds to the quotes provided. Background Opacity and Text Color also become enabled.
 - Single Color - This allows you to select a single color background based on the default themes provided through OptiSigns. You can select a Theme and Background Color here, as well.
 - Background Opacity: This appears only when Playlist is selected and allows user to customize and optimize the opacity of the background so that the text still stands out effectively.
-- Text Color:  This appears only when a Playlist is selected, or if your Theme is Custom. Its allows you to enter the text color hex codes.
-- Quote:  Free-form text field to allow you to enter the quote and the author of the quote. Additional quotes can be added using the "+ New Quote" button
+- Text Color:  This appears only when a Playlist is selected, or if your Theme is Custom. Its allows you to enter the text color hex codes.
+- Quote:  Free-form text field to allow you to enter the quote and the author of the quote. Additional quotes can be added using the "+ New Quote" button
 - Duration (sec): Enter the duration you'd like to have for each quote to be displayed.
 - Show Date/Time: Enable a center justified date and time to be displayed above the quotes.
 - Shuffle Play: play quotes in random orders.
 
-## **That's all! Congratulations!**
+## That's all! Congratulations!
 
-You have created an instance of the  Motivational Quote app.
+You have created an instance of the  Motivational Quote app.
 
 You can assign it to your screen by going to Screens, click Edit screens and assign the wall directly to a screen or add it to a playlist.
 
-If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
+If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)

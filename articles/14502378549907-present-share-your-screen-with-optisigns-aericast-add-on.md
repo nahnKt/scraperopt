@@ -12,9 +12,9 @@ Or at the bottom strip:
 
 You can click [here](https://support.optisigns.com/hc/en-us/articles/14502723487379) to know how to create the AeriCast Wireless Presentation app
 
-## **Let's jump in and get started:**
+## Let's jump in and get started:
 
-Go to [present.aericast.com](https://present.aericast.com/)(we recommend Chrome or FireFox for best experience).
+Go to [present.aericast.com](https://present.aericast.com/)(we recommend Chrome or FireFox for best experience).
 
 Enter the 4 digit codes
 

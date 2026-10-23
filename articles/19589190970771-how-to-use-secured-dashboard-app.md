@@ -13,7 +13,7 @@ Web Scripting App executes the scripts locally on the device, it is the recommen
 
 Secured Dashboard App will take the same scripts you recorded with the Web Scripting App, put it to execute on a dedicated instance, and return a screenshot of the reports. It can help address all the situations mentioned above and more.
 
-## **Let's jump in and get started:**
+## Let's jump in and get started:
 
 **1. Get the scripts ready**  
 Secured Dashboard uses the same scripts you recorded when you use the Web Scripting App. You can follow the document below and use Burp Suite Navigation Recorder to prepare the scripts and test them on the Web Scripting App.  
@@ -38,6 +38,6 @@ After completing all the settings, you can assign it to the screens, the screens
 
 **Note:** If your reporting systems have firewall rules or using CAPTCHA to block bots, you can contact us to get the IP address that you can use for whitelisting
 
-## **That's all!**
+## That's all!
 
 If you have any additional questions, concerns, or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)

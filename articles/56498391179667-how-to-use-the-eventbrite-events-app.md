@@ -58,7 +58,9 @@ An **Advanced** section is also available with this option:
 
 - **Include unlisted (private link) events** - Check this box to also show events you've set as unlisted on Eventbrite.
 
-> **NOTE:** The Eventbrite account you sign in with needs an organizer profile. If it doesn't have one, you'll see **Couldn't connect Eventbrite**. Set up an organizer profile on eventbrite.com, then try again.
+> **NOTE**
+>
+> The Eventbrite account you sign in with needs an organizer profile. If it doesn't have one, you'll see **Couldn't connect Eventbrite**. Set up an organizer profile on eventbrite.com, then try again.
 
 ### Use Public Events
 
@@ -69,7 +71,9 @@ Click **Use public events**. Fill in the following:
 
 ![Eventbrite Events form with the Name and Eventbrite link fields filled in, and the Display section below](https://support.optisigns.com/hc/article_attachments/56498376547091)
 
-> **NOTE:** Eventbrite has no "events near me" search, so the app shows whatever the link you paste points to.
+> **NOTE**
+>
+> Eventbrite has no "events near me" search, so the app shows whatever the link you paste points to.
 
 ---
 
@@ -122,7 +126,9 @@ Now hit **Save**. You'll have created an Eventbrite Events app, and it will appe
 
 ![New Eventbrite Events asset shown in Files/Assets](https://support.optisigns.com/hc/article_attachments/56498355272595)
 
-> **TIP:** The **Preview** appears once the app is saved. Double-click your Eventbrite Events app in **Files/Assets** to reopen it. Any changes you make there show up right away in the preview.
+> **TIP**
+>
+> The **Preview** appears once the app is saved. Double-click your Eventbrite Events app in **Files/Assets** to reopen it. Any changes you make there show up right away in the preview.
 
 ---
 

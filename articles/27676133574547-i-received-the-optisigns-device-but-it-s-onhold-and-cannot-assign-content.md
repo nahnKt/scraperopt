@@ -10,7 +10,7 @@ You ordered an OptiSigns Android Stick device and:
 - After ordered devices, devices are in OnHold folder and you cannot assign content to it
 - Or after plugging it in, you see screens “Paired” screen or “OnHold screen"
 
-## 
+## ![](https://support.optisigns.com/hc/article_attachments/27982477543955)
 
 ## Reason
 
@@ -32,8 +32,6 @@ Or you can [increase more licenses](https://app.optisigns.com/app/s/subscription
 Open the OnHold Device folder and see if there are any devices listed
 
 ![](https://support.optisigns.com/hc/article_attachments/27676121747987)
-
-## 
 
 Now to move the screen that you want to move outside the Onhold Device folder. Go to the onhold device folder, click on edit on the screen and select Move. This will move the device out of the onhold Device folder.
 

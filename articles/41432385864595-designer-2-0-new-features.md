@@ -101,7 +101,7 @@ Then you can select any of the elements and move them around to change their pos
 
 This new feature allows you to track all your most recent changes to your design.
 
-Careful! Clicking on a previous “event” and starting to make changes to your design will erase any events  created after that specific event.
+Careful! Clicking on a previous “event” and starting to make changes to your design will erase any events  created after that specific event.
 
 To access History:
 
@@ -170,7 +170,7 @@ To remove the background:
 - Wait for the **loading icon** to finish
 - Click **Save**
 
- Afterwards, it will simply disappear!
+ Afterwards, it will simply disappear!
 
 ![bee with loading icon on gray background](https://support.optisigns.com/hc/article_attachments/41432385847955)![Designer screenshot showing how to use background remover function and image of bee on gray background to a bee no background](https://support.optisigns.com/hc/article_attachments/41432385848211)
 
@@ -318,6 +318,6 @@ To add a QR code:
 
 ![Designer screenshot features purple design with orange and white letters and QR code, numbered arrows show how to add QR codes](https://support.optisigns.com/hc/article_attachments/41432408683411)
 
-### **That's all!**
+### That's all!
 
 OptiSigns is the leader in [digital signage software](https://www.optisigns.com/). If you have any additional questions, concerns, or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com).

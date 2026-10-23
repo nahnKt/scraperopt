@@ -8,9 +8,9 @@ Last updated: 2026-10-02
 You can view an example here:  
 ![Example Airtable kanban board embedded on a screen, with Backlog, In progress and Complete columns](https://support.optisigns.com/hc/article_attachments/9392530973331)
 
-## **Let's jump in and get started:**
+## Let's jump in and get started:
 
-First, you will need to have your screens set up and paired. For more information on how to do that, click [here](https://www.optisigns.com/blog/how-to-set-up-digital-signs-with-optisigns-and-amazon-fire-tv).
+First, you will need to have your screens set up and paired. For more information on how to do that, click [here](https://www.optisigns.com/blog/how-to-set-up-digital-signs-with-optisigns-and-amazon-fire-tv).
 
 On the OptiSigns portal, go to **Files/Assets > Apps**, then find the Airtable app.
 
@@ -24,8 +24,8 @@ Enter details for your Airtable:
 - Embed Code: Paste your Embed Code in this field.
 - Update Interval: Default is 600 seconds (10 minutes). This mean the app will refresh the link every 10 mins for any changes in your Airtable. If you have a lot of slides, you may want to change this interval to something longer.
 
-Note: Here is how to get the Embed code from your Airtable.   
-Click "**Share view**" button and click "**<>Embed this viewon your site**"   
+Note: Here is how to get the Embed code from your Airtable.   
+Click "**Share view**" button and click "**<>Embed this viewon your site**"   
 ![Airtable base with the Share view menu open and the Embed this view on your site option highlighted](https://support.optisigns.com/hc/article_attachments/9392485841299)
 
 Then you can edit the width or height in the Embed code. Then Copy and Paste it the OptiSigns' Airtable app.  
@@ -33,7 +33,7 @@ Then you can edit the width or height in the Embed code. Then Copy and Paste it 
 
 Click **Save**.
 
-## **That's all! Congratulations!**
+## That's all! Congratulations!
 
 You have created your Airtable app.  
 You can change it any time by click on it in the Files/Assets tab.

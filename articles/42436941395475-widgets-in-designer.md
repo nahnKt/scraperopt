@@ -29,7 +29,9 @@ The **Widgets** tab can be accessed from the Designer Side Menu:
 
 Widgets are overlaid on top of the design, and ***cannot be layered***.
 
-> **IMPORTANT:** Widgets are ***always*** overlaid on top of the design. This means that ANY other design elements will end up underneath them. If you want to place something on top of a widget, you'll need to create that as a widget (Overlay Image, etc.).
+> **IMPORTANT**
+>
+> Widgets are ***always*** overlaid on top of the design. This means that ANY other design elements will end up underneath them. If you want to place something on top of a widget, you'll need to create that as a widget (Overlay Image, etc.).
 
 Clicking any widget brings up the **Settings** and **Position** options:
 
@@ -95,7 +97,9 @@ Clicking the **Position** option allows you to change the image layering and set
 
 ![video widget format options](https://support.optisigns.com/hc/article_attachments/42459962073747)
 
-> **NOTE:** The Format Options menu may be slightly different depending on the asset - for instance, Canva has a slightly different format.
+> **NOTE**
+>
+> The Format Options menu may be slightly different depending on the asset - for instance, Canva has a slightly different format.
 
 Clicking the **Position** option allows you to change the video layering and set it as a background.
 
@@ -383,7 +387,9 @@ Selecting the Meeting Room widget and clicking **Settings** will let you format 
 
 **Source -** Shows the source of the Meeting Room app. The Room can be manually refreshed here, and the Source itself can be Replaced if needed.
 
-> **NOTE:** The Room can only be selected during the creation of the widget. To change this later, you will have to delete the widget and create a new one.
+> **NOTE**
+>
+> The Room can only be selected during the creation of the widget. To change this later, you will have to delete the widget and create a new one.
 
 **Formats**
 
@@ -430,7 +436,9 @@ To customize a Scrolling Vertical widget, select it, then click **Settings**.
 
 **AeriCast** allows you to insert an AeriCast app into your design for easy video conferencing.
 
-> **NOTE:** To use AeriCast, you'll need an [**AeriCast Add-On**](https://support.optisigns.com/hc/en-us/articles/14502723487379-How-to-use-AeriCast-Add-on-for-Wireless-Presentation-and-Video-Conferencing) for the screen you'll be using it on.
+> **NOTE**
+>
+> To use AeriCast, you'll need an [**AeriCast Add-On**](https://support.optisigns.com/hc/en-us/articles/14502723487379-How-to-use-AeriCast-Add-on-for-Wireless-Presentation-and-Video-Conferencing) for the screen you'll be using it on.
 
 Simply select an existing AeriCast add-on app to place it in the design.
 

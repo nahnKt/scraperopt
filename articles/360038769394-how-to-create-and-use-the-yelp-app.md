@@ -9,15 +9,15 @@ Customer can just scan the QR code and will be taken to your business on Yelp ap
 
 This article will guide you through how to create and use Yelp reviews wall app.
 
-Below is an example screenshot of how it look on your screens, you can view a live example [here](https://social-player.optisigns.com/yelp/?asset_id=Mvpjed2fJcxacZ73y):
+Below is an example screenshot of how it look on your screens, you can view a live example [here](https://social-player.optisigns.com/yelp/?asset_id=Mvpjed2fJcxacZ73y):
 
 ![A Yelp Reviews wall on screen, with customer reviews and a QR code](https://support.optisigns.com/hc/article_attachments/360050794874)
 
-## **Let's jump in and get started:**
+## Let's jump in and get started:
 
-First, you will need to have your screens set up and paired. For more information on how to do that, click [here](https://www.optisigns.com/blog/how-to-set-up-digital-signs-with-optisigns-and-amazon-fire-tv).
+First, you will need to have your screens set up and paired. For more information on how to do that, click [here](https://www.optisigns.com/blog/how-to-set-up-digital-signs-with-optisigns-and-amazon-fire-tv).
 
-Then log on to our portal: <http://app.optisigns.com/>
+Then log on to our portal: <http://app.optisigns.com/>
 
 Go to Files/Assets, Click on "App".
 
@@ -31,10 +31,10 @@ Enter your Yelp Reviews wall information:
 
 ![The Yelp Reviews Wall configuration form, with its Name, Yelp URL, Rating, Theme, Speed and QR Code fields](https://support.optisigns.com/hc/article_attachments/55223975259155)
 
-- Name: Name of your Yelp Reviews Wall, this is the name of the wall in your asset list. It will **not** be displayed on your screens.
-- Yelp URL: Go you yelp.com find your business and copy the URL. For example: <https://www.yelp.com/biz/grinder-s-coffee-bar-houston>
-- Rating: You can choose to only show 5 stars rating, 4+ stars, 3+, or Any Ratings.
-- Theme: Select Light or Dark Theme.
+- Name: Name of your Yelp Reviews Wall, this is the name of the wall in your asset list. It will **not** be displayed on your screens.
+- Yelp URL: Go you yelp.com find your business and copy the URL. For example: <https://www.yelp.com/biz/grinder-s-coffee-bar-houston>
+- Rating: You can choose to only show 5 stars rating, 4+ stars, 3+, or Any Ratings.
+- Theme: Select Light or Dark Theme.
 - Speed: Select how fast you want the wall to scroll or switch between Yelp Reviews posts.
 - QR Code: Choose where you want to take your user then they scan the QR code, default action is to open your business in Yelp app on their phone. You can configure it to be anything, from opening your website to fill out orders, survey forms, etc. More information on how to [create your own QR Code here.](https://support.optisigns.com/hc/en-us/articles/360039264133)
 
@@ -43,7 +43,7 @@ After Saving, you can Preview the wall. It may take several seconds for the app 
 
 ---
 
-## **That's all!**
+## That's all!
 
 You have created your Yelp Review Wall.  
 You can change the wall any time by click on it in the Files/Assets tab.
@@ -52,4 +52,4 @@ You can assign the newly created wall to your screen by going to Screens, click 
 
 You can put the created social walls in a Playlist, Schedule too.
 
-If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
+If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)

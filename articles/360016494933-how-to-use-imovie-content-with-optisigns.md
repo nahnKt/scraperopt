@@ -19,4 +19,4 @@ In the pop-up window "Save exported file as...", after entitling the exported vi
 
 ![movie-to-mpeg-4](https://20629229.fs1.hubspotusercontent-na1.net/hubfs/20629229/movie-to-mpeg-4.jpg)
 
-If you have any additional questions, concerns, or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
+If you have any additional questions, concerns, or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)

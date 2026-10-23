@@ -9,6 +9,8 @@ This can be particularly beneficial if you intend to use the OptiSigns software 
 
 Here is a general video on limiting an iPhone or iPad to one app with Guided Access:
 
+[Embedded content (www.youtube-nocookie.com)](https://www.youtube-nocookie.com/embed/G_O0iq4WwMs)
+
 ## Lockdown app on iPad Settings
 
 Go to **Settings**, select **Accessibility**, then **Guided Access**
@@ -38,8 +40,6 @@ To end **Guided Access**, triple-click the **Power** button or **Home** button e
 
 That's it! Now, the OptiSigns app will be locked on your screen.
 
-|  |
-| --- |
-| **Note:** You can use the normal lock down control to lock the side menu. |
+> **Note:** You can use the normal lock down control to lock the side menu.
 
 If you have any additional questions, concerns, or feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)

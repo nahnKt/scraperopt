@@ -11,13 +11,13 @@ Here's an example:
 
 ![A Currency Exchange wall on screen, showing rates against a USD base](https://support.optisigns.com/hc/article_attachments/360073357234)
 
-## **Let's jump in and get started:**
+## Let's jump in and get started:
 
-First, you will need to have your screens set up and paired. For more information on how to do that, click [here](https://www.optisigns.com/blog/how-to-set-up-digital-signs-with-optisigns-and-amazon-fire-tv).
+First, you will need to have your screens set up and paired. For more information on how to do that, click [here](https://www.optisigns.com/blog/how-to-set-up-digital-signs-with-optisigns-and-amazon-fire-tv).
 
-Then log on to our portal: <http://app.optisigns.com/>
+Then log on to our portal: <http://app.optisigns.com/>
 
-Go to Files/Assets, Click on **Apps**.
+Go to Files/Assets, Click on **Apps**.
 
 ![Files/Assets tab and the Apps button highlighted in the OptiSigns portal](https://support.optisigns.com/hc/article_attachments/55222976600979)
 
@@ -29,18 +29,18 @@ Enter the details needed.
 
 ![The Currency Exchange Wall configuration form, with its Name, Title, Base Currency, Target Currencies, Theme and Speed fields](https://support.optisigns.com/hc/article_attachments/55222987402003)
 
-- Name: Identification of your Currency Wall, this is the name of the wall in your asset list. It will **not** be displayed on your screens.
-- Title:  Displayed Title that will show on screen. It will be above your list of ticker symbols.
+- Name: Identification of your Currency Wall, this is the name of the wall in your asset list. It will **not** be displayed on your screens.
+- Title:  Displayed Title that will show on screen. It will be above your list of ticker symbols.
 - Base Currency: Select the base currency where you want exchange to.
 - Target Currencies: Select list of currencies you want to exchange from.
-- Theme: Light and Dark colored backgrounds
-- Speed: Select Slow, Medium, Fast or Custom refresh rates
+- Theme: Light and Dark colored backgrounds
+- Speed: Select Slow, Medium, Fast or Custom refresh rates
 
-Click **Save**.
+Click **Save**.
 
 After Saving, you can preview the wall. It may take several seconds for the app prepare your wall.
 
-### **That's all!**
+### That's all!
 
 You have created your Currency Exchange Wall.  
 You can change the wall any time by click on it in the Files/Assets tab.

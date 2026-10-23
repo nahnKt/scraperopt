@@ -58,7 +58,9 @@ Zendesk dashboards and views are private, so the screen needs to sign in to Zend
 
 The first time the app plays on a device, the Zendesk sign-in page will display. Connect a keyboard and mouse to the device, then enter the username and password of the Zendesk account the screen should use. After that, the device stays signed in.
 
-> **TIP:** On an Amazon Fire TV Stick, you can type with the [Fire TV app on your phone](https://www.lifewire.com/use-phone-as-remote-control-for-amazon-fire-tv-stick-4571277) or a Bluetooth keyboard instead.
+> **TIP**
+>
+> On an Amazon Fire TV Stick, you can type with the [Fire TV app on your phone](https://www.lifewire.com/use-phone-as-remote-control-for-amazon-fire-tv-stick-4571277) or a Bluetooth keyboard instead.
 
 For more on displaying pages that require a login, see [How to display content inside websites that require login](https://support.optisigns.com/hc/en-us/articles/360037391854-How-to-display-content-inside-websites-that-require-login-).
 

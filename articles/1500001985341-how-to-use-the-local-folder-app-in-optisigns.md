@@ -23,23 +23,21 @@ OptiSigns player is smart enough to scan for changes in these folders. When file
 
 You can also use USB thumb drives. OptiSigns detects drives plugged in and scan the folder to play again as long as it's given the correct path.
 
-|  |
-| --- |
-| **Note:**The Local folder application only currently supports video and image files. |
+> **Note:**The Local folder application only currently supports video and image files.
 
 ---
 
-## **How to Set Up the Local Folder App**
+## How to Set Up the Local Folder App
 
-First, you will need to have your screens set up and paired. For more information on how to do that, click [here](https://www.optisigns.com/blog/how-to-set-up-digital-signs-with-optisigns-and-amazon-fire-tv).
+First, you will need to have your screens set up and paired. For more information on how to do that, click [here](https://www.optisigns.com/blog/how-to-set-up-digital-signs-with-optisigns-and-amazon-fire-tv).
 
-Then log on to our portal: <https://app.optisigns.com/>
+Then log on to our portal: <https://app.optisigns.com/>
 
 Go to **Files/Assets** and click on **"Apps"**:
 
 ![Files/Assets page with a red arrow pointing at the Apps button in the left sidebar](https://support.optisigns.com/hc/article_attachments/55666381491987)
 
-Find the **Local Folder** app:
+Find the **Local Folder** app:
 
 ![Add App dialog searched for Local Folder, red arrow pointing at the Local Folder app tile](https://support.optisigns.com/hc/article_attachments/55666355587603)
 
@@ -47,7 +45,7 @@ Enter your **local folder path** (detailed instructions per platform below) and 
 
 ![Local Folder settings form: Name, Local Folder, transition, duration, scaling and Shuffle fields](https://support.optisigns.com/hc/article_attachments/55666355588627)
 
-- **Name** - Name of your Local Folder app. This will be displayed on your asset list, and will **not** be displayed on your screens.
+- **Name** - Name of your Local Folder app. This will be displayed on your asset list, and will **not** be displayed on your screens.
 - **Local Folder** - Path to the folder on your device. We will provide detailed instructions per platform later in this article.
 - **Transition Effects** - Transition effect between your images and videos in the folder.
 - **Transition Speed** - How fast you want your transitions to animate.
@@ -105,9 +103,7 @@ This will vary depending on the location of the folder on your drive. However, i
 
 ### For OptiStick Digital Signage Player
 
-|  |
-| --- |
-| **IMPORTANT:** To use the Local Folder App on your OptiStick, make sure its firmware version is 5.17.23 or later. |
+> **IMPORTANT:** To use the Local Folder App on your OptiStick, make sure its firmware version is 5.17.23 or later.
 
 To use the Local Folder app on an [OptiStick](https://shop.optisigns.com/products/optisigns-android-stick-player-2), first install whatever you'd like to display on a USB drive or MicroSD. Attach the device to your Android stick, then navigate using a [Remote Control](https://support.optisigns.com/hc/en-us/articles/30304278652563-How-to-Use-the-Mobile-App-for-Remote-Control) to **Device Storage** on the side menu:
 
@@ -147,6 +143,6 @@ Examples (Assuming 3 USB drives named USB1, USB2, USB3, and an SD card named SDC
 | 3 USBs Connected | /home/optisigns/external/USB1-sdb1  /home/optisigns/external/USB2-sdc1  /home/optisigns/external/USB3-sdd1 | /home/optisigns/external/USB1-sda1  /home/optisigns/external/USB2-sdb1  /home/optisigns/external/USB3-sdc1 |
 | SD card connectd | /home/optisigns/external/SDCARD-mmcblk0p1 |
 
-### **That's all!**
+### That's all!
 
-If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com).
+If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com).

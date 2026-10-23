@@ -5,10 +5,9 @@ Last updated: 2025-06-06
 
 ### Transform your catalogs of products or library of videos and documents into an interactive kiosk within minutes! This step-by-step guide will help you get your Content Library Kiosk set up in no time.
 
-|  |
-| --- |
-| Use Case |
-| An art gallery has digitally organized all their artwork images and videos into categorized folders for easy access. The goal is to convert these assets into an interactive kiosk. Visitors to the gallery can use the kiosk to click on images, viewing each piece of artwork in detail. The system enhances their experience by allowing them to visualize how each artwork would look in different settings, such as a living room, with the help of images showing the art in various staged environments. This interactive kiosk aims to make the art selection process more immersive and personalized, enriching the visitor's engagement and understanding of the art on display. |
+> **Use Case**
+>
+> An art gallery has digitally organized all their artwork images and videos into categorized folders for easy access. The goal is to convert these assets into an interactive kiosk. Visitors to the gallery can use the kiosk to click on images, viewing each piece of artwork in detail. The system enhances their experience by allowing them to visualize how each artwork would look in different settings, such as a living room, with the help of images showing the art in various staged environments. This interactive kiosk aims to make the art selection process more immersive and personalized, enriching the visitor's engagement and understanding of the art on display.
 
 **In this article**
 
@@ -18,6 +17,8 @@ Last updated: 2025-06-06
 4. [Quick Tip: Adding a Header to Individual Files](#thats-all-its-just-that-simple)
 
 ## OptiSigns Introduction and Tutorial Video
+
+[Embedded content (www.youtube-nocookie.com)](https://www.youtube-nocookie.com/embed/4w4SchZCq18)
 
 ## What is a Content Library Kiosk?
 
@@ -35,9 +36,11 @@ Here is a live example of a Content Library Kiosk:
 
 In this article, we'll show you how to create a Content Library Kiosk that turns waiting times into engaging, fun experiences, enhancing service quality.
 
-> **NOTE:** Content Library Kiosks can only be created by subscribers on an **Engage** plan or above.
+> **NOTE**
+>
+> Content Library Kiosks can only be created by subscribers on an **Engage** plan or above.
 
-## **Creating a Content Library Kiosk**
+## Creating a Content Library Kiosk
 
 Before you can create the Content Library Kiosk app, you must first establish a content library. This library should be organized or prepared on our Files/Asset page, as specifying the Root folder is a required step.
 
@@ -76,7 +79,7 @@ On the **Build** page, you will have several key features that you can customize
 - **Close Icon Location** - Location of where you would like the Close (X) icon to display on your kiosk screen; choose 'None' if you do not want the close icon to display.
 - **Theme:** The visual style applied to the kiosk interface.
 - **Font Size:** Specify the size of the text within the interface; set to Default
-- **Font  Family**: The chosen typeface for text elements.
+- **Font  Family**: The chosen typeface for text elements.
 
 **Advanced Settings**:
 
@@ -103,7 +106,9 @@ When you have signed your Screens, click **Complete**.
 
 ![](https://support.optisigns.com/hc/article_attachments/23696476280083)
 
-> **NOTE:** The Content Library Kiosk feature is limited to **4 layers** of depth. As such, we do not recommend attempting to make kiosks of 5 layers or greater.
+> **NOTE**
+>
+> The Content Library Kiosk feature is limited to **4 layers** of depth. As such, we do not recommend attempting to make kiosks of 5 layers or greater.
 
 ## Quick Tip: Adding a Header to Individual Files
 
@@ -123,6 +128,6 @@ This description will appear on the kiosk screen to describe the list of individ
 
 ![](https://support.optisigns.com/hc/article_attachments/23697239712019)
 
-## **That's all! It's just that simple!**
+## That's all! It's just that simple!
 
 If you have any additional questions, concerns or feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)

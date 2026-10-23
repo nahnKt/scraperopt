@@ -28,7 +28,9 @@ Use it to send the weekly KPI dashboard to leadership every Monday morning, post
 - An **account admin** role - Owner, Admin or Super Admin.
 - At least one asset worth capturing. This is usually a BI dashboard such as Power BI, Tableau, Grafana or Looker Studio, but can be anything you wish.
 
-> **NOTE:** If you have just upgraded your plan, Broadcast can take up to 15 minutes to appear. Signing out and back in applies it immediately.
+> **NOTE**
+>
+> If you have just upgraded your plan, Broadcast can take up to 15 minutes to appear. Signing out and back in applies it immediately.
 
 ---
 
@@ -69,7 +71,9 @@ Under **Send to**, select a destination icon. For more information on these, see
 
 Next to **Selected assets**, select **Change** and choose one or more assets.
 
-> **NOTE:** Broadcast captures a single still image, so only content that renders as one is offered. Video, audio, live streams, split screens, folders, kiosk and Engage content are not in the picker. Dashboards, clocks, tickers, calendars, news and social assets are. Screens themselves cannot be broadcast - pick the asset the screen plays instead.
+> **NOTE**
+>
+> Broadcast captures a single still image, so only content that renders as one is offered. Video, audio, live streams, split screens, folders, kiosk and Engage content are not in the picker. Dashboards, clocks, tickers, calendars, news and social assets are. Screens themselves cannot be broadcast - pick the asset the screen plays instead.
 
 When you select more than one asset, a **Delivery mode** option appears:
 
@@ -126,33 +130,35 @@ A run can also succeed partially - the history shows how many of the selected as
 
 The **Snapshots** tab is the archive of every snapshot taken for your account. Search it, or filter by date, broadcast, destination and status, then download or delete snapshots - individually or in bulk. Runs you triggered yourself are tagged **Manual**.
 
-> **IMPORTANT:** Snapshots are kept for **30 days**. Download links - including the links inside delivered messages - expire after **7 days**. Save anything you need to keep.
+> **IMPORTANT**
+>
+> Snapshots are kept for **30 days**. Download links - including the links inside delivered messages - expire after **7 days**. Save anything you need to keep.
 
 ---
 
 ## Troubleshooting and FAQs
 
-#### **A destination says "Needs setup"**
+#### A destination says "Needs setup"
 
 A required field is empty or invalid. Teams and webhook URLs must start with `https://`; email recipients must be valid addresses separated by `;`.
 
-#### **Nothing arrived.**
+#### Nothing arrived.
 
 Open **View run history** for that broadcast. It shows whether the snapshot was captured and which destination failed, with the error returned by the receiving service. Fix the destination, then use **Retry** on the failed delivery, or **Run now**.
 
-#### **Run now is greyed out.**
+#### Run now is greyed out.
 
 A run is already queued or capturing for that broadcast. Only one run at a time is allowed - wait for it to finish.
 
-#### **The Teams card never appeared.**
+#### The Teams card never appeared.
 
 Check that the Teams workflow is still **On** and that its owner still has access to the channel. See the Teams article above.
 
-#### **I can't find Broadcast.**
+#### I can't find Broadcast.
 
 Broadcast needs an account admin on the Pro Plus, Engage or Enterprise plan. If you have just upgraded, allow up to 15 minutes or sign out and back in.
 
-#### **The asset I want isn't in the picker.**
+#### The asset I want isn't in the picker.
 
 Broadcast captures a single still image, so video, audio, live streams, split screens and kiosk content are excluded by design. Screens cannot be broadcast - choose the asset the screen plays.
 

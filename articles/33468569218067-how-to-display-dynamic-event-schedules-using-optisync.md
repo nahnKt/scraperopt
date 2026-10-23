@@ -19,25 +19,23 @@ Providing updated daily, weekly, or monthly event schedules for conventions, tra
 
 In this guide, we’ll give very high level instructions on how to make several types of event schedules: daily, weekly, and monthly. This will not be an exhaustive guide on every possible way to format your spreadsheets for uploading into OptiSigns, or how to provide data for your API for uploading into OptiSigns. If you’d like a more comprehensive guide on how to input data into OptiSigns, see our [Dynamic Data mapping guide](https://support.optisigns.com/hc/en-us/articles/29217646663187-How-to-Set-Up-Dynamic-Data-Mapping-with-OptiSync).
 
-|  |
-| --- |
-| **NOTE:** OptiSync and dynamic data mapping are exclusive to **Pro Plus** plans and above. |
+> **NOTE:** OptiSync and dynamic data mapping are exclusive to **Pro Plus** plans and above.
 
 ---
 
 ## Examples of Some Event Schedules Made with OptiSync
 
-#### **Daily:**
+#### Daily:
 
 **![example of a daily event schedule created using optisync](https://support.optisigns.com/hc/article_attachments/33492511435411)**
 
-#### **Weekly:**
+#### Weekly:
 
 **![example of a weekly event schedule created using optisync](https://support.optisigns.com/hc/article_attachments/33468569053459)**
 
-#### **Monthly:**example of a weekly event schedule created using optisync
+#### Monthly: ![example of a weekly event schedule created using optisync](https://support.optisigns.com/hc/article_attachments/33468600300819)
 
-#### **Split Screen:**
+#### Split Screen:
 
 **![example of split screen event schedule created using optisync](https://support.optisigns.com/hc/article_attachments/33468759684755)**
 
@@ -92,9 +90,7 @@ In the “Event Over?” column, put this formula:
 =IF(B2<=NOW(),"Yes","No")
 ```
 
-|  |
-| --- |
-| **NOTE:** This formula will only work if both the Date and Time are present in the Event Time cell. The “B2” part should match the actual event time, i.e. B3 for Zumba in the Example. |
+> **NOTE:** This formula will only work if both the Date and Time are present in the Event Time cell. The “B2” part should match the actual event time, i.e. B3 for Zumba in the Example.
 
 B2 is your reference value, which maps up with the event time. This formula will work regardless of whether or not the current date is referenced in the “Event Time” column.
 

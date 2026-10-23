@@ -5,7 +5,9 @@ Last updated: 2026-09-21
 
 ### In this article, we go over the Advanced Features of the new Gen 3 OptiSigns Pro Player.
 
-> **IMPORTANT:** This article applies strictly to the *OptiSigns Gen 3 Pro Player or ProMax Player* on version **5.6.33** or later.
+> **IMPORTANT**
+>
+> This article applies strictly to the *OptiSigns Gen 3 Pro Player or ProMax Player* on version **5.6.33** or later.
 
 - [OTA Updates](#ota-updates)
   - [Forcing an OTA Update](#how-to-force-an-ota-update)
@@ -20,7 +22,9 @@ The [**OptiSigns Pro Digital Signage Player**](https://shop.optisigns.com/collec
 
 But there’s even more to the [**Pro Player than its standard features**](https://support.optisigns.com/hc/en-us/articles/32272215514131-Optisigns-Pro-Digital-Signage-Player), and here we’ll explain the device’s Advanced features.
 
-> **NOTE:** If you do not see all the options listed below, we recommend performing an **OTA Update** to ensure you have the latest version of the Pro Player software. This is covered later in the article.
+> **NOTE**
+>
+> If you do not see all the options listed below, we recommend performing an **OTA Update** to ensure you have the latest version of the Pro Player software. This is covered later in the article.
 
 ---
 
@@ -72,9 +76,7 @@ Target the screen you’ve paired with your OptiSigns Pro Player, then enter the
 
 This means the OptiSigns Pro Player has received the command and executed it. It should now be receiving its update.
 
-|  |
-| --- |
-| **NOTE:** In order for your OptiSigns Pro Player to receive commands, it will need to be connected to the Internet. |
+> **NOTE:** In order for your OptiSigns Pro Player to receive commands, it will need to be connected to the Internet.
 
 ---
 
@@ -136,9 +138,7 @@ The OptiSigns Pro Player has a console you can use to input commands directly. T
 
 Remote Command Execution is disabled by default. To use it, it will need to be turned on. To do this, navigate to [the Preferences section](https://app.optisigns.com/app/s/preference-settings) in the OptiSigns portal.
 
-|  |
-| --- |
-| For security reasons, **only the account owner or Super Admin** can enable or disable Remote Command Execution. |
+> For security reasons, **only the account owner or Super Admin** can enable or disable Remote Command Execution.
 
 [![Preferences, General section, with Enable Remote Command ticked and highlighted](https://support.optisigns.com/hc/article_attachments/55627986425491)](https://support.optisigns.com/hc/article_attachments/45161221791635)
 
@@ -182,7 +182,7 @@ SSH optisigns@<ip-address-here> -p <port-number-here>
 
 When it asks for a password, type **optisigns**. This should connect you to the device via SSH.
 
-To change the default password (which we ***highly recommend***), type:
+To change the default password (which we ***highly recommend***), type:
 
 ```
 passwd
@@ -192,7 +192,9 @@ This will ask you to type the current password, then new, then to type in the ne
 
 ![Terminal running passwd, prompting for the current password then a new one twice](https://support.optisigns.com/hc/article_attachments/41021980486931)
 
-> **NOTE:** Restarting the OptiSigns Pro Player will cause SSH to automatically disable for security purposes.
+> **NOTE**
+>
+> Restarting the OptiSigns Pro Player will cause SSH to automatically disable for security purposes.
 
 That's it! You should be able to use the SSH function now.
 
@@ -212,7 +214,9 @@ Here, you have several additional options. Hit **Factory Reset**. You’ll recei
 
 You’ll need to enter your **admin password.**
 
-> **NOTE:** As you enter the password, no symbols will display. Rest assured, however, that the device is registering your keystrokes.
+> **NOTE**
+>
+> As you enter the password, no symbols will display. Rest assured, however, that the device is registering your keystrokes.
 
 Once entered, you’ll see a screen like this:
 
@@ -220,6 +224,6 @@ Once entered, you’ll see a screen like this:
 
 Afterwards, your factory defaults will be restored.
 
-### **That’s all!**
+### That’s all!
 
 OptiSigns is a leader in [digital signage software](https://www.optisigns.com/). If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com).

@@ -32,7 +32,9 @@ First, open the Jira project board or dashboard you want to display. Copy its ad
 
 ![Jira board open in a browser, with the board URL in the address bar highlighted](https://support.optisigns.com/hc/article_attachments/56388477303571)
 
-> **NOTE:** The URL must be a Jira Cloud link, such as https://yourcompany.atlassian.net/jira/…. Any other address shows **Please enter a valid Atlassian JIRA URL** and you won't be able to save.
+> **NOTE**
+>
+> The URL must be a Jira Cloud link, such as https://yourcompany.atlassian.net/jira/…. Any other address shows **Please enter a valid Atlassian JIRA URL** and you won't be able to save.
 
 Next, go to the OptiSigns portal. Go to **Files/Assets** and select **Apps**.
 
@@ -70,7 +72,7 @@ Most Jira boards and dashboards are private, so OptiSigns needs to sign in to sh
 
 The first time the app plays on a device, Jira may email a verification code to that account. Connect a keyboard and mouse to the device to enter it. After that, Jira remembers the device.
 
-> **NOTE:**
+> **NOTE**
 >
 > If a dashboard displays empty, check its sharing settings in Jira. A dashboard shared publicly can skip the sign-in step and come up blank. Making it private lets OptiSigns sign in and load it.
 >

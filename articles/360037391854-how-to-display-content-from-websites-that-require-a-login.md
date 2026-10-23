@@ -103,7 +103,9 @@ The Web Scripting app settings will open. Paste your recorded steps into **Recor
 
 To record your steps and fill in each field, follow our guide: [How to use the Web Scripting App](https://support.optisigns.com/hc/en-us/articles/1500012522362).
 
-> **NOTE:** Web Scripting isn't supported on Samsung SSSP smart TVs, LG webOS smart TVs or Apple TV devices.
+> **NOTE**
+>
+> Web Scripting isn't supported on Samsung SSSP smart TVs, LG webOS smart TVs or Apple TV devices.
 
 ---
 
@@ -135,7 +137,9 @@ https://username:password@www.example.com/
 
 **For example: https://guest:guest@jigsaw.w3.org/HTTP/Basic/**
 
-> **NOTE:** Anyone who can view the asset in your OptiSigns account can see the password in the URL. If that's a concern, use Web Scripting instead.
+> **NOTE**
+>
+> Anyone who can view the asset in your OptiSigns account can see the password in the URL. If that's a concern, use Web Scripting instead.
 
 ---
 

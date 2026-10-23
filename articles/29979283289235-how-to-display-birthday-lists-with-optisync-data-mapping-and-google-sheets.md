@@ -16,15 +16,15 @@ To set up your birthday list with OptiSync, follow these steps:
 4. [Set Up Auto Sorting in Your Sheet](#set-up-auto-sorting-in-your-sheet)
 5. [Push Designs to Screen](#set-up-auto-sorting-in-your-sheet)
 
-|  |
-| --- |
-| Note: OptiSync, a dynamic data mapping feature, is exclusive to Pro Plus and above plans. |
+> #### Note: OptiSync, a dynamic data mapping feature, is exclusive to Pro Plus and above plans.
 
 ---
 
-## **Setting up a Birthday List with OptiSync**
+## Setting up a Birthday List with OptiSync
 
 For an in-depth instructional video on how to dynamically map a birthday list to your screens using OptiSigns, please watch the below guide:
+
+[Embedded content (www.youtube.com)](https://www.youtube.com/embed/6Ge1GovzLGs?si=m6oixdLtX15EJsh4)
 
 1. Access your account by navigating to [OptiSigns](https://app.optisigns.com/) and log in
 2. Proceed by adding your DataSource either through designer or your account settings under **DataSource**.
@@ -33,16 +33,14 @@ For an in-depth instructional video on how to dynamically map a birthday list to
 
 ![](https://i.imgur.com/x3utMb2.png)
 
-|  |
-| --- |
-| Note: While this functionality is **not exclusive** to Google Sheets, it will be the primary data source used for demonstration purposes in our examples. |
+> Note: While this functionality is **not exclusive** to Google Sheets, it will be the primary data source used for demonstration purposes in our examples.
 
 ### Option 1: Create a Repeater from Scratch
 
 If none of the Repeater designs resonate with the design you are trying to accomplish, you can create your own design within the repeater itself from scratch. Here's how:
 
-1. Open the **Designer app**
-2. Go to **DataSource** →
+1. Open the **Designer app**
+2. Go to **DataSource** →
    Select your custom DataSource → Expand "**Row 1**".
 3. **Drag** **and** **drop** the
    information you want displayed on the Repeater.
@@ -50,7 +48,9 @@ If none of the Repeater designs resonate with the design you are trying to accom
 5. Customize your Repeater's design.
 6. Once the customization is complete press "**Update to Save**".
 
-After creating it, feel free to add the repeater to any template design,  create your own design or upload one of your choosing.
+   [Embedded content (www.canva.com)](https://www.canva.com/design/DAGHR6E4VRs/zBax4Wv1Ri94WCUjt3yBfg/view?embed)
+
+After creating it, feel free to add the repeater to any template design,  create your own design or upload one of your choosing.
 
 ### Option 2: Full Repeater Template
 
@@ -64,6 +64,8 @@ Once your data source is added, it's time to create your design using the Design
    6. Click **Continue**.
    7. Double-click the Repeater item to open it → open the **Data Source** on the left.
    8. Drag the employee name over the text box to populate it.
+
+[Embedded content (www.canva.com)](https://www.canva.com/design/DAGHM_hmmtI/duIm2MOnXdumtx8ZxbhW4A/view?embed)
 
 ### Option 3: Repeater Component
 
@@ -79,6 +81,8 @@ Here's how to set up a repeater component:
 6. Double-click the **Repeater** to open it → **open the Data Source** on the left.
 7. Drag your desired row *(i.e., **employee name**)* over the text box to populate it → Click **Update** to save.
 
+[Embedded content (www.canva.com)](https://www.canva.com/design/DAGHXgdXgzQ/fyi4k_b5X0ix8LVAgXqukg/view?embed)
+
 ---
 
 ## How to Auto-Update Values
@@ -87,9 +91,7 @@ To update the cell value mapped on the template, create another sheet for your e
 
 ![](https://support.optisigns.com/hc/article_attachments/31245544060179)
 
-|  |
-| --- |
-| Here is a sample [**link**](https://docs.google.com/spreadsheets/d/1A0apt1hrrz3XNujVj6gWjd0tDz_H2XUf4LFFx6Dqg6Q/edit?usp=sharing) to a Birthday list in Google Sheets. To use: Make a copy of it so that you can modify and adapt according to your specific requirements and preferences. |
+> Here is a sample [**link**](https://docs.google.com/spreadsheets/d/1A0apt1hrrz3XNujVj6gWjd0tDz_H2XUf4LFFx6Dqg6Q/edit?usp=sharing) to a Birthday list in Google Sheets. To use: Make a copy of it so that you can modify and adapt according to your specific requirements and preferences.
 
 Within the settings of your Google Sheet, please ensure Recalculation is on (e.g., On change and every hour/minute), otherwise the formula won't recalculate.
 
@@ -119,11 +121,9 @@ Let's say you're playing this design as a single asset or running it like a slid
 
 #### When handling large quantities of data in your spreadsheet, the ability to auto sort is incredibly useful and at times, essential. Instead of manually rearranging your data every time you add or update entries, the SORT function does it for you automatically.
 
-|  |
-| --- |
-| **Note:** If you're using the example spreadsheet we provided above, there are specific instructions in that Google Sheet on how to set up auto-sorting for that data set-up. Please read the "**Tips**" section. If you're not using that spreadsheet, you can follow the example below to help you understand sorting. |
+> **Note:** If you're using the example spreadsheet we provided above, there are specific instructions in that Google Sheet on how to set up auto-sorting for that data set-up. Please read the "**Tips**" section. If you're not using that spreadsheet, you can follow the example below to help you understand sorting.
 
-#### **Example: Auto-Sorting a Birthday List**
+#### Example: Auto-Sorting a Birthday List
 
 Imagine you have a list of employees and their birthdates. You want to keep this list sorted by the upcoming birthdays, and if two employees share the same birthdate, you want to sort their names alphabetically.
 
@@ -167,7 +167,7 @@ The formula will immediately sort the data and display the results starting from
      1. **true**: This indicates that names should also be sorted in ***ascending*** order.
      2. **false**: This indicates that names should also be sorted in ***descending*** order.
 
-### **Sorted Table:**
+### Sorted Table:
 
 After applying the formula, your sorted list would look like this:
 

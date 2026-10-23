@@ -25,13 +25,15 @@ Last updated: 2026-10-16
 
 To use the Mobile Admin App, first you'll need to acquire it.
 
-You can find the **OptiSigns Admin**app on the [**Google Play**](https://play.google.com/store/apps/details?id=com.optisigns.controller&hl=en_US)store or [**Apple App Store**](https://apps.apple.com/us/app/optisigns-admin/id1574826252). Download and install it on your mobile device of choice, then proceed with the rest of this guide. You can also download it by scanning the QR code on the WiFi screen of your device.
+You can find the **OptiSigns Admin**app on the [**Google Play**](https://play.google.com/store/apps/details?id=com.optisigns.controller&hl=en_US)store or [**Apple App Store**](https://apps.apple.com/us/app/optisigns-admin/id1574826252). Download and install it on your mobile device of choice, then proceed with the rest of this guide. You can also download it by scanning the QR code on the WiFi screen of your device.
 
 ---
 
 ## 2. Setting Up WiFi
 
-> **NOTE:** WiFi setup and remote control features are only available for the [OptiSigns Android Player](https://www.amazon.com/OptiSigns-Android-Digital-Signage-Player/dp/B09LRF5KCJ?crid=2Z7ZDMBDCEXP4&dib=eyJ2IjoiMSJ9.SAxJnND3CWll_6sztko0G3JhAbdeZr4zxuWJdv3keNVGPGdxF6sW9fstWZNzXwHPn-B4dtJb2plmw95cI-3xl4o7NlbbYxLhYoR9APW6iAo.rQXaF-yYNN_pBcqtjb3Rn_JV89h0KaFRRdilW1nlUA8&dib_tag=se&keywords=OptiSigns+Android+Player&qid=1747841378&sprefix=optisigns+android+player%2Caps%2C109&sr=8-1), [Pro Player](https://www.amazon.com/OptiSigns-Pro-Digital-Signage-Player/dp/B0DXX7YS7M?crid=2H2DNQPEDIAP1&dib=eyJ2IjoiMSJ9.YdGPuMqNiZdZ9H4sJGaqPl6JzhSMQDygxic-QANvAK9fjmnI4_VsPcZ5o87R3dqB.JsG-mg76oPdLAiW8T0cRBS4zhiDkQ2bjxsydxGbRmO0&dib_tag=se&keywords=OptiSigns+Pro+Player&qid=1747841413&sprefix=optisigns+pro+player%2Caps%2C162&sr=8-1), or [ProMax Player](https://shop.optisigns.com/products/optisigns-promax-signage-player). An internet connection is required for the initial setup of the OptiSigns Digital Signage app.
+> **NOTE**
+>
+> WiFi setup and remote control features are only available for the [OptiSigns Android Player](https://www.amazon.com/OptiSigns-Android-Digital-Signage-Player/dp/B09LRF5KCJ?crid=2Z7ZDMBDCEXP4&dib=eyJ2IjoiMSJ9.SAxJnND3CWll_6sztko0G3JhAbdeZr4zxuWJdv3keNVGPGdxF6sW9fstWZNzXwHPn-B4dtJb2plmw95cI-3xl4o7NlbbYxLhYoR9APW6iAo.rQXaF-yYNN_pBcqtjb3Rn_JV89h0KaFRRdilW1nlUA8&dib_tag=se&keywords=OptiSigns+Android+Player&qid=1747841378&sprefix=optisigns+android+player%2Caps%2C109&sr=8-1), [Pro Player](https://www.amazon.com/OptiSigns-Pro-Digital-Signage-Player/dp/B0DXX7YS7M?crid=2H2DNQPEDIAP1&dib=eyJ2IjoiMSJ9.YdGPuMqNiZdZ9H4sJGaqPl6JzhSMQDygxic-QANvAK9fjmnI4_VsPcZ5o87R3dqB.JsG-mg76oPdLAiW8T0cRBS4zhiDkQ2bjxsydxGbRmO0&dib_tag=se&keywords=OptiSigns+Pro+Player&qid=1747841413&sprefix=optisigns+pro+player%2Caps%2C162&sr=8-1), or [ProMax Player](https://shop.optisigns.com/products/optisigns-promax-signage-player). An internet connection is required for the initial setup of the OptiSigns Digital Signage app.
 
 ### Steps to Set Up WiFi:
 
@@ -42,7 +44,9 @@ You can find the **OptiSigns Admin**app on the [**Google Play**](https://play.
 - Launch the OptiSigns Admin App → **Log in** to your account.
 - Tap the **me****nu** button in the top left corner.
 - Select "**Setup WiFi" →** Then, click **"Continue"**
-- Choose the device you want to configure. (Typically named **OptiSigns\_Player** unless renamed.)
+- Choose the device you want to configure. (Typically named **OptiSigns_Player** unless renamed.)
+
+[Embedded content (www.canva.com)](https://www.canva.com/design/DAGkEJUPO58/Cw_u3Sr8ZOGjugeEK1C8LA/view?embed)
 
 - Once connected, the screen will show "**Connected to OptiSigns Admin**".
 
@@ -66,9 +70,13 @@ Once connected to the internet, your OptiSigns Android Player is ready for pairi
 
 ![](https://support.optisigns.com/hc/article_attachments/30051697778067)
 
+[Embedded content (www.canva.com)](https://www.canva.com/design/DAGHSnjaLvI/0llRVsQa_nhUJlkGmBdKtQ/view?embed)
+
 For detailed instructions on each setting up and adding a screen, please visit [**this article.**](https://support.optisigns.com/hc/en-us/articles/360016374813)
 
-> **NOTE:** The Screen section on the OptiSigns Mobile App has some limitations. It cannot preview content before displaying it, and it doesn't have the scheduling features available in the web version.
+> **Note:**
+>
+> The Screen section on the OptiSigns Mobile App has some limitations. It cannot preview content before displaying it, and it doesn't have the scheduling features available in the web version.
 
 ---
 
@@ -78,7 +86,9 @@ Manage all screens paired with your account easily from the mobile app.
 
 #### Steps to Manage Your Screens:
 
-Tap the **Screen** **icon** on the bottom left navigation bar → Tap the **3** **Dots icon** →  Select **Edit, Move,** or **Delete**
+Tap the **Screen** **icon** on the bottom left navigation bar → Tap the **3** **Dots icon** →  Select **Edit, Move,** or **Delete**
+
+[Embedded content (www.canva.com)](https://www.canva.com/design/DAGHSPNQv0w/ps5qqNAwnNjspOZ2ahUIcA/view?embed)
 
 - **View the status** (Online/Offline) of all paired screens on the main screen.
 - **Edit a screen:**
@@ -98,6 +108,8 @@ In the Media section, you can upload and manage files, videos, and images from y
 You can access the Media Section by tapping the **icon directly to the left of the home icon,** as shown in the screenshot below.
 
 ### 5.1 Finding and Uploading Assets Efficiently
+
+[Embedded content (www.canva.com)](https://www.canva.com/design/DAGHSwd4eaA/dnWwl7bL_9dmTR6UUa9Xkw/view?embed)
 
 - Use the **search bar** to filter your assets.
 - **List/Box Square icon -** change asset view preferences to display as a list or small icons.
@@ -132,9 +144,7 @@ In the **Screen** **Section**, tap the **Edit** **Screen** option. From there, y
 
 For detailed instructions on the Advanced and More Settings option, please follow [this link.](https://support.optisigns.com/hc/en-us/articles/360048914673)
 
-|  |
-| --- |
-| **Note:** This feature is exclusively available on OptiSigns Android Player. Simply ensure Bluetooth is enabled on your phone to activate this feature. |
+> **Note:** This feature is exclusively available on OptiSigns Android Player. Simply ensure Bluetooth is enabled on your phone to activate this feature.
 
 #### Limitation
 
@@ -142,7 +152,9 @@ While you can upload and view all assets, creating various apps (Social Media, W
 
 ### 5.3 Changing Displayed Content from Edit Screen
 
-Navigate to the **Screens**tab → **Edit**the desired screen → choose "**Type**" and assign your desired asset/playlist/schedule
+Navigate to the **Screens**tab → **Edit**the desired screen → choose "**Type**" and assign your desired asset/playlist/schedule
+
+[Embedded content (www.canva.com)](https://www.canva.com/design/DAGKWMMyO0U/GjZxtK7ux5jbDDXqgkef7Q/view?embed)
 
 ---
 
@@ -158,17 +170,19 @@ Please tap the **3 Dot icon**, located to the right of the home button.
 - **Select option**: select and manage multiple Playlists at once.
 - **Green Plus Icon** to add new assets or create a Nested Playlist
   - **Asset**: add new assets to the Playlist.
-  - **Playlist**: add a new playlist to the Playlist. For more information about Nested Playlists, please follow [this link](https://support.optisigns.com/hc/en-us/articles/360043621953).
+  - **Playlist**: add a new playlist to the Playlist. For more information about Nested Playlists, please follow [this link](https://support.optisigns.com/hc/en-us/articles/360043621953).
 - **Pencil icon:** change the duration of assets within the Playlist.
   - **Select option**: select and change multiple assets duration at once.
 - **Delete:** Swipe left to delete an asset from the Playlist.
 - **Hold and move assets:** to arrange the order in the Playlist.
 - **Playlist color:** change the playlist color for better organization.
 - **3 Dots icon**: This will allow you to manage the Playlist.
-  - **Options:** for more Advanced settings. To understand the function of each setting option in the Playlist Settings, please follow [this article.](https://support.optisigns.com/hc/en-us/articles/28295074995859)
+  - **Options:** for more Advanced settings. To understand the function of each setting option in the Playlist Settings, please follow [this article.](https://support.optisigns.com/hc/en-us/articles/28295074995859)
   - **Move**
   - **Duplicate**
   - **Delete**
+
+[Embedded content (www.canva.com)](https://www.canva.com/design/DAGHXHwp9jk/PYI-RtWmc4nBybyw0zC-iA/view?embed)
 
 #### To display a Playlist:
 
@@ -210,6 +224,8 @@ A scanning window will appear and quickly connect to your device, then you'll be
 We recommend using this method as it is the fastest and easiest way to connect and use the remote control feature on your OptiSigns Admin Mobile app. However, please note that this option is available only if the screen is already paired with your account.
 
 For more detailed instructions, see [How to use the Mobile App for Remote Control.](https://support.optisigns.com/hc/en-us/articles/30304278652563-How-to-Use-the-Mobile-App-for-Remote-Control)
+
+[Embedded content (www.canva.com)](https://www.canva.com/design/DAGHYbDBHfE/LxDFY9Patp9SlOUYykOKCw/view?embed)
 
 ## That's it!
 

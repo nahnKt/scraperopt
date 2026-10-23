@@ -30,4 +30,4 @@ With the playback control, you can pause/play the playlist, advance to the next 
 
 **That's it!** Now you know how to control playlist playback with OptiSigns.
 
-If you have any additional questions or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
+If you have any additional questions or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)

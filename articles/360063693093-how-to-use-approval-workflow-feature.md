@@ -16,7 +16,7 @@ With OptiSigns Pro or Enterprise Plan, you can set up Approval Workflow so that 
 - John the Proposer - who will add some content to a playlist and submit for approval
 - Jane the Approver - who will review the changes made by John and approve it
 
-## **Let's jump in and get started:**
+## Let's jump in and get started:
 
 First go to [Account Member page](https://beta.optisigns.com/app/s/account-members) and add John with Content Proposal role and Jane with Content Approval role.
 
@@ -36,7 +36,7 @@ Once added you will have 2 users like below.
 
 ![mceclip0.png](https://support.optisigns.com/hc/article_attachments/360102331574)
 
-### **Log in as John the Proposer and make some changes to a playlist**
+### Log in as John the Proposer and make some changes to a playlist
 
 You will see there's even an A|B view to compare Original vs Proposed.
 
@@ -52,7 +52,7 @@ After proposal submitted, John can still continue to change the playlist till Ja
 
 ![mceclip6.png](https://support.optisigns.com/hc/article_attachments/1500003504101)
 
-### **Proposal Notification and Approval Process:**
+### Proposal Notification and Approval Process:
 
 If Jane has an email associate with her account, she will get an email notification like below.
 
@@ -92,7 +92,7 @@ This page also useful if other Admin, Approvers need to cover for Jane to review
 
 ![mceclip11.png](https://support.optisigns.com/hc/article_attachments/1500003505001)
 
-## **Summary:**
+## Summary:
 
 The idea is for the Content Proposer, contributor to be able to upload files, create new assets, and propose change to playlists.
 
@@ -100,4 +100,4 @@ Content Proposer cannot Edit Screens, Change Assets, Schedule.
 
 We would like to keep the process simple for both the Proposers and Approvers. Imagine if an approver needs to look at a change in an asset that belong to a Playlist that's in a Schedule 2 weeks from now. It would not be easy for the approver to figure out what's the actual impact of the change.
 
-If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
+If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)

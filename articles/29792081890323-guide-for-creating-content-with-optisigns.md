@@ -15,6 +15,8 @@ Last updated: 2026-05-21
 - [Google Drive and OneDrive Synchronization](#google-drive-and-onedrive-synchronization)
 - [API Integration](#api-integration)
 
+[Embedded content (www.youtube.com)](https://www.youtube.com/embed/oPO9ksZnSdY?si=3UiJJsb2_VqYwTiu)
+
 ---
 
 ### Supported File and Media Formats
@@ -92,9 +94,7 @@ Read our support article to learn how to get started with Canva and OptiSigns:
 
 ![chrome_N1dxRQnDHO.png](https://support.optisigns.com/hc/article_attachments/30311505787283)
 
-|  |
-| --- |
-| You will need the [**Engage plan**](https://support.optisigns.com/hc/en-us/articles/23565267463315) to access these interactive kiosk features. |
+> You will need the [**Engage plan**](https://support.optisigns.com/hc/en-us/articles/23565267463315) to access these interactive kiosk features.
 
 Engage offers an interactive screen experience, enabling users to effortlessly create and manage Kiosk screens along with various Engage apps. This suite of applications turns a screen into a dynamic communication tool. With Engage, you can create engaging and interactive connections with your customers, enhancing their experience and fostering meaningful interactions.
 

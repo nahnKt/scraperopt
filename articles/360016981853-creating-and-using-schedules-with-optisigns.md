@@ -17,6 +17,8 @@ Last updated: 2026-03-31
 - [Playlist Item Scheduling](#playlist-item-scheduling)
 - [Frequently Asked Questions About Schedules](#frequently-asked-questions-about-schedules)
 
+[Embedded content (www.youtube.com)](https://www.youtube.com/embed/L2W870T14jw?si=D_TJZ51T3-r3h0c3)
+
 ---
 
 ## Creating a Schedule
@@ -26,23 +28,24 @@ Last updated: 2026-03-31
 - Rename the schedule by clicking on its name.
 - Add an event by clicking the **Add Event** button or by dragging and selecting the calendar view to create a schedule at your desired time.
 - Fill out the details of your schedule item:
-  - Use assets or playlists in your schedules.
+  - Use assets or playlists in your schedules.
   - Fine-tune the time and set it to repeat daily, weekly, etc., or not at all.
 - Click **Save**.
 
-|  |
-| --- |
-| **OptiSigns 1.0** |
-|  |
-| **OptiSigns 2.0** |
-|  |
+> **OptiSigns 1.0**
+>
+> [Embedded content (www.canva.com)](https://www.canva.com/design/DAGGvjv8umY/iXQ7YC_A92dF4mu--RYcwA/view?embed)
+>
+> **OptiSigns 2.0**
+>
+> [Embedded content (www.canva.com)](https://www.canva.com/design/DAG3ZAPx_T8/mPwhVNgOzYOmsvfqUzr-pQ/view?embed)
 
 Your schedule item is created. You can edit the schedule item or add more schedule items as needed. It will look something like this:
 
 |  |  |
 | --- | --- |
 | **OptiSigns 1.0** | **OptiSigns 2.0** |
-|  |  |
+| ![](https://support.optisigns.com/hc/article_attachments/46546066550163) | ![](https://support.optisigns.com/hc/article_attachments/46546076854419) |
 
 ---
 
@@ -64,7 +67,7 @@ Follow the steps in the "Create a Schedule" section.
 |  |  |
 | --- | --- |
 | **OptiSigns 1.0** | **OptiSigns 2.0** |
-|  |  |
+| ![](https://support.optisigns.com/hc/article_attachments/46546076855571) | ![](https://support.optisigns.com/hc/article_attachments/46546076859667) |
 
 ---
 
@@ -78,7 +81,7 @@ Follow the steps in the "Create a Schedule" section.
 |  |  |
 | --- | --- |
 | **OptiSigns 1.0** | **OptiSigns 2.0** |
-|  |  |
+| ![](https://support.optisigns.com/hc/article_attachments/46546066558483) | ![](https://support.optisigns.com/hc/article_attachments/46546076864787) |
 
 ---
 
@@ -96,7 +99,7 @@ When creating or editing schedules, OptiSigns will notify you of any overlaps.
 |  |  |
 | --- | --- |
 | **OptiSigns 1.0** | **OptiSigns 2.0** |
-|  |  |
+| ![](https://support.optisigns.com/hc/article_attachments/46546076865555) | ![](https://support.optisigns.com/hc/article_attachments/46546066565267) |
 
 ---
 
@@ -137,7 +140,7 @@ There are two ways to assign a schedule to your screens.
 |  |  |
 | --- | --- |
 | **OptiSigns 1.0** | **OptiSigns 2.0** |
-|  |  |
+| ![](https://support.optisigns.com/hc/article_attachments/46546076870419) | ![](https://support.optisigns.com/hc/article_attachments/46546066567827) |
 
 - Assign Schedule: In the Edit Screen modal:
   - Select **Type = Schedule**.
@@ -146,7 +149,7 @@ There are two ways to assign a schedule to your screens.
 |  |  |
 | --- | --- |
 | **OptiSigns 1.0** | **OptiSigns 2.0** |
-|  |  |
+| ![](https://support.optisigns.com/hc/article_attachments/46546066568723) | ![](https://support.optisigns.com/hc/article_attachments/46546066574739) |
 
 - Click **Save**.
 
@@ -159,7 +162,7 @@ There are two ways to assign a schedule to your screens.
 |  |  |
 | --- | --- |
 | **OptiSigns 1.0** | **OptiSigns 2.0** |
-|  |  |
+| ![](https://support.optisigns.com/hc/article_attachments/46546066575763) | ![](https://support.optisigns.com/hc/article_attachments/46546076878483) |
 
 ---
 
@@ -202,14 +205,14 @@ If there is no scheduled content, the screen will display a black screen by defa
 |  |  |
 | --- | --- |
 | **OptiSigns 1.0** | **OptiSigns 2.0** |
-|  |  |
+| ![](https://support.optisigns.com/hc/article_attachments/46546066579603) | ![](https://support.optisigns.com/hc/article_attachments/46546076883475) |
 
 - **At the Account Level:** Apply a default content setting that will apply to all newly created schedules. The schedule-level setting will take priority if both are set.
 
 |  |  |
 | --- | --- |
 | **OptiSigns 1.0** | **OptiSigns 2.0** |
-|  |  |
+| ![](https://support.optisigns.com/hc/article_attachments/46546066583315) | ![](https://support.optisigns.com/hc/article_attachments/46546066586771) |
 
 For detailed information, visit: [Assign Default Content for Schedules](https://support.optisigns.com/hc/en-us/articles/360040943374)
 
@@ -221,7 +224,7 @@ On **OptiSigns 1.0** you can click on **Move Schedule** on the top of the Schedu
 |  |  |
 | --- | --- |
 | **OptiSigns 1.0** | **OptiSigns 2.0** |
-|  |  |
+| ![](https://support.optisigns.com/hc/article_attachments/30102222683027) | ![](https://support.optisigns.com/hc/article_attachments/46546066591763) |
 
 **Is it possible to manage schedules for multiple locations from a single interface?**
 

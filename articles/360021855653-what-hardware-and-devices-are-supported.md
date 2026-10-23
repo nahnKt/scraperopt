@@ -40,7 +40,9 @@ Last updated: 2026-01-07
   - [Insignia NS-50DF710NA19 50-inch 4K Ultra HD Smart LED TV HDR - Fire TV Edition](https://amzn.to/3QyZ18p)
   - [Toshiba 50LF621U19 50-inch 4K Ultra HD Smart LED TV HDR - Fire TV Edition](https://amzn.to/3ODmZhf)
 
-> **NOTE:** Amazon's new Firestick Select line is **NOT COMPATIBLE** with OptiSigns, as it uses a new proprietary VegaOS. Any VegaOS Amazon devices will not run OptiSigns.
+> **NOTE**
+>
+> Amazon's new Firestick Select line is **NOT COMPATIBLE** with OptiSigns, as it uses a new proprietary VegaOS. Any VegaOS Amazon devices will not run OptiSigns.
 
 - Android devices:
   - [Google Chromecast 2019 or newer](https://www.bestbuy.com/site/chromecast-with-google-tv-hd-snow/6517336.p?skuId=6517336)
@@ -61,4 +63,4 @@ Last updated: 2026-01-07
 
 ---
 
-If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
+If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)

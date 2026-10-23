@@ -51,10 +51,12 @@ Whether you connect a new Facebook page or choose it from an existing one, you'l
 
 After that, you can enter information for your wall.
 
-- **Name**: Name of your Facebook Wall, this is the name of the wall in your asset list. It will **not** be displayed on your screens.
+- **Name**: Name of your Facebook Wall, this is the name of the wall in your asset list. It will **not** be displayed on your screens.
 - **Page**: Page you want to use (if you have more than 1).
 
-  > **IMPORTANT:** A Facebook asset can only access a single page, and this can only be changed during the creation of the asset. In order to change this, you will need to delete this asset and create a new one.  
+  > **IMPORTANT**
+  >
+  > A Facebook asset can only access a single page, and this can only be changed during the creation of the asset. In order to change this, you will need to delete this asset and create a new one.  
   >   
   > If you wish to display multiple Facebook pages, you will need to create individual assets for each one, then use them in a [Playlist](https://support.optisigns.com/hc/en-us/articles/28295104605843-How-to-Create-Use-Playlists).
 - **Display Mode**: Choose how you want your Facebook page to display. There are numerous options here - play around with them, and they should automatically populate the Preview area on the right. Choose the one which suits you best!
@@ -62,7 +64,7 @@ After that, you can enter information for your wall.
 - **Speed**: This determines how quickly your Facebook posts cycle. Choose between **Slow**, **Medium**, **Fast**, and **Custom**. When Custom is chosen, you will see the following slider:
 
   ![Speed set to Custom, showing the speed slider from 1 to 20 with Slow, Medium, Fast](https://support.optisigns.com/hc/article_attachments/55248467961107)
-- **Font Size**: Set the font size. Default is 20, but this can be set to **Custom** and changed to whatever you wish.
+- **Font Size**: Set the font size. Default is 20, but this can be set to **Custom** and changed to whatever you wish.
 - **Landscape / Portrait:** Choose the orientation for the Preview.
 
 ### Advanced
@@ -128,4 +130,4 @@ In order to display multiple Facebook pages, you can create individual page asse
 
 ### That's all!
 
-If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
+If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)

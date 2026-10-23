@@ -28,11 +28,13 @@ Let's get started.
 
 ## Creating a Matterport App
 
-First, open the Matterport tour you want to display and copy its link. It will look like:   
+First, open the Matterport tour you want to display and copy its link. It will look like:   
   
 https://my.matterport.com/show/?m=tyEb2t1RWsc.
 
-> **NOTE:** The Matterport app only accepts links that start with **https://my.matterport.com/show/?m=**. Any other address shows **Please enter a valid Matterport URL.** and you won't be able to save.
+> **NOTE**
+>
+> The Matterport app only accepts links that start with **https://my.matterport.com/show/?m=**. Any other address shows **Please enter a valid Matterport URL.** and you won't be able to save.
 
 Next, go to the OptiSigns portal. Go to **Files/Assets** and select **Apps**.
 
@@ -53,7 +55,9 @@ Now hit **Save**. You'll have created a Matterport app, and it will appear in yo
 
 ![The new Matterport asset highlighted in Files/Assets](https://support.optisigns.com/hc/article_attachments/56385822885651)
 
-> **IMPORTANT:** Matterport tours are demanding to display. The app may not display correctly on a FireStick 2nd Gen (2019) or older. For the smoothest playback, use a more powerful player, such as an OptiSigns Pro Player, OptiStick, or Windows device. See our [supported hardware](https://support.optisigns.com/hc/en-us/articles/360021855653) for options.
+> **IMPORTANT**
+>
+> Matterport tours are demanding to display. The app may not display correctly on a FireStick 2nd Gen (2019) or older. For the smoothest playback, use a more powerful player, such as an OptiSigns Pro Player, OptiStick, or Windows device. See our [supported hardware](https://support.optisigns.com/hc/en-us/articles/360021855653) for options.
 
 ---
 

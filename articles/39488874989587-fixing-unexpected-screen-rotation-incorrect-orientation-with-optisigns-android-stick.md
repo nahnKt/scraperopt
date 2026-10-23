@@ -26,6 +26,4 @@ If you experience unexpected screen rotation or incorrect orientation when using
       - Choose “Edit”
       - Change the device name/type to “PC”
 
-
-
 This will ensure that the device follows the orientation settings configured in the OptiSigns web portal. If you have feedback on how to make the how-to guides better, please let us know at: [support@optisigns.com](mailto:support@optisigns.com)

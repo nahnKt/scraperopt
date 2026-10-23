@@ -64,11 +64,15 @@ Click **Theme Settings** to fine-tune the look of your timer:
 - **Font Size** - Keep **Default**, or choose **Custom** and enter your own size.
 - **Transparency** - Drag the slider to make the app's background more transparent.
 
-> **NOTE:** Changing any Theme Setting switches **Theme** to **Custom**.
+> **NOTE**
+>
+> Changing any Theme Setting switches **Theme** to **Custom**.
 
 ![Theme Settings section expanded, showing Primary Color, Secondary Color, Font Size and Transparency](https://support.optisigns.com/hc/article_attachments/56450460399123)
 
-> **TIP:** For full transparency when using the app in a Designer layout or a [Split Screen](https://support.optisigns.com/hc/en-us/articles/360026559573), set **Background Image** to **Transparent** in **Edit Screen** for your device.
+> **TIP**
+>
+> For full transparency when using the app in a Designer layout or a [Split Screen](https://support.optisigns.com/hc/en-us/articles/360026559573), set **Background Image** to **Transparent** in **Edit Screen** for your device.
 
 ### Advanced
 

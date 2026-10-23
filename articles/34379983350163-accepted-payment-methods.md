@@ -20,7 +20,7 @@ If you're unable to use a credit card, please contact us at [billing@optisigns.c
 
 **Note:** ACH Direct Payment or Check requires the Purchase Order process and is available **only for USD currency**.
 
-### **How to initiate the Purchase Order process:**
+### How to initiate the Purchase Order process:
 
 Please contact us at billing@optisigns.com and provide the following details:
 

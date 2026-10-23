@@ -12,7 +12,7 @@ Here are some options you can try to resolve the issue:
 
 ![](https://static.wixstatic.com/media/e48f7f_1bfd9d9fa0754778b1981f98e092ebba~mv2.png/v1/fill/w_1920,h_1080,al_c,q_90/e48f7f_1bfd9d9fa0754778b1981f98e092ebba~mv2.webp)
 
-### **Try a different video player**
+### Try a different video player
 
 To improve the supportability of different codecs, we provided users options to use different video players on different devices.
 
@@ -22,7 +22,7 @@ For example, with OptiSigns Pro player, you can choose to use HTML5 video player
 
 If you are using Android devices, you can open the side menu of the player and go to Video Player Settings. This will allow you to change between Texture View and Surface View. Changing from the default Texture View to Surface View may provide better performance on certain hardware if the hardware is optimized only for Surface View. ![](https://support.optisigns.com/hc/article_attachments/33541375854355)
 
-### **Re-encode the video**
+### Re-encode the video
 
 H264 is the most widely supported codec, VP9 and HEVC(H265) are well supported by a lot of the hardware as well. However, there could be times when codec is not recognized or support by your devices. For example, here's a link to Amazon's [supported codec](https://developer.amazon.com/docs/fire-tv/device-specifications.html).
 

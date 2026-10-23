@@ -19,7 +19,7 @@ You can change owner to another user/admin in OptiSigns by:
 
 - It will pop out a warning message. If you confirm it, please type "**CONTINUE**" and click OK to continue.
 
-### **Change Owner Account dialog asking you to type CONTINUE, with Cancel and OK buttons**
+### ![Change Owner Account dialog asking you to type CONTINUE, with Cancel and OK buttons](https://support.optisigns.com/hc/article_attachments/55177302765203)
 
 **Note**:
 
@@ -31,8 +31,8 @@ In some cases, the person who owns the account may leave the organization they a
 
 To do this, an authorized representative will need to fill out [this form](https://app-na1.hubspotdocuments.com/documents/20629229/view/1117090375?accessId=0b4807) and submit it to [support@optisigns.com](mailto:support@optisigns).
 
-### **That's all!**
+### That's all!
 
 You have changed the owner to another account successfully.
 
-If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
+If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)

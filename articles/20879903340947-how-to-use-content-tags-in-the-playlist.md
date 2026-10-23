@@ -5,10 +5,9 @@ Last updated: 2026-09-11
 
 ## Want more control over which assets and tags in your playlist display on your screen? Follow this guide to learn more!
 
-|  |
-| --- |
-| Plan required: |
-| This feature is only available in OptiSigns' **Pro Plus or above plans.** |
+> **Plan required:**
+>
+> This feature is only available in OptiSigns' **Pro Plus or above plans.**
 
 Content tagging in a playlist allows you to better control and customize the playback of your playlist items, enabling you to mix and match content for different screens within the same playlist and greatly simplifying screen management. By using content tags, you can set rules for your screens that determine which tagged assets or sub-playlists are displayed when your selected playlist is playing. This ensures precise and efficient control over the content displayed on each screen, eliminating the need to create separate playlists for different locations or scenarios.
 
@@ -21,7 +20,7 @@ In your Playlist settings by clicking on the **Cog** icon > Selecting **Advanced
 
 - **Use Asset Default:** The playlist will follow each individual assets' tags.
 
-## **How to Set Up 'Use Asset Default'**
+## How to Set Up 'Use Asset Default'
 
 Create a tag for your desired assets in the Files/Assets page. Follow [**this guide**](https://support.optisigns.com/hc/en-us/articles/360056397634-Asset-Tagging-How-does-it-work) to learn more on how to do this.
 
@@ -48,20 +47,18 @@ Then go to **Screens page** > Click **Edit** on your preferred screen > Assign y
 |  |  |
 | --- | --- |
 | **Inclusion** | **Exclusion** |
-| **And:** Will show assets that have all the tags selected.  **Or:** Will show any asset with at least one of the tags selected. | **And:** Will **not show** any assets that have all tags selected.  **Or:** Will **not show** any asset with at least one of the tags selected. |
+| **And:** Will show assets that have all the tags selected.  **Or:** Will show any asset with at least one of the tags selected. | **And:** Will **not show** any assets that have all tags selected.  **Or:** Will **not show** any asset with at least one of the tags selected. |
 
 - **+ Rule:** Will add an additional box for you to add more tags.
 - **+Ruleset:** Will create additional rules to attach to your original tag rules.
 
 In this example, any assets **with the location-a tag** in the selected playlist **will** **display** on this screen. Other assets in this playlist **without location-a tag will not display** on the screen.
 
-## **How to Set Up 'Use Playlist Default'**
+## How to Set Up 'Use Playlist Default'
 
 When you choose 'Use Playlist Default,' you set a tag for the entire playlist. The assets within the playlist that are set to 'Use Playlist Default' will automatically be tagged with the playlist default tag you set at the playlist level.
 
-|  |
-| --- |
-| **Note:** These tags do not affect the tags you have placed on your files/assets page. |
+> **Note:** These tags do not affect the tags you have placed on your files/assets page.
 
 **![Playlist Options Target tags set to Use Playlist Default with the tag demo](https://support.optisigns.com/hc/article_attachments/55316990720275)**
 
@@ -69,9 +66,11 @@ Similar to using 'Use Asset Default', if you set your **Content Tag rule** to **
 
 Other assets in the playlist **without the same tag** **will not be displayed** on the screen.
 
-> **NOTE:** Tags are saved in lowercase and turns spaces into hyphens, so Front Lobby is stored as front-lobby. You don't need to match capitalization; the portal normalizes it for you.
+> **NOTE**
+>
+> Tags are saved in lowercase and turns spaces into hyphens, so Front Lobby is stored as front-lobby. You don't need to match capitalization; the portal normalizes it for you.
 
-### **Custom Content Tagging**
+### Custom Content Tagging
 
 If you want a specific asset or nested playlist to have a different tag, follow these steps:
 
@@ -86,10 +85,9 @@ To help illustrate how this feature works, we will use the following simple scen
 
 > A hotel has one screen in the lobby and one screen in the back room. There is one global playlist pushed to both screens, but I want to control which assets within the global playlist play on each screen.
 
-|  |
-| --- |
-| **IMPORTANT NOTE** |
-| These Content Tag rules **will not**apply to screen Previews. This is because Previews are limited by web browser - your screen, however, should display properly. |
+> **IMPORTANT NOTE**
+>
+> These Content Tag rules **will not**apply to screen Previews. This is because Previews are limited by web browser - your screen, however, should display properly.
 
 - **Lobby Display:** Suppose your global playlist is tagged 'front-lobby' as the Playlist default. All assets within this playlist will be tagged as 'front-lobby.'
 

@@ -7,9 +7,11 @@ Mind maps are highly visual, engaging ways to organize and communicate your thou
 
 You can create MindMeister app with OptiSigns.
 
-> **NOTE:** To use the MindMeister app, you'll need to be on an OptiSigns [Standard plan or above](https://www.optisigns.com/pricing).
+> **NOTE**
+>
+> To use the MindMeister app, you'll need to be on an OptiSigns [Standard plan or above](https://www.optisigns.com/pricing).
 
-### **Let's jump in and get started:**
+### Let's jump in and get started:
 
 On the OptiSigns portal, go to Files/Assets, Click on "App" and add MindMeister to your Account.
 
@@ -34,7 +36,7 @@ Then come back to OptiSigns and enter in your MindMeister info.
 
 ![MindMeister app settings with Name, Embed Code and Update Interval, and a live preview of the mind map](https://support.optisigns.com/hc/article_attachments/56030878794003)
 
-- Name: Name of your MindMeister app, this is the name of the wall in your asset list. It will **not** be displayed on your screens.
+- Name: Name of your MindMeister app, this is the name of the wall in your asset list. It will **not** be displayed on your screens.
 - Embed Code: Paste your MindMeister embed code. Once pasted, you'll be able to Preview what it will look like on your screen. The Preview can also be adjusted between Landscape and Portrait. You can adjust the Frame width and height within this code to get it to fit exactly as you'd like to.
 - Update Interval: default is 10 minutes. This means the app will refresh the link every 10 mins for any changes in your presentation. You can also input an interval here on how often you want to refresh the content.
 
@@ -51,4 +53,4 @@ You can assign the newly created wall to your screen by going to Screens, click 
 
 You can put the created MindMeister in a Playlist or Schedule too.
 
-If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
+If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)

@@ -94,4 +94,4 @@ See the [OptiSigns Referral Program Terms](https://www.optisigns.com/terms-of-us
 
 ### That's all!
 
-If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
+If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)

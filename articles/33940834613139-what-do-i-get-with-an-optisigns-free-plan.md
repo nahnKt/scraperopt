@@ -13,7 +13,8 @@ Last updated: 2026-10-08
 
 With an OptiSigns Free Plan, you’ll gain access to the OptiSigns app and the ability to turn up to three screens into digital signs, completely free!
 
-> **IMPORTANT:**
+> **IMPORTANT**
+>
 > **Free Plan** refers to a long-term subscription to OptiSigns. This is distinct from an OptiSigns [Free Trial](https://support.optisigns.com/hc/en-us/articles/37966066335891-Getting-Started-with-an-OptiSigns-Free-Trial), which gives access to all OptiSigns features for 14 days.
 
 ## OptiSigns Free Plan Features
@@ -48,7 +49,7 @@ The Free Plan is **ONLY** supported on these devices:
 - Raspberry Pi
 - MacOS
 
-The OptiSigns Free Plan **IS NOT SUPPORTED ON:**
+The OptiSigns Free Plan **IS NOT SUPPORTED ON:**
 
 - Amazon Devices (FireStick, Amazon Signage Stick, FireTV)
 - Android Devices (including Android Smart TVs, Google TV, Chromecast with Google TV, and other Android-based players)

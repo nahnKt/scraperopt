@@ -8,7 +8,7 @@ The steps below are for you to assign a playlist, but you can follow the same pr
 
 ### 1) Assign content to your screen
 
-To assign the playlist to your screen: Go to the **Screens** tab.
+To assign the playlist to your screen: Go to the **Screens** tab.
 
 ![OptiSigns top navigation with the Screens tab highlighted](https://support.optisigns.com/hc/article_attachments/55502788583059)
 

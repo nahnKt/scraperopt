@@ -5,7 +5,9 @@ Last updated: 2026-09-18
 
 ### Google Sheets is one of the most popular spreadsheet applications available online. In OptiSigns, you can set up a Google Sheets app so that whenever changes are made on your Sheet it will automatically show up on your screen.
 
-> **NOTE:** Google Sheets app is currently only available on Standard and above plans.
+> **NOTE**
+>
+> Google Sheets app is currently only available on Standard and above plans.
 
 In this article, we'll cover:
 
@@ -47,7 +49,7 @@ Return to your Google Sheets app in the OptiSigns portal.
 
 ![OptiSigns Google Sheets dialog: Name and URL boxes on the left, an example sheet on the right, Next button.](https://support.optisigns.com/hc/article_attachments/55559279717907)
 
-A **"Sign** **In With Google"** box will appear beneath the URL box, click on it.
+A **"Sign** **In With Google"** box will appear beneath the URL box, click on it.
 
 ![Arrow pointing up at the blue SIGN IN WITH GOOGLE button below the Name and URL boxes.](https://support.optisigns.com/hc/article_attachments/55559286814611)
 
@@ -78,7 +80,9 @@ Once done, Click **Save.**
 
 ![The Google Sheets settings with the Save button shown magnified beneath them.](https://support.optisigns.com/hc/article_attachments/55559286818707)
 
-> **NOTE:** App must be saved before changes will appear in Preview.
+> **NOTE**
+>
+> App must be saved before changes will appear in Preview.
 
 #### Additional Features
 
@@ -100,7 +104,9 @@ In your Sheet, go to **Files** → **Share** → **Publish this Document** → C
 
 ![Browser prompt asking Are you sure you want to publish this selection, with Cancel and OK.](https://support.optisigns.com/hc/article_attachments/39888202658195)
 
-> **IMPORTANT:** If you do not publish AND share your Sheet, OptiSigns will have you go through the authentication process shown in the previous section. An error message may appear telling you the Sheet isn't published
+> **IMPORTANT**
+>
+> If you do not publish AND share your Sheet, OptiSigns will have you go through the authentication process shown in the previous section. An error message may appear telling you the Sheet isn't published
 
 **Copy this** **published link** → Return to your Google Sheets app in the OptiSigns portal.
 

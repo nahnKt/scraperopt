@@ -97,7 +97,9 @@ Once these values are filled in, hit **Add**. We are now ready to create a Table
 
 Now that we’ve got the Tableau integration set up, it’s time to create a Tableau asset. This asset determines how your report will show up on your screens.
 
-> **NOTE:** See [**Note 2**](#note-2) if your workbook contains Broad Views.
+> **NOTE**
+>
+> See [**Note 2**](#note-2) if your workbook contains Broad Views.
 
 First, find the report you’d like to display. Hit **Share:**
 
@@ -124,7 +126,9 @@ Clicking the app will open this window:
 - **Update Interval -** Denotes how often the app will sync, measured in seconds.
 - **Authenticate with Connected App Integration -** Tick this box if you want to use Private reports. Since we set this up in [Steps 1](#step-1-set-up-optisigns-as-a-connected-app-in-tableau-cloud) and [2](#step-2-set-up-tableau-integration-in-optisigns), we recommend ticking this box. If you skipped those steps and only want to use Public reports, no need to check the box.
 
-> **NOTE:** Tableau Cloud only allows 600 Update Interval requests per user/hour. See [**Note 3**](#note-3) for more information and solutions on how to handle this.
+> **NOTE**
+>
+> Tableau Cloud only allows 600 Update Interval requests per user/hour. See [**Note 3**](#note-3) for more information and solutions on how to handle this.
 
 Now it's time to authenticate your Shared Report URL with an appropriate Connected App Integration you set up earlier:
 

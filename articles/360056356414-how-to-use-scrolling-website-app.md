@@ -13,7 +13,7 @@ Scrolling Website App is the solution for that, it will allow you to:
 
 ## Let's jump in and get started:
 
- Go to **Files/Asset** -> **Apps** and select **Scrolling Web:**
+ Go to **Files/Asset** -> **Apps** and select **Scrolling Web:**
 
 ![Add App dialog with Scrolling Web searched, arrow pointing at the Scrolling Web app tile](https://support.optisigns.com/hc/article_attachments/55327242663443)
 
@@ -46,4 +46,4 @@ You can assign the newly created app to your screen by going to Screens, click E
 
 You can put the walls in a Playlist, Schedule too.
 
-If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
+If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)

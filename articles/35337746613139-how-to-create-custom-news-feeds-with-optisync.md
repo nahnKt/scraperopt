@@ -82,7 +82,7 @@ Setting up this API gateway will consist of two parts:
 
 The first step in this process is obtaining the SiteID value for your SharePoint site. This is necessary to obtain the proper URL to make the API request.
 
-To do this, download [**Postman**](https://www.postman.com/)or another API platform. Then, send a GET request to the following URL:
+To do this, download [**Postman**](https://www.postman.com/)or another API platform. Then, send a GET request to the following URL:
 
 ```
 https://graph.microsoft.com/v1.0/sites/[YOUR-SHAREPOINT-SITE-URL]
@@ -94,7 +94,7 @@ When configured correctly, this API request should return a string of JSON simil
 
 ![](https://support.optisigns.com/hc/article_attachments/45228746837523)
 
-As you can see, under the "id" section there are two values. You want the string after the URL. That is your **SiteID**value. This will be critical for setting up your API gateway in the next step.
+As you can see, under the "id" section there are two values. You want the string after the URL. That is your **SiteID**value. This will be critical for setting up your API gateway in the next step.
 
 #### Retrieving Proper Authentication Tokens from Microsoft
 
@@ -116,7 +116,7 @@ https://graph.microsoft.com/v1.0/sites/[YOUR-SITEID-VALUE]/pages/microsoft.graph
 
 Input your SiteID value where relevant. Next, we'll set up the headers.
 
-##### **Headers Configuration**
+##### Headers Configuration
 
 For the request headers, use these:
 
@@ -124,7 +124,7 @@ For the request headers, use these:
 
 The "Bearer" field can be left blank, as this value will be obtained in the Pre-Request stage.
 
-##### **Pre-Request Configuration**
+##### Pre-Request Configuration
 
 The Pre-Request stage is where we will obtain the Authorization token for the request. It will need to be set up in a very specific manner. Input the below code in the Pre-Request field:
 
@@ -148,7 +148,7 @@ os.context.set("request.headers.authorization", token);
 
 Replace the areas marked [YOUR-CLIENT-ID] and [YOUR-SECRET-VALUE] with your Client ID and Secret Value, respectively.
 
-##### **Final Request and Testing**
+##### Final Request and Testing
 
 With these configured, your request should look like this:
 
@@ -175,7 +175,9 @@ Your news stories will have similar data sets if you’re following this guide. 
 - “thumbnailWebURL”
   - Inputting this URL will display the banner image.
 
-> **NOTE:** You will also want to make note of the “promotionKind” data value. These will be useful for applying filters later on. Other values can also be made use of with Filters, should you so desire.
+> **NOTE**
+>
+> You will also want to make note of the “promotionKind” data value. These will be useful for applying filters later on. Other values can also be made use of with Filters, should you so desire.
 
 ### Step 3: Creating a News Feed Using Designer in OptiSigns
 
@@ -295,7 +297,7 @@ However, this value **can be changed to anything you want.** Simply type any val
 
 There are dozens of possibilities using the OptiSync filter to show even more precise automated data on your screens.
 
-> **TIP:**
+> **TIP**
 >
 > Remember the “promotionKind” data value from before? If you want to make sure only custom news articles appear on your screen, try setting the Filter to state:
 >

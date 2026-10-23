@@ -102,7 +102,9 @@ Now you can set up your Google Ads Dashboard app:
 - **Embed Code** **-** The Embed Code you retrieved a moment ago should be pasted into this field.
 - **Update Interval -** How often OptiSigns will ping your Embed URL to update the data displayed on it. This is measured in seconds.
 
-> **NOTE:** The Preview at this stage may display oddly. This is ok. We recommend pushing your Google Ads Dashboard app to a real screen for proper testing. Afterward, we can come back to this and alter the Width and Height elements if they need adjusting.
+> **NOTE**
+>
+> The Preview at this stage may display oddly. This is ok. We recommend pushing your Google Ads Dashboard app to a real screen for proper testing. Afterward, we can come back to this and alter the Width and Height elements if they need adjusting.
 
 Now, hit **Save**. You'll have created a Google Ads Dashboard app.
 
@@ -128,10 +130,12 @@ Then, select your created Google Ads Dashboard Asset:
 
 Now hit **Save**. Your Google Ads Dashboard asset will now display on screen.
 
-> **NOTE:** You may need to alter the Width and Height on the Embed Code to get it to display exactly the way you want it. Be sure to push it to the intended screen first to test it - the Preview sometimes looks odd.
+> **NOTE**
+>
+> You may need to alter the Width and Height on the Embed Code to get it to display exactly the way you want it. Be sure to push it to the intended screen first to test it - the Preview sometimes looks odd.
 
 You can also deploy it as part of a split screen, allowing you to show other assets at the same time. See how in our [Split Screen app article.](https://support.optisigns.com/hc/en-us/articles/360026559573-How-to-Create-and-Use-the-Split-Screen-App) It can also be displayed in a [Playlist](https://support.optisigns.com/hc/en-us/articles/28295104605843-How-to-Create-Use-Playlists) or [Schedule](https://support.optisigns.com/hc/en-us/articles/360016981853-Creating-and-Using-Schedules-with-OptiSigns).
 
 ### That's all!
 
-If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com).
+If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com).

@@ -18,4 +18,4 @@ For more information on how to use Google Slides with OptiSigns in general, plea
 
 ![Google Slides Page setup dialog with Custom chosen and 7.5 by 13.33 inches entered](https://support.optisigns.com/hc/article_attachments/360029259673)
 
-If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
+If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)

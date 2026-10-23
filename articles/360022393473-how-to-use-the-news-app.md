@@ -36,7 +36,7 @@ Go to **Files/Assets**, click on **Apps**:
 
 ![OptiSigns portal with the Files/Assets tab and the Apps button highlighted](https://support.optisigns.com/hc/article_attachments/55264333071635)
 
-Click **News**:
+Click **News**:
 
 ![Add App dialog searched for News, with the News app tile highlighted](https://support.optisigns.com/hc/article_attachments/55264358549395)
 
@@ -46,7 +46,7 @@ Enter your News Wall App information:
 
 - Name: Name of your News app, this is the name of the app in your asset list. It will **not** be displayed on your screens.
 - Country: Currently we support United States and United Kingdom news.
-- Category: Select the region and category that you want to focus on. You can check as many as you want.
+- Category: Select the region and category that you want to focus on. You can check as many as you want.
 - Display Mode: Select Single Post View,Social Kiosk View, Social Wall View, or Timeline View. Click on the links to see a live example.
 - Theme: Select Light or Dark Theme. You can also customize your background color if you select Custom.
 
@@ -58,7 +58,7 @@ Enter your News Wall App information:
 
 - Font Size: Set the font size for the News Wall app.
 
-Clicking **Advanced**opens up additional options:
+Clicking **Advanced**opens up additional options:
 
 ![Advanced expanded: Date and Time, Scrolling Strip Font Size, Continue Playing Content in Playlist](https://support.optisigns.com/hc/article_attachments/55264358551443)
 
@@ -73,6 +73,6 @@ After you've configured the News app to your liking, hit **Save**. Your News app
 
 ---
 
-## **That's all!**
+## That's all!
 
 OptiSigns is the leader in [digital signage software](https://www.optisigns.com/). If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)

@@ -15,7 +15,7 @@ Before we begin, please be sure you have the following ready:
 - Android SDK Platform Tools installed on your computer.  
   <https://developer.android.com/tools/releases/platform-tools>
 
-#### **Step 1:**
+#### Step 1:
 
 On your Fire Stick, navigate to the settings then select “My Fire TV” then click on “Developer Options” and ensure that ABD Debugging is enabled.
 
@@ -29,19 +29,19 @@ On your Fire Stick, navigate to the settings then select “My Fire TV” then c
 
 ![](https://support.optisigns.com/hc/article_attachments/23274690253587)
 
-#### **Step 2:**
+#### Step 2:
 
 Exit out of developer options then select “About” then “Network”. You will see the Fire Stick’s network information. In this case, we will want to write down the IP address:
 
 ![](https://support.optisigns.com/hc/article_attachments/23274680489747)
 
-#### **Step 3:**
+#### Step 3:
 
 On your computer, you will need to have the Android SDK Platform Tools installed. You can install this by clicking on the link earlier in this guide. Make sure to create a folder somewhere on your computer such as your desktop then extract the contents on the Android SDK Platform Tools into that folder:
 
 ![](https://support.optisigns.com/hc/article_attachments/23274673766803)
 
-#### **Step 4:**
+#### Step 4:
 
 On your desktop, open the command prompt. On Windows you can do this by typing “cmd” in the search bar on your taskbar. On Mac, it will be called the Terminal.  
   

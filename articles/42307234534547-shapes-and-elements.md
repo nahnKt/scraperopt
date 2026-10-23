@@ -102,12 +102,16 @@ Here, choose between preset colors, colors already used in this design, or throu
 6. **Code Switcher** - Switch between [hexademical](https://htmlcolorcodes.com/), [RGB](https://www.rapidtables.com/web/color/RGB_Color.html), and [HSLA](https://www.w3schools.com/html/html_colors_hsl.asp) color codes
 7. **Previous Colors Used**
 
-> **NOTE:** The **Opacity/Transparency Slider** applies to whichever element the color picker is being applied to, be that shape, text, background, or any of the other areas a color picker can be used.
+> **NOTE**
+>
+> The **Opacity/Transparency Slider** applies to whichever element the color picker is being applied to, be that shape, text, background, or any of the other areas a color picker can be used.
 
 The **Color Drop Tool** lets you choose any color easily.
 
 ![chrome_Aq5bpPMdTr.gif](https://support.optisigns.com/hc/article_attachments/42338341480851)
-> **NOTE:** The Color Picker is not available on certain browsers.
+> **NOTE**
+>
+> The Color Picker is not available on certain browsers.
 
 ### Background
 
@@ -145,7 +149,9 @@ Here, choose how the image will be scaled. There are three options:
 - **Stretch** - Stretches the image to fill the entire screen.
 - **Zoom** - Zooms in on the image to fill up the entire screen. Not recommended for small images on large displays, as this will create blurriness.
 
-> **NOTE:** If a URL is provided, the **Scale** option will not appear. Only selecting a File/Asset will provide this option.
+> **NOTE**
+>
+> If a URL is provided, the **Scale** option will not appear. Only selecting a File/Asset will provide this option.
 
 Expanding the **Settings** section will provide these options for your URL or Asset:
 
@@ -216,7 +222,9 @@ This can be adjusted to a slider. Shown below is half opacity:
 
 ![](https://support.optisigns.com/hc/article_attachments/42307234490131)
 
-> **NOTE:** The **Opacity** slider applies to the ***entire selected element*** as opposed to just the shape or background. To change the Opacity of the shape or background, do so through the color picker.
+> **NOTE**
+>
+> The **Opacity** slider applies to the ***entire selected element*** as opposed to just the shape or background. To change the Opacity of the shape or background, do so through the color picker.
 
 Expanding the **Outline** section allows you to add an outline to the shape or element, but not the background.
 

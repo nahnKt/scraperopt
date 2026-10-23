@@ -72,7 +72,9 @@ Click **Advanced** for more options:
 
 Now hit **Save**. You'll have created a OneDrive app, and it will appear in your **Files/Assets**. Depending on how many files are in your folder, the first sync may take a moment, as every file is copied to OptiSigns.
 
-> **TIP:** Files play in order by name. To control the order, rename your files in OneDrive, for example by starting each name with **1**, **2**, **3**.
+> **TIP**
+>
+> Files play in order by name. To control the order, rename your files in OneDrive, for example by starting each name with **1**, **2**, **3**.
 
 ![OneDrive folder with files numbered 1, 2 and 3 to set the playback order](https://support.optisigns.com/hc/article_attachments/360076676913)
 

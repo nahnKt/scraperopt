@@ -57,7 +57,8 @@ If you show the same app on screens in different places, turn on **Use device se
 
 ![Use device setting's location switch turned on, with the Location field below it](https://support.optisigns.com/hc/article_attachments/56498374945043)
 
-> **NOTE:**
+> **NOTE**
+>
 > **Location** is still required with this setting on. It becomes the fallback, used by any screen that doesn't have a location set.
 
 ---

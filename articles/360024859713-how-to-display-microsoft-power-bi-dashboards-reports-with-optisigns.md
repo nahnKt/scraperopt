@@ -32,7 +32,9 @@ Last updated: 2026-09-28
 
 Put live Power BI reports and dashboards on any screen. OptiSigns signs in to Power BI through Microsoft's official APIs, keeps the report up to date, and can rotate through the report pages you pick or turn a report into a touch-screen kiosk.
 
-> **NOTE:** The Power BI app requires the OptiSigns **Pro Plus** plan or above. See [pricing](https://www.optisigns.com/pricing).
+> **NOTE**
+>
+> The Power BI app requires the OptiSigns **Pro Plus** plan or above. See [pricing](https://www.optisigns.com/pricing).
 
 ---
 
@@ -111,7 +113,9 @@ Click **Sign in with Microsoft** and sign in with an account that can open the r
 
 ![Button reading Authorized with Microsoft as OptiSigns Demo after signing in](https://support.optisigns.com/hc/article_attachments/55870304505491)
 
-> **NOTE:** OptiSigns asks Microsoft only for read access to your reports, dashboards, workspaces and datasets. The first time anyone in your organization connects, a Microsoft admin may need to approve OptiSigns.
+> **NOTE**
+>
+> OptiSigns asks Microsoft only for read access to your reports, dashboards, workspaces and datasets. The first time anyone in your organization connects, a Microsoft admin may need to approve OptiSigns.
 
 ### Service Principal
 
@@ -169,7 +173,9 @@ Turn on **Enable Kiosk Mode** to make the report a touch dashboard, where viewer
 
 ![Enable Kiosk Mode switched on with the Page Tabs options Bottom and Left](https://support.optisigns.com/hc/article_attachments/55870304516755)
 
-> **IMPORTANT:** Screens that play a Kiosk Mode report need the Engage add-on. Kiosk Mode works with reports only, not dashboards, and it can't be combined with rotating pages. Unselect all pages to turn it on.
+> **IMPORTANT**
+>
+> Screens that play a Kiosk Mode report need the Engage add-on. Kiosk Mode works with reports only, not dashboards, and it can't be combined with rotating pages. Unselect all pages to turn it on.
 
 ---
 
@@ -181,7 +187,9 @@ Open **Display** and set **Update Interval**, which is how often, in seconds, th
 
 Click **Save**. Your Power BI app now appears in your assets. You can assign it to a screen directly, or add it to a [Playlist](https://support.optisigns.com/hc/en-us/articles/28295104605843-How-to-Create-Use-Playlists) or [Schedule](https://support.optisigns.com/hc/en-us/articles/360016981853-Create-and-Using-Schedules-with-OptiSigns). Kiosk Mode reports go on a screen directly; they can't be playlist items.
 
-> **NOTE:** How well a report plays also depends on the device, its memory, and its network and firewall. If a report won't show on a screen, see the Troubleshooting questions at the end of the article.
+> **NOTE**
+>
+> How well a report plays also depends on the device, its memory, and its network and firewall. If a report won't show on a screen, see the Troubleshooting questions at the end of the article.
 
 ---
 

@@ -11,7 +11,7 @@ Let's begin,
 
 ### How to Change Time Zone on your Raspberry Pi device
 
-To change the time zone on your Raspberry Pi,  go to Preferences > Raspberry Pi Configuration > Localisation > Timezone. Then select your Set Timezone.
+To change the time zone on your Raspberry Pi,  go to Preferences > Raspberry Pi Configuration > Localisation > Timezone. Then select your Set Timezone.
 
 1. Press the **Start Menu**
 
@@ -45,4 +45,4 @@ Changing the time zone on your Raspberry Pi can let your screen start and end wi
 
 You're all set.
 
-If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)
+If you have any additional questions, concerns or any feedback about OptiSigns, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com)

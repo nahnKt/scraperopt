@@ -20,7 +20,7 @@ You can set the QR Code to:
 
 **Here’s how you get started to place a QR code on your design with our Designer app.**
 
-Go to  [canvas.optisigns.com](https://canvas.optisigns.com/). Choose your own template from our library of over 1000 free templates or upload your own design. On the left side menu bar, click on 'QR Code,' and then select 'Add QR Code.'
+Go to  [canvas.optisigns.com](https://canvas.optisigns.com/). Choose your own template from our library of over 1000 free templates or upload your own design. On the left side menu bar, click on 'QR Code,' and then select 'Add QR Code.'
 
 Choose the QR code style for your design, input the necessary information, and click 'Update QR Code' to generate.
 

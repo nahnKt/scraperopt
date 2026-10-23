@@ -112,7 +112,7 @@ Press Enter on your keyboard or Click the three-bar button on the top right of a
 - **Orientation**: Set your device screen as landscape or Rotate 90/ 180/ 270 degrees
 - **Restart**: Schedule a time of day to do system restart (the whole machine will be rebooted)
 - **AutoStart**: Autostart OptiSigns app on the device startup
-- **Fullscreen on Startup**:  Starts OptiSigns app in fullscreen
+- **Fullscreen on Startup**:  Starts OptiSigns app in fullscreen
 - **Mute**: Eliminate the sound on your device
 - **Calibrate** **Display**: If you see black area on your screen or your content bleed over the edge of your TV, you can calibrate by using this option.
 
@@ -142,4 +142,4 @@ Click the three-bar button on the top right of a screen, then your screen will p
 
 Here you go, you know more what these settings mean.
 
-If you have feedback on how to make the how-to guides better, please let us know at: [support@optisigns.com](mailto:support@optisigns.com)
+If you have feedback on how to make the how-to guides better, please let us know at: [support@optisigns.com](mailto:support@optisigns.com)
