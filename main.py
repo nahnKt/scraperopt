@@ -20,7 +20,7 @@ from sync import decide_action, group_by_article, plan_removals, is_source_compl
 
 OUTPUT_DIR = "articles"
 VECTOR_STORE_ID = os.environ["VECTOR_STORE_ID"]
-ARTICLE_LIMIT = 10
+ARTICLE_LIMIT = 30
 
 
 def save_article(slug: str, text: str) -> None:
@@ -35,6 +35,9 @@ def main() -> int:
 
     # group files by article on the openai vector store
     filesByArticle = group_by_article(list_files(VECTOR_STORE_ID))
+    chunksByArticle = {}
+    for articleId, files in filesByArticle.items():
+        chunksByArticle[articleId] = int(files[0]["attributes"].get("chunk_count", 0))
 
     # fetch all articles from zendesk, then cut off at the ARTICLE_LIMIT
     articles, expectedCount = fetch_all_articles(BASE_URL, NUMBER_OF_ARTICLES_PER_PAGE)
@@ -87,6 +90,7 @@ def main() -> int:
         chunkCount = count_chunks(VECTOR_STORE_ID, articleId, uploadHash)
         report["chunks_uploaded"] += chunkCount
         attributes["chunk_count"] = chunkCount
+        chunksByArticle[articleId] = chunkCount
         update_file_attributes(VECTOR_STORE_ID, uploaded["file_id"], attributes)
 
         for oldFile in oldFiles:
@@ -107,16 +111,14 @@ def main() -> int:
         for oldFile in filesByArticle[articleId]:
             remove_file(VECTOR_STORE_ID, oldFile["file_id"])
         report["removed"] += 1
+        chunksByArticle.pop(articleId, None)
         print("REMOVE", articleId)
     report["removal_blocked"] = blockedReason
     report["source_complete"] = isComplete
     report["articles"] = len(articles)
     report["duration_s"] = round(time.time() - startTime)
-    finalFiles = list_files(VECTOR_STORE_ID)
-    totalChunks = 0
-    for finalFile in finalFiles:
-        totalChunks += int(finalFile["attributes"].get("chunk_count", 0))
-    report["files_in_store"] = len(finalFiles)
+    totalChunks = sum(chunksByArticle.values())
+    report["files_in_store"] = len(chunksByArticle)
     report["chunks_in_store"] = totalChunks
 
     update_store_metadata(
