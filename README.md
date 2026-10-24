@@ -53,7 +53,8 @@ Static chunks of 600 tokens with 200 overlap (~2,500 / ~830 characters on this c
 
 GitHub Actions ([workflow](.github/workflows/daily-sync.yml)) builds the Docker image and runs it every day at 00:00 UTC. Logs are public and each run keeps `run.log` as an artifact.
 
-Latest run log: _TODO: add link_
+Latest run log:
+https://github.com/nahnKt/scraperopt/actions/runs/40080500593/job/120832867781
 
 ## Assistant
 
