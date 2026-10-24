@@ -20,7 +20,7 @@ from sync import decide_action, group_by_article, plan_removals, is_source_compl
 
 OUTPUT_DIR = "articles"
 VECTOR_STORE_ID = os.environ["VECTOR_STORE_ID"]
-ARTICLE_LIMIT = 30
+ARTICLE_LIMIT = int(os.getenv("ARTICLE_LIMIT", "0"))
 
 
 def save_article(slug: str, text: str) -> None:
@@ -37,7 +37,14 @@ def main() -> int:
     filesByArticle = group_by_article(list_files(VECTOR_STORE_ID))
     chunksByArticle = {}
     for articleId, files in filesByArticle.items():
-        chunksByArticle[articleId] = int(files[0]["attributes"].get("chunk_count", 0))
+        fileAttributes = files[0]["attributes"]
+        if "chunk_count" in fileAttributes:
+            chunksByArticle[articleId] = int(fileAttributes["chunk_count"])
+        else:
+            # count again for articles that don't have a chunk count
+            chunksByArticle[articleId] = count_chunks(
+                VECTOR_STORE_ID, articleId, fileAttributes.get("upload_hash", "")
+            )
 
     # fetch all articles from zendesk, then cut off at the ARTICLE_LIMIT
     articles, expectedCount = fetch_all_articles(BASE_URL, NUMBER_OF_ARTICLES_PER_PAGE)
@@ -91,7 +98,10 @@ def main() -> int:
         report["chunks_uploaded"] += chunkCount
         attributes["chunk_count"] = chunkCount
         chunksByArticle[articleId] = chunkCount
-        update_file_attributes(VECTOR_STORE_ID, uploaded["file_id"], attributes)
+        try:
+            update_file_attributes(VECTOR_STORE_ID, uploaded["file_id"], attributes)
+        except Exception as error:
+            print("WARN could not save chunk_count", articleId, error)
 
         for oldFile in oldFiles:
             try:

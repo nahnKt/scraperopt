@@ -85,8 +85,9 @@ def list_files(vectorStoreId: str) -> list[dict]:
     return files
 
 
+# set max_retries to 0 to avoid retries, this api often fails with 500 errors
 def update_file_attributes(vectorStoreId: str, fileId: str, attributes: dict) -> None:
-    client.vector_stores.files.update(
+    client.with_options(max_retries=0).vector_stores.files.update(
         fileId, vector_store_id=vectorStoreId, attributes=attributes
     )
 

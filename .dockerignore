@@ -1,0 +1,7 @@
+.venv/
+.env
+.git/
+.doc/
+__pycache__/
+*.pyc
+articles/
