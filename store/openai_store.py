@@ -96,6 +96,28 @@ def update_store_metadata(vectorStoreId: str, metadata: dict) -> None:
     client.vector_stores.update(vectorStoreId, metadata=metadata)
 
 
+def update_files_chunks_count(vectorStoreId: str) -> None:
+    files = list_files(vectorStoreId)
+    for file in files:
+        attributes = file["attributes"]
+        if "chunk_count" in attributes or "article_id" not in attributes:
+            continue
+        chunksCount = count_chunks(
+            vectorStoreId,
+            attributes["article_id"],
+            attributes["upload_hash"],
+        )
+        try:
+            update_file_attributes(
+                vectorStoreId,
+                file["file_id"],
+                {**attributes, "chunk_count": chunksCount},
+            )
+            print("UPDATED", attributes["article_id"])
+        except Exception as error:
+            print("FAILED", attributes["article_id"], error)
+
+
 if __name__ == "__main__":
     vectorStoreId = os.getenv("VECTOR_STORE_ID", "")
     if vectorStoreId == "":
